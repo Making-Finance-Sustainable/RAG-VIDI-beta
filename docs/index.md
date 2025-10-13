@@ -4,9 +4,8 @@ layout: default
 
 ## Overview
 
-**Provisional title:** AI-Driven Text Analysis in the Political Economy of Sustainability: Hybrid Retrieval-Augmented Generation and LLM Multi-Agent Approach
+This repository contains the beta version of the RAG implementation of the paper (provisional title) "Provisional title: AI-Driven Text Analysis in the Political Economy of Sustainability: Hybrid Retrieval-Augmented Generation and LLM Multi-Agent Approach" by **Bastián González-Bustamante** and **Natascha van der Zwan**.
 
-**Authors:** Bastián González-Bustamante and Natascha van der Zwan
 
 ## Model Selection Benchmark
 
@@ -28,6 +27,14 @@ layout: default
 
 ## Frontrunners Preliminary Results
 
-### OpenAI Pipeline
-
 ### Open-Source Pipeline
+
+- annual_and_sustainability_report_2023.md
+
+### Mixed-Pipeline -- Robustness Check
+
+**In progress**
+
+### Latest Revision
+
+October 13, 2025
