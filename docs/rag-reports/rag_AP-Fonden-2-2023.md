@@ -61,4 +61,4 @@ meta:
 _No adjustments recorded_
 
 <br />
-[Back to the home](https://making-finance-sustainable.github.io/RAG-VIDI-beta/)
+[BACK TO THE HOME](https://making-finance-sustainable.github.io/RAG-VIDI-beta/)
