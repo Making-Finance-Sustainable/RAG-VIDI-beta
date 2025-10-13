@@ -4,7 +4,9 @@ layout: default
 
 ## Overview
 
-This repository contains the beta version of the RAG implementation of the paper (provisional title) "Provisional title: AI-Driven Text Analysis in the Political Economy of Sustainability: Hybrid Retrieval-Augmented Generation and LLM Multi-Agent Approach" by **Bastián González-Bustamante** and **Natascha van der Zwan**.
+This repository contains the beta version of the RAG implementation of the paper (provisional title) "Provisional title: AI-Driven Text Analysis in the Political Economy of Sustainability: Hybrid Retrieval-Augmented Generation and LLM Multi-Agent Approach." 
+
+By **Bastián González-Bustamante** and **Natascha van der Zwan**.
 
 ## Model Selection Benchmark
 
