@@ -1,9 +1,7 @@
 title: VIDI-RAG beta version
 description: Making Finance Sustainable VIDI Project
-show_downloads: true
 google_analytics:
-## theme: jekyll-theme-slate
 
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme 
