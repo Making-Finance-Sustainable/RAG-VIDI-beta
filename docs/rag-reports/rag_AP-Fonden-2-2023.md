@@ -27,6 +27,7 @@ meta:
 **Key terms:** `Sustainability`, `TCFD`, `TNFD`, `Human rights`, `Social conditions`, `Climate change`, `Nature reporting`, `Responsible investment`, `Pension fund`, `Annual report`, `Audit opinion`
 
 ## Presence by Category (final)
+
 | Category | Present | Evidence (≤200 chars each) |
 |---|:---:|---|
 | `sustainable_development` | — |  |
@@ -38,6 +39,7 @@ meta:
 | `conservation_finance` | — |  |
 
 ## Framing & Salience (final)
+
 | Category | Prevalence % | Framing | Evidence (≤200 chars each) |
 |---|---:|---|---|
 | `responsible_investment_esg` | 35 | supportive | and report on how the goal has been achieved, the AP Funds will develop their reporting over the next few years, primarily on the respective websites, in line with the Regulation.; responsible investment and responsible ownership |
