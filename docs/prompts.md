@@ -50,12 +50,11 @@ CLASSIFY_PRESENCE_PROMPT = PromptTemplate(
 ``` python
 REVIEW_PRESENCE_PROMPT = PromptTemplate(
     template=(
-        "You are the senior reviewer for PRESENCE ONLY. Use ONLY the RAG context and the artefacts in the QUESTION block.\n"
+        "You are the senior reviewer. Use ONLY the RAG context and the artefacts in the QUESTION block.\n"
         "Task: check category PRESENCE booleans and attached evidence quotes for faithfulness to the context. "
         "Do not rewrite the summary. Do not invent categories. Enforce keys and quote limits strictly.\n"
         "Ensure:\n"
         "- Keys exactly match the seven categories.\n"
-        "- Booleans reflect concrete evidence in context (conservative).\n"
         "- Evidence quotes (0–2 each) are faithful and ≤200 chars.\n\n"
         "Return STRICT JSON with keys:\n"
         "  - revised_presence\n"
@@ -95,7 +94,7 @@ FRAMING_SALIENCE_PROMPT = PromptTemplate(
 ``` python
 REVIEW_FRAMING_PROMPT = PromptTemplate(
     template=(
-        "You are the senior reviewer for FRAMING & SALIENCE ONLY. Use ONLY the RAG context and the artefacts in the QUESTION block.\n"
+        "You are the senior reviewer. Use ONLY the RAG context and the artefacts in the QUESTION block.\n"
         "Task: check prevalence integers (0–100), framing labels, and evidence quotes for the categories that are PRESENT per the REVIEWED PRESENCE.\n"
         "Do not rewrite the summary. Exclude any category marked not present in the reviewed presence.\n"
         "Ensure:\n"
