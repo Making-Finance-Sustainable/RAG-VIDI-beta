@@ -6,7 +6,6 @@ layout: default
 
 This repository contains the beta version of the RAG implementation of the paper (provisional title) "Provisional title: AI-Driven Text Analysis in the Political Economy of Sustainability: Hybrid Retrieval-Augmented Generation and LLM Multi-Agent Approach" by **Bastián González-Bustamante** and **Natascha van der Zwan**.
 
-
 ## Model Selection Benchmark
 
 <img style="width: 95%; display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/plots/gof_indicators_combined.png">
@@ -19,7 +18,7 @@ This repository contains the beta version of the RAG implementation of the paper
 
 ### Agents Promts
 
-- Summariser agent
+- [Summariser agent](https://making-finance-sustainable.github.io/RAG-VIDI-beta/summariser-prompt)
 - Classifier agent
 - Reviewer agent
 - Framing agent
