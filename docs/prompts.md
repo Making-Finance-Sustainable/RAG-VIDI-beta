@@ -103,7 +103,7 @@ REVIEW_FRAMING_PROMPT = PromptTemplate(
         "Ensure:\n"
         "- Keys cover ONLY present categories.\n"
         "- prevalence_pct are integers 0–100 (conservative if overlapping).\n"
-        "- framing is one of: supportive | critical | neutral/technical | mixed/ambivalent.\n"
+        "- framing: supportive | critical | neutral/technical | mixed/ambivalent.\n"
         "- Evidence quotes (0–2 each) are faithful and ≤200 chars.\n\n"
         "Return STRICT JSON with keys:\n"
         "  - revised_framing_salience\n"
