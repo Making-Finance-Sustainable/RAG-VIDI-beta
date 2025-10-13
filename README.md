@@ -1,7 +1,7 @@
 # RAG-VIDI-beta
 Multi-Agent RAG VIDI Beta
 
-[![Project Status: Concept – Minimal or no implementation has been done yet, or the repository is only intended to be a limited example, demo, or proof-of-concept.](https://raw.githubusercontent.com/Making-Finance-Sustainable/RAG-VIDI-beta/master/badges/concept.svg)](STATUS.md) [![License](https://raw.githubusercontent.com/Making-Finance-Sustainable/RAG-VIDI-beta/main/badges/mit.svg)](LICENSE-MIT.md) [![License](https://raw.githubusercontent.com/Making-Finance-Sustainable/RAG-VIDI-beta/main/badges/cc_by_4_0.svg)](LICENSE-CC.md) 
+[![Project Status: Concept – Minimal or no implementation has been done yet, or the repository is only intended to be a limited example, demo, or proof-of-concept.](https://raw.githubusercontent.com/Making-Finance-Sustainable/RAG-VIDI-beta/master/badges/concept.svg)](STATUS.md) [![License](https://raw.githubusercontent.com/Making-Finance-Sustainable/RAG-VIDI-beta/main/badges/mit.svg)](LICENSE-MIT.md) [![License](https://raw.githubusercontent.com/Making-Finance-Sustainable/RAG-VIDI-beta/main/badges/cc_by_4_0.svg)](LICENSE-CC.md) [![NWO](https://raw.githubusercontent.com/Making-Finance-Sustainable/RAG-VIDI-beta/master/badges/nwo.svg)](https://www.nwo.nl/en)
 
 ## Overview
 
