@@ -32,6 +32,16 @@ This repository contains the beta version of the RAG implementation of the paper
 
 ### Open-Source Pipeline
 
+#### Models
+- Summariser: `llama3.1:70b`
+- Classifier: `gpt-oss:latest`
+- Framing: `gpt-oss:latest`
+- Reviewer (presence): `hermes3:latest`
+- Reviewer (framing): `hermes3:latest`
+- Embeddings: `text-embedding-3-large`
+
+#### Reports
+
 - annual_and_sustainability_report_2023
 - [AP-Fonden-2-2023](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_AP-Fonden-2-2023)
 - ERAPF-Annual-Report-2022
