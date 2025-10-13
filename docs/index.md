@@ -12,7 +12,7 @@ layout: default
 
 <img style="width: 95%; display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/plots/gof_indicators_combined.png">
 
-[Plots per dataset](https://making-finance-sustainable.github.io/RAG-VIDI-beta/becnhmark)
+[See plots per dataset](https://making-finance-sustainable.github.io/RAG-VIDI-beta/benchmark)
 
 ## Multi-Agent RAG Orchestration
 
