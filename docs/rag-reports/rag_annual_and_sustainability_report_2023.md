@@ -1,6 +1,6 @@
 # Analysis for `annual_and_sustainability_report_2023.md`
 
-**Per-document runtime (s):** 455.142
+**Per-document runtime (s):** 383.234
 
 ## Summary
 Here is a concise summary of the document in 200-300 words:
@@ -18,30 +18,32 @@ meta:
 
 ## Presence by Category (final)
 
-| Category | Present | Evidence (≤200 chars each) |
-|---|:---:|---|
-| `sustainable_development` | ✅ |  |
-| `responsible_investment_esg` | ✅ |  |
-| `green_growth` | — |  |
-| `net_zero` | — |  |
-| `decarbonization` | — |  |
-| `transition_finance` | — |  |
-| `conservation_finance` | — |  |
+| Category | Present |
+|---|:---:|
+| `sustainable_development` | ✅ |
+| `responsible_investment_esg` | ✅ |
+| `green_growth` | ✅ |
+| `net_zero` | — |
+| `decarbonization` | — |
+| `transition_finance` | — |
+| `conservation_finance` | — |
 
 ## Framing & Salience (final)
 
-| Category | Prevalence % | Framing | Evidence (≤200 chars each) |
-|---|---:|---|---|
-| `sustainable_development` | 92 | supportive | Since our target is a net zero carbon pension asset investment portfolio by the end of 2035, we strive to contribute to reducing the carbon footprint of our investees. |
-| `responsible_investment_esg` | 8 | supportive | The commitments of investment activities are defined in Responsible investment Policy. |
+| Category | Prevalence % | Framing |
+|---|---:|---|
+| `sustainable_development` | 30 | supportive |
+| `responsible_investment_esg` | 30 | supportive |
+| `green_growth` | 20 | supportive |
 
 ## Reviewer 1 (Presence) — outcomes
 **Consistency score:** 80  
 **Confidence:** medium
 
 ### Adjustment log
-- Added 'sustainable_development' based on context mentioning UN SDGs and chosen goals
-- Added 'responsible_investment_esg' as compliance with norms, active ownership and sustainability in portfolio management are mentioned
+- Added 'sustainable_development' based on 'We take the UN Sustainable Development Goals (SDG) into account in our sustainability programme.'
+- Added 'responsible_investment_esg' based on 'We comply with international norms, we are an active owner and we incorporate sustainability in our portfolio management.'
+- Added 'green_growth' based on 'We chose SDG 8: decent work and economic growth., We chose SDG 13: climate action.'
 
 ## Reviewer 2 (Framing & Salience) — outcomes
 **Consistency score:** 100  
@@ -50,4 +52,5 @@ meta:
 ### Adjustment log
 _No adjustments recorded_
 
+<br />
 [Back to the home](https://making-finance-sustainable.github.io/RAG-VIDI-beta/)
