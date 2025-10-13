@@ -16,7 +16,7 @@ By **Bastián González-Bustamante** and **Natascha van der Zwan**.
 
 ## Multi-Agent RAG Orchestration
 
-**We need to reinforce PDF parsing with OCR.**
+**Note. We need to reinforce PDF parsing with OCR.**
 
 <img style="width: 95%; display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/plots/pipeline_diagram.png">
 
@@ -35,13 +35,15 @@ By **Bastián González-Bustamante** and **Natascha van der Zwan**.
 - Reviewer (framing): `hermes3:latest`
 - Embeddings: `text-embedding-3-large`
 
+**Note. Test by swapping GPT-OSS by Hermes 3.**
+
 #### Reports
 
 1. [annual_and_sustainability_report_2023](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_annual_and_sustainability_report_2023)  
 2. [AP-Fonden-2-2023](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_AP-Fonden-2-2023)
 3. [ERAPF-Annual-Report-2022](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_ERAPF-Annual-Report-2022)
 4. [NEST-Annual-Report-2023](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_NEST-Annual-Report-2023)
-5. New-Zealand-Superannuation-Annual-Report-2023 **(it needs OCR)**
+5. New-Zealand-Superannuation-Annual-Report-2023
 6. Pensioenfonds-Detailhandel-Annual-Report-2023
 7. PGGM-Annual-Report-2023
 8. PSPIB-Annual-Report-2023
