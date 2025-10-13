@@ -16,13 +16,17 @@ This repository contains the beta version of the RAG implementation of the paper
 
 ### Current Pipeline
 
+**Update in progress**
+
 ### Agents Promts
 
-- [Summariser agent](https://making-finance-sustainable.github.io/RAG-VIDI-beta/summariser-prompt)
+- Summariser agent
 - Classifier agent
 - Reviewer agent
 - Framing agent
 - Reviewer agent
+
+[See agents prompts](https://making-finance-sustainable.github.io/RAG-VIDI-beta/prompts)
 
 ## Frontrunners Preliminary Results
 
