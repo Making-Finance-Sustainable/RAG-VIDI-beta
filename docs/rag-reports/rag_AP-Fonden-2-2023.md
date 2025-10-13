@@ -60,3 +60,5 @@ meta:
 
 ### Adjustment log
 _No adjustments recorded_
+
+[Back to the home](https://making-finance-sustainable.github.io/RAG-VIDI-beta/)
