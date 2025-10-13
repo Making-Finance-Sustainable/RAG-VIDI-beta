@@ -16,6 +16,8 @@ By **Bastián González-Bustamante** and **Natascha van der Zwan**.
 
 ## Multi-Agent RAG Orchestration
 
+**We need to reinforce PDF parsing with OCR.**
+
 <img style="width: 95%; display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/plots/pipeline_diagram.png">
 
 [See agents prompts](https://making-finance-sustainable.github.io/RAG-VIDI-beta/prompts)
@@ -35,16 +37,16 @@ By **Bastián González-Bustamante** and **Natascha van der Zwan**.
 
 #### Reports
 
-- [annual_and_sustainability_report_2023](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_annual_and_sustainability_report_2023)  
-- [AP-Fonden-2-2023](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_AP-Fonden-2-2023)
-- [ERAPF-Annual-Report-2022](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_ERAPF-Annual-Report-2022)
-- [NEST-Annual-Report-2023](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_NEST-Annual-Report-2023)
-- New-Zealand-Superannuation-Annual-Report-2023
-- Pensioenfonds-Detailhandel-Annual-Report-2023
-- PGGM-Annual-Report-2023
-- PSPIB-Annual-Report-2023
-- Uni-Super-Fund-Annual-Report-2023
-- USS-Report-and-Accounts-2023
+1. [annual_and_sustainability_report_2023](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_annual_and_sustainability_report_2023)  
+2. [AP-Fonden-2-2023](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_AP-Fonden-2-2023)
+3. [ERAPF-Annual-Report-2022](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_ERAPF-Annual-Report-2022)
+4. [NEST-Annual-Report-2023](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_NEST-Annual-Report-2023)
+5. New-Zealand-Superannuation-Annual-Report-2023 **(it needs OCR)**
+6. Pensioenfonds-Detailhandel-Annual-Report-2023
+7. PGGM-Annual-Report-2023
+8. PSPIB-Annual-Report-2023
+9. Uni-Super-Fund-Annual-Report-2023
+10. USS-Report-and-Accounts-2023
 
 ### Mixed-Pipeline -- Robustness Check
 
