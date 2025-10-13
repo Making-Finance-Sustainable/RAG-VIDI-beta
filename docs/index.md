@@ -1,2 +1,5 @@
-# RAG-VIDI beta version
+---
+layout: default
+---
 
+# RAG-VIDI beta version
