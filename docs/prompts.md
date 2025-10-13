@@ -25,9 +25,7 @@ SUMMARY_PROMPT = PromptTemplate(
 CLASSIFY_PRESENCE_PROMPT = PromptTemplate(
     template=(
         "You are a taxonomy specialist. Use **ONLY** the context below.\n"
-        "Decide if each category is PRESENT (True/False). "
-        "PRESENT needs at least one concrete reference (action, target, metric, policy, or explicit statement). "
-        "Be conservative.\n\n"
+        "Decide if each category is PRESENT (True/False).\n\n"
         "Categories:\n"
         "1. Sustainable development: Investment in sustainable development, including references to the United Nations Sustainable Development Goals (SDGs).\n"
         "2. Responsible investment/ESG: Financial activities that emphasise the consideration of environmental, social and governance factors (ESG) and that may include references to active ownership, ESG integration or risk analysis. May also refer to the Principles of Responsible Investment (PRI).\n"
@@ -82,7 +80,7 @@ FRAMING_SALIENCE_PROMPT = PromptTemplate(
         "For each PRESENT category, return an object with:\n"
         "  - prevalence_pct: integer 0–100 (share of sentences substantially about that category)\n"
         "  - framing: supportive | critical | neutral/technical | mixed/ambivalent\n"
-        "  - evidence:  up to two short quotes (≤200 chars)\n"
+        "  - evidence: up to two short quotes (≤200 chars)\n"
         "Exclude categories that are not present.\n\n"
         "=== QUESTION (contains presence_json and summary_meta_json) ===\n{question}\n=== END QUESTION ===\n\n"
         "=== CONTEXT ===\n{context}\n\n"
