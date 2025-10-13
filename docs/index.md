@@ -18,7 +18,7 @@ By **Bastián González-Bustamante** and **Natascha van der Zwan**.
 
 ### Current Pipeline
 
-<img style="width: 95%; display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/plots/pipeline_diagram.png">
+<img style="width: 95%; display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/plots/pipeline_diagram.jpg">
 
 [See agents prompts](https://making-finance-sustainable.github.io/RAG-VIDI-beta/prompts)
 
