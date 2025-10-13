@@ -16,7 +16,7 @@ This repository contains the beta version of the RAG implementation of the paper
 
 ### Current Pipeline
 
-**Update in progress**
+**UPDATE IN PROGRESS**
 
 ### Agents Promts
 
@@ -33,16 +33,17 @@ This repository contains the beta version of the RAG implementation of the paper
 ### Open-Source Pipeline
 
 #### Models
+
 - Summariser: `llama3.1:70b`
 - Classifier: `gpt-oss:latest`
-- Framing: `gpt-oss:latest`
 - Reviewer (presence): `hermes3:latest`
+- Framing: `gpt-oss:latest`
 - Reviewer (framing): `hermes3:latest`
 - Embeddings: `text-embedding-3-large`
 
 #### Reports
 
-- annual_and_sustainability_report_2023
+- [annual_and_sustainability_report_2023](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_annual_and_sustainability_report_2023)  
 - [AP-Fonden-2-2023](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_AP-Fonden-2-2023)
 - ERAPF-Annual-Report-2022
 - NEST-Annual-Report-2023
@@ -55,7 +56,18 @@ This repository contains the beta version of the RAG implementation of the paper
 
 ### Mixed-Pipeline -- Robustness Check
 
-**In progress**
+#### Models
+
+- Summariser: `gpt-5-mini-2025-08-07`
+- Classifier: `gpt-oss:latest`
+- Reviewer (presence): `gpt-5-2025-08-07`
+- Framing: `gpt-oss:latest`
+- Reviewer (framing): `gpt-5-2025-08-07`
+- Embeddings: `text-embedding-3-large`
+
+#### Reports
+
+**IN PROGRESS**
 
 ### Latest Revision
 
