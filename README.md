@@ -1,2 +1,2 @@
 # RAG-VIDI-beta
-RAG-Orchestration VIDI Project (Beta)
+Multi-Agent RAG VIDI Beta
