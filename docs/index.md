@@ -29,7 +29,9 @@ This repository contains the beta version of the RAG implementation of the paper
 
 ### Open-Source Pipeline
 
-- annual_and_sustainability_report_2023.md
+- annual_and_sustainability_report_2023
+- AP-Fonden-2-2023
+- ERAPF-Annual-Report-2022
 
 ### Mixed-Pipeline -- Robustness Check
 
