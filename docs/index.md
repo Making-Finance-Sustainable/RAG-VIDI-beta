@@ -4,7 +4,8 @@ layout: default
 
 ## Overview
 
-**Provisional title:** AI-Driven Text Analysis in the Political Economy of Sustainability: Hybrid Retrieval-Augmented Generation and LLM Multi-Agent Approach \
+**Provisional title:** AI-Driven Text Analysis in the Political Economy of Sustainability: Hybrid Retrieval-Augmented Generation and LLM Multi-Agent Approach
+
 **Authors:** Bastián González-Bustamante and Natascha van der Zwan
 
 ## Model Selection Benchmark
