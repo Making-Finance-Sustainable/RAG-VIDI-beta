@@ -1,6 +1,6 @@
 # Analysis for `AP-Fonden-2-2023.md`
 
-**Per-document runtime (s):** 358.099
+**Per-document runtime (s):** 497.901
 
 ## Summary
 The document is the annual report of Andra AP-fonden, a Swedish pension fund. The report provides an overview of the fund's mission, organization, investments, sustainability efforts, and financial performance for 2023. The report also includes detailed information on the fund's work on human rights and social conditions, as well as its climate and nature reporting according to the TCFD and TNFD frameworks.
@@ -28,31 +28,30 @@ meta:
 
 ## Presence by Category (final)
 
-| Category | Present | Evidence (≤200 chars each) |
-|---|:---:|---|
-| `sustainable_development` | — |  |
-| `responsible_investment_esg` | ✅ |  |
-| `green_growth` | — |  |
-| `net_zero` | ✅ |  |
-| `decarbonization` | ✅ |  |
-| `transition_finance` | — |  |
-| `conservation_finance` | — |  |
+| Category | Present |
+|---|:---:|
+| `sustainable_development` | ✅ |
+| `responsible_investment_esg` | ✅ |
+| `green_growth` | — |
+| `net_zero` | — |
+| `decarbonization` | — |
+| `transition_finance` | — |
+| `conservation_finance` | — |
 
 ## Framing & Salience (final)
 
-| Category | Prevalence % | Framing | Evidence (≤200 chars each) |
-|---|---:|---|---|
-| `responsible_investment_esg` | 35 | supportive | and report on how the goal has been achieved, the AP Funds will develop their reporting over the next few years, primarily on the respective websites, in line with the Regulation.; responsible investment and responsible ownership |
-| `net_zero` | 5 | neutral/technical | The Fund advocates standardisation of reporting and transparency around climate and nature-related risks and opportunities. |
-| `decarbonization` | 20 | supportive | CARBON FOOTPRINT OF THE LISTED EQUITY PORTFOLIO, SCOPE 1, 2 AND 3; Metrics 2023 2022 2021 |
+| Category | Prevalence % | Framing |
+|---|---:|---|
+| `sustainable_development` | 20 | supportive |
+| `responsible_investment_esg` | 17 | supportive |
 
 ## Reviewer 1 (Presence) — outcomes
 **Consistency score:** 80  
 **Confidence:** medium
 
 ### Adjustment log
-- Added 'responsible_investment_esg' based on mention of ESG and engagement in deforestation action.
-- Added 'net_zero' and 'decarbonization' based on carbon footprint data for equity and fixed-income securities.
+- Changed sustainable_development to true based on evidence of focus areas and materiality assessment.
+- Removed green_growth, net_zero, decarbonization, transition_finance, conservation_finance as they do not match the context.
 
 ## Reviewer 2 (Framing & Salience) — outcomes
 **Consistency score:** 100  
@@ -61,4 +60,5 @@ meta:
 ### Adjustment log
 _No adjustments recorded_
 
+<br />
 [Back to the home](https://making-finance-sustainable.github.io/RAG-VIDI-beta/)
