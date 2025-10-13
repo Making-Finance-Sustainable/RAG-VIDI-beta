@@ -33,8 +33,15 @@ This repository contains the beta version of the RAG implementation of the paper
 ### Open-Source Pipeline
 
 - annual_and_sustainability_report_2023
-- AP-Fonden-2-2023
+- [AP-Fonden-2-2023](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_AP-Fonden-2-2023)
 - ERAPF-Annual-Report-2022
+- NEST-Annual-Report-2023
+- New-Zealand-Superannuation-Annual-Report-2023
+- Pensioenfonds-Detailhandel-Annual-Report-2023
+- PGGM-Annual-Report-2023
+- PSPIB-Annual-Report-2023
+- Uni-Super-Fund-Annual-Report-2023
+- USS-Report-and-Accounts-2023
 
 ### Mixed-Pipeline -- Robustness Check
 
