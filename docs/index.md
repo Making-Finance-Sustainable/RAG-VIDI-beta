@@ -18,15 +18,7 @@ By **Bastián González-Bustamante** and **Natascha van der Zwan**.
 
 ### Current Pipeline
 
-**UPDATE IN PROGRESS**
-
-### Agents Promts
-
-- Summariser agent
-- Classifier agent
-- Reviewer agent
-- Framing agent
-- Reviewer agent
+<img style="width: 95%; display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/plots/pipeline_diagram.png">
 
 [See agents prompts](https://making-finance-sustainable.github.io/RAG-VIDI-beta/prompts)
 
