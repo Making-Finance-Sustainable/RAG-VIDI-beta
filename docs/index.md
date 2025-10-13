@@ -16,9 +16,7 @@ By **Bastián González-Bustamante** and **Natascha van der Zwan**.
 
 ## Multi-Agent RAG Orchestration
 
-### Current Pipeline
-
-<img style="width: 95%; display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/plots/pipeline_diagram.jpg">
+<img style="width: 95%; display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/plots/pipeline_diagram.png">
 
 [See agents prompts](https://making-finance-sustainable.github.io/RAG-VIDI-beta/prompts)
 
