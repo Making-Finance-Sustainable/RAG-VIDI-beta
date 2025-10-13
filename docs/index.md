@@ -37,8 +37,8 @@ By **Bastián González-Bustamante** and **Natascha van der Zwan**.
 
 - [annual_and_sustainability_report_2023](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_annual_and_sustainability_report_2023)  
 - [AP-Fonden-2-2023](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_AP-Fonden-2-2023)
-- ERAPF-Annual-Report-2022
-- NEST-Annual-Report-2023
+- [ERAPF-Annual-Report-2022](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_ERAPF-Annual-Report-2022)
+- [NEST-Annual-Report-2023](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_NEST-Annual-Report-2023)
 - New-Zealand-Superannuation-Annual-Report-2023
 - Pensioenfonds-Detailhandel-Annual-Report-2023
 - PGGM-Annual-Report-2023
