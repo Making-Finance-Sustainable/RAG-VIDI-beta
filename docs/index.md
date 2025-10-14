@@ -48,7 +48,7 @@ We will introduce human-in-the-loop revision based on consistency metrics betwee
 3. [ERAPF-Annual-Report-2022](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_ERAPF-Annual-Report-2022)
 4. [NEST-Annual-Report-2023](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_NEST-Annual-Report-2023)
 5. [New-Zealand-Superannuation-Annual-Report-2023](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_New-Zealand-Superannuation-Annual-Report-2023)
-6. Pensioenfonds-Detailhandel-Annual-Report-2023
+6. [Pensioenfonds-Detailhandel-Annual-Report-2023](https://making-finance-sustainable.github.io/RAG-VIDI-beta/wip)
 7. PGGM-Annual-Report-2023
 8. PSPIB-Annual-Report-2023
 9. Uni-Super-Fund-Annual-Report-2023
@@ -70,4 +70,4 @@ We will introduce human-in-the-loop revision based on consistency metrics betwee
 > **Note.** Work in progress.
 
 <br />
-**Latest update:** October 14, 2025
+**Latest update:** October 14, 2025.
