@@ -22,6 +22,7 @@ meta:
 **Key terms:** `pension fund`, `Dutch Civil Code`, `ESG`, `climate impact`, `energy transition`, `cost-effective pension administration`, `comprehensible pension`, `attractive employment`, `vitality in health and welfare`
 
 ## Presence by Category (final)
+
 | Category | Present |
 |---|:---:|
 | `sustainable_development` | ✅ |
@@ -33,6 +34,7 @@ meta:
 | `conservation_finance` | — |
 
 ## Framing & Salience (final)
+
 | Category | Prevalence % | Framing |
 |---|---:|---|
 | `sustainable_development` | 20 | supportive |
@@ -52,3 +54,6 @@ meta:
 
 ### Adjustment log
 _No adjustments recorded_
+
+<br />
+[BACK TO THE HOME](https://making-finance-sustainable.github.io/RAG-VIDI-beta/)
