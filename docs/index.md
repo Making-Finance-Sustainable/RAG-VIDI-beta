@@ -22,6 +22,8 @@ By **Bastián González-Bustamante** and **Natascha van der Zwan**.
 
 [SEE UPDATED PROMPTS](https://making-finance-sustainable.github.io/RAG-VIDI-beta/prompts)
 
+> **Note.** Some extra changes could be incorporated in the prompts, especially in the framing and prevalence, which do not seem too accurate for the moment.
+
 ## Frontrunners Preliminary Results
 
 ### Open-Source Pipeline
