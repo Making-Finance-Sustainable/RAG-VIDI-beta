@@ -63,8 +63,7 @@ By **Bastián González-Bustamante** and **Natascha van der Zwan**.
 
 #### Reports
 
-**IN PROGRESS**
+> **Note.** Work in progress.
 
-### Latest Revision
-
-October 14, 2025
+<br />
+**Latest update:** October 14, 2025
