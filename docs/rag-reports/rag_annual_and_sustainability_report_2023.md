@@ -1,11 +1,11 @@
 # Analysis for `annual_and_sustainability_report_2023.md`
 
-**Per-document runtime (s):** 383.234
+**Per-document runtime (s):** 480.04
 
 ## Summary
 Here is a concise summary of the document in 200-300 words:
 
-The document describes the procedures performed by Ernst & Young (EY) in a limited assurance engagement for Ilmarinen's sustainability reporting. The engagement aimed to provide a conclusion on whether the subject matter was presented in accordance with the criteria, but did not provide reasonable assurance due to its limited scope. EY's procedures included updating their knowledge of Ilmarinen's material sustainability topics, conducting interviews with personnel responsible for gathering and consolidating data, assessing the subject matter from internal and external sources, and checking data on a sample basis.
+The document describes the procedures performed by Ernst & Young (EY) in a limited assurance engagement for Ilmarinen's sustainability reporting. The engagement aimed to provide a conclusion on whether the subject matter was presented in accordance with the criteria, but did not provide reasonable assurance due to its limited scope. EY's procedures included updating their knowledge of Ilmarinen's material sustainability topics, interviewing personnel responsible for gathering and consolidating data, assessing the subject matter from internal and external sources, and checking data on a sample basis.
 
 The document also mentions that Ilmarinen plans to prepare a Human Rights Impact Assessment in 2023. Additionally, it describes EY's bottom-up approach to quantifying historical and forward-looking climate-related risks for listed securities, which involves analyzing carbon footprint data and normalizing it using financial indicators.
 
@@ -22,9 +22,9 @@ meta:
 |---|:---:|
 | `sustainable_development` | ✅ |
 | `responsible_investment_esg` | ✅ |
-| `green_growth` | ✅ |
-| `net_zero` | — |
-| `decarbonization` | — |
+| `green_growth` | — |
+| `net_zero` | ✅ |
+| `decarbonization` | ✅ |
 | `transition_finance` | — |
 | `conservation_finance` | — |
 
@@ -32,18 +32,18 @@ meta:
 
 | Category | Prevalence % | Framing |
 |---|---:|---|
-| `sustainable_development` | 30 | supportive |
-| `responsible_investment_esg` | 30 | supportive |
-| `green_growth` | 20 | supportive |
+| `sustainable_development` | 100 | positive |
+| `responsible_investment_esg` | 8 | positive |
+| `net_zero` | 12 | positive |
+| `decarbonization` | 56 | positive |
 
 ## Reviewer 1 (Presence) — outcomes
-**Consistency score:** 80  
-**Confidence:** medium
+**Consistency score:** 90  
+**Confidence:** high
 
 ### Adjustment log
-- Added 'sustainable_development' based on 'We take the UN Sustainable Development Goals (SDG) into account in our sustainability programme.'
-- Added 'responsible_investment_esg' based on 'We comply with international norms, we are an active owner and we incorporate sustainability in our portfolio management.'
-- Added 'green_growth' based on 'We chose SDG 8: decent work and economic growth., We chose SDG 13: climate action.'
+- Added 'sustainable_development' based on quote: 'We take the UN Sustainable Development Goals (SDG) into account in our sustainability programme.'
+- Added 'net_zero', 'decarbonization' based on quote: 'Our goal is to achieve a carbon-neutral investment portfolio by the end of 2035.'
 
 ## Reviewer 2 (Framing & Salience) — outcomes
 **Consistency score:** 100  
