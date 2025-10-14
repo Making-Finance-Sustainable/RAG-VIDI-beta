@@ -26,6 +26,10 @@ By **Bastián González-Bustamante** and **Natascha van der Zwan**.
 
 ### Open-Source Pipeline
 
+The selection of models was based on the benchmark above. We are using a fully open-source pipeline in which Llama 3.1 (70B) prepare the summary, GPT-OSS (20B) makes the decisions and Hermes 3 (70B) reviews and overturns with RAG-fed evidence. For robustness checks, we will rely on a mixed pipeline in which Llama 3.1 will be replaced by GPT-5-mini and Hermes 3 by GPT-5, both state-of-the-art closed, flagship OpenAI models.
+
+We will introduce human-in-the-loop revision based on consistency metrics between both pipelines.
+
 #### Models
 
 - Summariser: `llama3.1:70b`
@@ -50,7 +54,7 @@ By **Bastián González-Bustamante** and **Natascha van der Zwan**.
 9. Uni-Super-Fund-Annual-Report-2023
 10. USS-Report-and-Accounts-2023
 
-### Mixed-Pipeline -- Robustness Check
+### Mixed-Pipeline
 
 #### Models
 
