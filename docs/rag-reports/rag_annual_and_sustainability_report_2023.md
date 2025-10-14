@@ -32,10 +32,10 @@ meta:
 
 | Category | Prevalence % | Framing |
 |---|---:|---|
-| `sustainable_development` | 100 | positive |
-| `responsible_investment_esg` | 8 | positive |
-| `net_zero` | 12 | positive |
-| `decarbonization` | 56 | positive |
+| `sustainable_development` | 100 | supportive |
+| `responsible_investment_esg` | 8 | supportive |
+| `net_zero` | 12 | supportive |
+| `decarbonization` | 56 | supportive |
 
 ## Reviewer 1 (Presence) — outcomes
 **Consistency score:** 90  
