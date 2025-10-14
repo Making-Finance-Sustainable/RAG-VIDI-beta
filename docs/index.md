@@ -20,7 +20,7 @@ By **Bastián González-Bustamante** and **Natascha van der Zwan**.
 
 <img style="width: 95%; display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/plots/pipeline_diagram.png">
 
-[SEE AGENTS PROMPTS](https://making-finance-sustainable.github.io/RAG-VIDI-beta/prompts)
+[SEE UPDATED PROMPTS](https://making-finance-sustainable.github.io/RAG-VIDI-beta/prompts)
 
 ## Frontrunners Preliminary Results
 
@@ -40,10 +40,10 @@ By **Bastián González-Bustamante** and **Natascha van der Zwan**.
 #### Reports
 
 1. [annual_and_sustainability_report_2023](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_annual_and_sustainability_report_2023)  
-2. [AP-Fonden-2-2023](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_AP-Fonden-2-2023)
-3. [ERAPF-Annual-Report-2022](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_ERAPF-Annual-Report-2022)
-4. [NEST-Annual-Report-2023](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_NEST-Annual-Report-2023)
-5. New-Zealand-Superannuation-Annual-Report-2023
+2. [AP-Fonden-2-2023](https://making-finance-sustainable.github.io/RAG-VIDI-beta/wip)
+3. [ERAPF-Annual-Report-2022](https://making-finance-sustainable.github.io/RAG-VIDI-beta/wip)
+4. [NEST-Annual-Report-2023](https://making-finance-sustainable.github.io/RAG-VIDI-beta/wip)
+5. [New-Zealand-Superannuation-Annual-Report-2023](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_New-Zealand-Superannuation-Annual-Report-2023)
 6. Pensioenfonds-Detailhandel-Annual-Report-2023
 7. PGGM-Annual-Report-2023
 8. PSPIB-Annual-Report-2023
@@ -67,4 +67,4 @@ By **Bastián González-Bustamante** and **Natascha van der Zwan**.
 
 ### Latest Revision
 
-October 13, 2025
+October 14, 2025
