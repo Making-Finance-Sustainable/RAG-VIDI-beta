@@ -1,6 +1,6 @@
 ## Captioning Benchmark
 
-### Overview Norges Bank (XX pages)
+### Norges Bank Report (132 pages)
 
 | Parsing   | Captioning             | Accelerator | Tokens  | Seconds | 
 |:----------|:-----------------------|:------------|:--------|:--------|
@@ -73,6 +73,40 @@
 > A close-up captures a tender moment as an adult's hand gently holds a baby's tiny fingers, emphasizing connection and care. The baby, wrapped in a soft, textured white blanket, sleeps peacefully with eyes closed. A bold diagonal navy blue stripe cuts across the upper right corner, adding a modern graphic contrast to the warm, intimate scene.
 
 <img style="width: 95%; display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/images/Norges-Bank-04.jpg">
+
+#### SmolVLM (256M)
+
+#### Granite Docling (258M)
+
+> Market value
+> 
+> 15,765 billion kroner
+> 
+> In this image we can see a chart, in this chart we can see some numbers and some text.
+
+#### SmolVLM (1.7B)
+
+> Market value
+>
+> 15,765 billion kroner
+>
+> Blue bar graph with years 2013 to 2023.
+
+#### Qwen 3 (2B)
+
+> Market value
+>
+> 15,765 billion kroner
+>
+> This bar chart illustrates a steady and significant increase in a value from 2013 to 2023. The data shows a progression from 5,038 in 2013 to 15,765 in 2023, with the most recent year's value being the highest. The growth is consistent, with each year's bar being taller than the previous one, indicating a positive trend.
+
+#### Qwen 3 (4B)
+
+> Market value
+>
+> 15,765 billion kroner
+>
+> The bar chart displays annual values from 2013 to 2023, with the most recent year, 2023, highlighted in bright blue and showing the highest value at 15,765. The values generally show a steady increase over the decade, with a notable jump in 2023, rising from 12,429 in 2022. The data starts at 5,038 in 2013 and includes a slight dip in 2017 (488) before resuming growth.
 
 <br />
 [BACK TO THE HOME](https://making-finance-sustainable.github.io/RAG-VIDI-beta/)
