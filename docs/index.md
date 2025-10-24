@@ -8,6 +8,14 @@ This repository contains the beta version of the RAG implementation of the paper
 
 By **Bastián González-Bustamante** and **Natascha van der Zwan**.
 
+## Document Parsing
+
+We experimented with a number of PDF parsing methods, including Pdftools, Pdfplumber, PyMuPDF, Pdfminer, Apache Tika, and Docling. Docling was selected due to its superior performance, consistently balancing precision, comprehensiveness and structural accuracy. However, it is necessary to revisit the picture processing step.
+
+This step allows us to annotate different pictures that appear in the reports as a separate captioning task. We are running additional experiments to reinforce this task using Visual Large Models (VLMs) since this involves considerable trade-offs between performance and computing time.
+
+[SEE AN EXAMPLE OF NORGES BANK](https://making-finance-sustainable.github.io/RAG-VIDI-beta/captioning)
+
 ## Model Selection Benchmark
 
 <img style="width: 95%; display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/plots/gof_indicators_combined.png">
@@ -72,4 +80,4 @@ We will introduce human-in-the-loop revision based on consistency metrics betwee
 > **Note.** Work in progress.
 
 <br />
-**Latest update:** October 14, 2025.
+**Latest update:** October 24, 2025.
