@@ -6,11 +6,11 @@
 |:----------|:-----------------------|:------------|:--------|:--------|
 | Docling   |                        | CPU         | 26,161  | 317     |
 | Docling   |                        | GPU         | 26,160  | 96      |
-| Docling   | SmolVLM (256M)         | GPU         | 28,285  | 250     |
-| Docling   | Granite Docling (258M) | GPU         | 27,576  | 641     |
-| Docling   | SmolVLM (1.7B)         | GPU         | 28,361  | 1,192   |
-| Docling   | Qwen 3 (2B)            | GPU         | 28,427  | 621     |
-| Docling   | Qwen 3 (4B)            | GPU         | 28,883  | 718     |
+| Docling   | SmolVLM (256M)         | GPU         | 28,285  | 257     |
+| Docling   | Granite Docling (258M) | GPU         | 27,576  | 479     |
+| Docling   | SmolVLM (1.7B)         | GPU         | 28,361  | 204     |
+| Docling   | Qwen 3 (2B)            | GPU         | 28,427  | 247     |
+| Docling   | Qwen 3 (4B)            | GPU         | 28,883  | 312     |
 
 ### Captioning Examples
 
@@ -76,6 +76,12 @@
 
 #### SmolVLM (256M)
 
+> Market value
+> 
+> 15,765 billion kroner
+> 
+> The image is a line graph titled "2023." The graph is segmented into three distinct years, each represented by a different color: blue, gray, and dark blue. The years are labeled with numbers, starting from 2013 and ending in 2023.
+
 #### Granite Docling (258M)
 
 > Market value
@@ -106,7 +112,7 @@
 >
 > 15,765 billion kroner
 >
-> The bar chart displays annual values from 2013 to 2023, with the most recent year, 2023, highlighted in bright blue and showing the highest value at 15,765. The values generally show a steady increase over the decade, with a notable jump in 2023, rising from 12,429 in 2022. The data starts at 5,038 in 2013 and includes a slight dip in 2017 (488) before resuming growth.
+> The bar chart displays annual values from 2013 to 2023, showing a generally upward trend with a sharp increase in 2023. Most years show steady growth, with values rising from 5,038 in 2013 to 15,765 in 2023. The bar for 2023 is highlighted in bright blue, indicating it is the highest value in the period, reaching 15,765.
 
 <br />
 [BACK TO THE HOME](https://making-finance-sustainable.github.io/RAG-VIDI-beta/)
