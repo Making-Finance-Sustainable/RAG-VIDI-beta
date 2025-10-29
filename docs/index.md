@@ -18,9 +18,9 @@ This step allows us to annotate different pictures that appear in the reports as
 
 > **Note.** We are reinforcing PDF parsing with VLMs.
 
-<img style="width: 100%; display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/smolvlm_01.svg">
+<img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/smolvlm_01.svg">
 
-<img style="width: 100%; display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/qwen3_23.svg">
+<img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/qwen3_23.svg">
 
 ## Model Selection Benchmark
 
