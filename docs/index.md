@@ -16,6 +16,12 @@ This step allows us to annotate different pictures that appear in the reports as
 
 [SEE AN EXAMPLE OF NORGES BANK](https://making-finance-sustainable.github.io/RAG-VIDI-beta/captioning)
 
+> **Note.** We are reinforcing PDF parsing with VLMs.
+
+<img style="width: 100%; display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/smolvlm_01.svg">
+
+<img style="width: 100%; display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/qwen3_23.svg">
+
 ## Model Selection Benchmark
 
 <img style="width: 95%; display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/plots/gof_indicators_combined.png">
@@ -23,8 +29,6 @@ This step allows us to annotate different pictures that appear in the reports as
 [SEE PLOTS PER DATASET](https://making-finance-sustainable.github.io/RAG-VIDI-beta/benchmark)
 
 ## Multi-Agent RAG Orchestration
-
-> **Note.** We need to reinforce PDF parsing with OCR.
 
 <img style="width: 95%; display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/plots/pipeline_diagram.png">
 
@@ -80,4 +84,4 @@ We will introduce human-in-the-loop revision based on consistency metrics betwee
 > **Note.** Work in progress.
 
 <br />
-**Latest update:** October 24, 2025.
+**Latest update:** October 29, 2025.
