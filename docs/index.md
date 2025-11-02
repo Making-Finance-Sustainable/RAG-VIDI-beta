@@ -20,7 +20,7 @@ This step allows us to annotate different pictures that appear in the reports as
 
 ### VLMs Captioning Progress
 
-| <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/smolvlm_01.svg"> | <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/qwen3_45.svg"> |
+| <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/smolvlm_01.svg"> | <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/qwen3_54.svg"> |
 
 ## Model Selection Benchmark
 
@@ -84,4 +84,4 @@ We will introduce human-in-the-loop revision based on consistency metrics betwee
 > **Note.** Work in progress.
 
 <br />
-**Latest update:** October 31, 2025.
+**Latest update:** November 3, 2025.
