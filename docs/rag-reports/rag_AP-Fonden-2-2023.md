@@ -1,63 +1,70 @@
 # Analysis for `AP-Fonden-2-2023.md`
 
-**Per-document runtime (s):** 388.148
+**Per-document runtime (s):** 408.046
 
 ## Summary
-The document is the annual report of Andra AP-fonden, a Swedish pension fund. The report provides an overview of the fund's mission, organization, investments, sustainability efforts, and financial performance for 2023. The report also includes detailed information on the fund's work on human rights and social conditions, as well as its climate and nature report according to the Task Force on Climate-related Financial Disclosures (TCFD) and the Taskforce on Nature-related Financial Disclosures (TNFD) frameworks.
-
-The report highlights the fund's commitment to sustainability and responsible investment practices. The fund has established policies governing human rights, corporate governance, and sustainability, which are available on its website. The report also includes a summary of the fund's work on diversity, equity, and inclusion.
-
-The financial statements and notes provide information on the fund's net result for the year, portfolio return, and relative performance of the listed portfolio. The report is accompanied by an auditor's opinion, which states that the Sustainability Report has been prepared in accordance with the relevant standards.
+The document appears to be an annual report for a Swedish pension fund, Andra AP-fonden. The report provides an overview of the fund's mission, organization, investments, sustainability efforts, and financial performance.
 
 Key metrics and targets mentioned in the report include:
 
-* Net result for the year: SEK 48 billion
-* Portfolio return: 10.3%
-* Relative performance of the listed portfolio: -0.4%
+* Net result for the year (page 33)
+* Portfolio return (page 36)
+* Relative performance of the listed portfolio (page 38)
+* Performance of alternative investments (page 40)
+* Internal governance and control (page 42)
+* Portfolio risk (page 45)
+* Currency exposure (page 45)
+* Costs (page 45)
 
-Actions taken by the fund to address sustainability issues include:
+The report also highlights the fund's sustainability efforts, including its human rights policy, corporate governance policy, and sustainability policy. The fund has set targets for reducing greenhouse gas emissions and has implemented various control activities to manage risks.
 
-* Establishing policies governing human rights, corporate governance, and sustainability
-* Conducting a climate and nature report according to TCFD and TNFD frameworks
-* Providing detailed information on its work on human rights and social conditions
+Actions mentioned in the report include:
+
+* Evaluating the overall presentation, structure, and content of the annual report
+* Conducting regular and separate evaluations of internal controls
+* Identifying, evaluating, and communicating non-conformances
 
 meta:
 
-**Estimated sentence count:** 150  
-**Key terms:** `sustainability`, `TCFD`, `TNFD`, `human rights`, `social conditions`, `climate change`, `nature report`, `responsible investment`, `corporate governance`, `diversity, equity and inclusion`
+**Estimated sentence count:** 2008  
+**Key terms:** `Sustainable Finance Disclosure Regulation`, `Annual Report`, `Fund Governance`, `Human Rights`, `Social Conditions`, `Sustainability Data`, `Signatures and Statement`, `Directors' Report`, `Financial Statements and Notes`
 
 ## Presence by Category (final)
 
 | Category | Present |
 |---|:---:|
-| `sustainable_development` | — |
+| `sustainable_development` | ✅ |
 | `responsible_investment_esg` | ✅ |
 | `green_growth` | — |
-| `net_zero` | — |
-| `decarbonization` | — |
+| `net_zero` | ✅ |
+| `decarbonization` | ✅ |
 | `transition_finance` | — |
-| `conservation_finance` | — |
+| `conservation_finance` | ✅ |
 
-## Framing & Salience (final)
+## Stance & Sentence share (final)
 
-| Category | Prevalence % | Framing |
+| Category | Sentence share | Stance |
 |---|---:|---|
-| `responsible_investment_esg` | 25 | supportive |
+| `sustainable_development` | 5 | Favour |
+| `responsible_investment_esg` | 4 | Favour |
+| `net_zero` | 3 | Favour |
+| `decarbonization` | 3 | Favour |
+| `conservation_finance` | 3 | Favour |
 
 ## Reviewer 1 (Presence) — outcomes
-**Consistency score:** 80  
-**Confidence:** medium
-
-### Adjustment log
-- Removed 'sustainable_development' as not present in the context
-- Added 'responsible_investment_esg' as evidence of ESG focus areas and impact analysis is provided
-
-## Reviewer 2 (Framing & Salience) — outcomes
-**Consistency score:** 100  
+**Consistency score:** 95  
 **Confidence:** high
 
 ### Adjustment log
-_No adjustments recorded_
+- Adjusted 'sustainable_development' to be present based on context mentioning sustainability integrated into the Fund's activities and promoting sustainable development.
+
+## Reviewer 2 (Stance & Prevalence) — outcomes
+**Consistency score:** 95  
+**Confidence:** high
+
+### Adjustment log
+- Added 'conservation_finance' category with sentence_share=3 and stance='Favour', based on context mentioning conservation finance and TNFD framework.
+- Adjusted sentence_shares to ensure they add up to a reasonable approximation of the total sentence_count, while maintaining the overall framing.
 
 <br />
 [BACK TO THE HOME](https://making-finance-sustainable.github.io/RAG-VIDI-beta/)
