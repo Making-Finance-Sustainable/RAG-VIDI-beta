@@ -20,7 +20,7 @@ This step allows us to annotate different pictures that appear in the reports as
 
 ### VLMs Captioning Progress
 
-| <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/smolvlm_01.svg"> | <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/qwen3_98.svg"> |
+| <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/smolvlm_07.svg"> | <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/qwen3_99.svg"> |
 
 ## Model Selection Benchmark
 
