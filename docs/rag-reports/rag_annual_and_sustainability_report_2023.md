@@ -1,20 +1,29 @@
 # Analysis for `annual_and_sustainability_report_2023.md`
 
-**Per-document runtime (s):** 480.04
+**Per-document runtime (s):** 371.62
 
 ## Summary
-Here is a concise summary of the document in 200-300 words:
+Here is a concise summary of the document:
 
-The document describes the procedures performed by Ernst & Young (EY) in a limited assurance engagement for Ilmarinen's sustainability reporting. The engagement aimed to provide a conclusion on whether the subject matter was presented in accordance with the criteria, but did not provide reasonable assurance due to its limited scope. EY's procedures included updating their knowledge of Ilmarinen's material sustainability topics, interviewing personnel responsible for gathering and consolidating data, assessing the subject matter from internal and external sources, and checking data on a sample basis.
+Ilmarinen's Annual and Sustainability report 2023 includes an assurance engagement conducted by Ernst & Young, which provides limited assurance on the presentation of the sustainability information. The procedures performed included updating knowledge of Ilmarinen's material sustainability reporting topics, interviewing senior management and personnel responsible for gathering and consolidating data, and assessing the subject matter from internal and external sources.
 
-The document also mentions that Ilmarinen plans to prepare a Human Rights Impact Assessment in 2023. Additionally, it describes EY's bottom-up approach to quantifying historical and forward-looking climate-related risks for listed securities, which involves analyzing carbon footprint data and normalizing it using financial indicators.
+The report also includes information on climate change risks and opportunities according to the TCFD framework, as well as governance, economic responsibility, and social responsibility. The company has set targets and key performance indicators (KPIs) for sustainability, which are reported in the document.
 
-EY conducted the engagement in accordance with International Standard for Assurance Engagements Other Than Audits or Reviews of Historical Financial Information (ISAE 3000 Revised) and the terms of reference agreed with Ilmarinen. The nature, timing, and extent of the procedures selected depended on EY's judgment, including an assessment of the risk of material misstatement.
+Metrics and targets mentioned in the report include:
+
+* Human Rights Impact Assessment planned to be prepared during 2023
+* Remuneration policy to be updated more comprehensively
+* Responsible Investment Policy commitments defined
+
+Actions taken by the company include:
+
+* Preparing a Sustainability Report from the viewpoint of the parent company Ilmarinen Mutual Pension Insurance Company
+* Compiling key performance indicators (KPIs) for sustainability for the Executive Group
 
 meta:
 
-**Estimated sentence count:** 15  
-**Key terms:** `limited assurance engagement`, `sustainability reporting`, `ISAE 3000 Revised`, `bottom-up approach`, `climate-related risks`, `carbon footprint data`, `Human Rights Impact Assessment`
+**Estimated sentence count:** 1468  
+**Key terms:** `Sustainability report`, `Assurance engagement`, `TCFD framework`, `Climate change risks and opportunities`, `Governance`, `Economic responsibility`, `Social responsibility`, `Key performance indicators (KPIs)`, `Remuneration policy`, `Responsible Investment Policy`
 
 ## Presence by Category (final)
 
@@ -28,29 +37,32 @@ meta:
 | `transition_finance` | — |
 | `conservation_finance` | — |
 
-## Framing & Salience (final)
+## Stance & Sentence share (final)
 
-| Category | Prevalence % | Framing |
+| Category | Sentence share | Stance |
 |---|---:|---|
-| `sustainable_development` | 100 | supportive |
-| `responsible_investment_esg` | 8 | supportive |
-| `net_zero` | 12 | supportive |
-| `decarbonization` | 56 | supportive |
+| `sustainable_development` | 6 | Favour |
+| `responsible_investment_esg` | 6 | Favour |
+| `net_zero` | 6 | Favour |
+| `decarbonization` | 6 | Favour |
 
 ## Reviewer 1 (Presence) — outcomes
+**Consistency score:** 95  
+**Confidence:** high
+
+### Adjustment log
+- Added 'sustainable_development' based on 'We prepare for longterm risks in the investment markets by seeking to achieve a net zero carbon investment portfolio by the end of 2035 and by taking biodiversity into account.'
+- Added 'responsible_investment_esg' based on 'Our goal is to achieve a carbon-neutral investment portfolio by the end of 2035. We take biodiversity into account in our investment activities.'
+- Added 'net_zero' based on 'We strive to contribute to reducing the carbon footprint of our investees since our target is a net zero carbon pension asset investment portfolio by the end of 2035.'
+- Added 'decarbonization' based on 'Since our target is a net zero carbon pension asset investment portfolio by the end of 2035, we strive to contribute to reducing the carbon footprint of our investees.'
+
+## Reviewer 2 (Stance & Prevalence) — outcomes
 **Consistency score:** 90  
 **Confidence:** high
 
 ### Adjustment log
-- Added 'sustainable_development' based on quote: 'We take the UN Sustainable Development Goals (SDG) into account in our sustainability programme.'
-- Added 'net_zero', 'decarbonization' based on quote: 'Our goal is to achieve a carbon-neutral investment portfolio by the end of 2035.'
-
-## Reviewer 2 (Framing & Salience) — outcomes
-**Consistency score:** 100  
-**Confidence:** high
-
-### Adjustment log
-_No adjustments recorded_
+- Added 'responsible_investment_esg' category with sentence_share=6 and stance=Favour, as it was marked present but missing from framing_salience_json.
+- Adjusted 'net_zero' and 'decarbonization' categories to have the same sentence_share=6 and stance=Favour, as they cover similar topics.
 
 <br />
 [BACK TO THE HOME](https://making-finance-sustainable.github.io/RAG-VIDI-beta/)
