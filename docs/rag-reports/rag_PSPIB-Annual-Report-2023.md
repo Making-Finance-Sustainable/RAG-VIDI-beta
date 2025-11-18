@@ -1,22 +1,23 @@
 # Analysis for `PSPIB-Annual-Report-2023.md`
 
-**Per-document runtime (s):** 308.89
+**Per-document runtime (s):** 301.352
 
 ## Summary
-The document appears to be a section from an annual report or proxy statement, focusing on the compensation discussion and analysis for a financial institution. The content is repetitive, with multiple instances of evaluating the presentation and structure of financial statements.
+The document discusses the evaluation of financial statements, including disclosures, and their fair presentation. It also mentions an emerging risk monitoring framework to identify and manage new risks. The economic backdrop in fiscal year 2023 was dominated by rising inflation due to the COVID-19 pandemic and the conflict in Ukraine.
 
-Key points include:
+The report includes a discussion on compensation and incentive plans, specifically the Total Incentive Plan, which is designed to attract and retain top talent, reward performance, and reinforce strategic initiatives. The plan consists of three components: total fund performance, group factor score, and individual performance score.
 
-* The compensation discussion and analysis provides an overview of the company's compensation framework and incentive plans.
-* The framework includes performance results and remuneration paid to Named Executive Officers (NEOs).
-* Six NEOs are listed, including the President and CEO, Vice Chair, and Senior Vice Presidents overseeing various investment divisions.
+Key metrics include:
 
-No specific metrics or targets are mentioned in the provided context. However, it is clear that the document aims to provide transparency into the company's executive compensation practices.
+* 60% weight on total fund performance in the Total Incentive Plan
+* 40% weight on group factor score in the Total Incentive Plan
+* 9.1% peak Consumer Price Index inflation in the US
+* 11.1% peak Consumer Price Index inflation in the UK
 
 meta:
 
-**Estimated sentence count:** 15  
-**Key terms:** `compensation discussion and analysis`, `Named Executive Officers`, `NEOs`, `incentive plans`, `performance results`, `remuneration`, `executive compensation`, `financial statements`, `fair presentation`
+**Estimated sentence count:** 3974  
+**Key terms:** `financial statements`, `disclosures`, `fair presentation`, `emerging risk monitoring framework`, `inflation`, `COVID-19 pandemic`, `Total Incentive Plan`, `compensation and incentive plans`, `fund performance`
 
 ## Presence by Category (final)
 
@@ -25,29 +26,30 @@ meta:
 | `sustainable_development` | ✅ |
 | `responsible_investment_esg` | ✅ |
 | `green_growth` | — |
-| `net_zero` | — |
+| `net_zero` | ✅ |
 | `decarbonization` | ✅ |
 | `transition_finance` | — |
 | `conservation_finance` | — |
 
-## Framing & Salience (final)
+## Stance & Sentence share (final)
 
-| Category | Prevalence % | Framing |
+| Category | Sentence share | Stance |
 |---|---:|---|
-| `sustainable_development` | 7 | supportive |
-| `responsible_investment_esg` | 7 | supportive |
-| `decarbonization` | 7 | supportive |
+| `sustainable_development` | 8 | Favour |
+| `responsible_investment_esg` | 6 | Favour |
+| `net_zero` | 3 | Favour |
+| `decarbonization` | 4 | Favour |
 
 ## Reviewer 1 (Presence) — outcomes
-**Consistency score:** 80  
+**Consistency score:** 90  
 **Confidence:** high
 
 ### Adjustment log
-- Added 'sustainable_development' based on the statement that identifying and assessing ESG factors is material to long-term investment performance.
-- Added 'responsible_investment_esg' based on the aim to generate better returns and lower risks through ESG assessment in the investment process.
-- Added 'decarbonization' based on Natural Resources contributing to the transition to a lower-carbon economy.
+- sustainable_development: present set to true based on the statement that proactively integrating ESG factors contributes to a better risk-return profile
+- net_zero: present set to true based on the commitment to support the transition to global net-zero GHG emissions by 2050
+- decarbonization: present set to true based on completing a detailed inventory of carbon emissions on 80% of Natural Resources AUM
 
-## Reviewer 2 (Framing & Salience) — outcomes
+## Reviewer 2 (Stance & Prevalence) — outcomes
 **Consistency score:** 100  
 **Confidence:** high
 
