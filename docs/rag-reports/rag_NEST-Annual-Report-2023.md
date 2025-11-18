@@ -1,18 +1,25 @@
 # Analysis for `NEST-Annual-Report-2023.md`
 
-**Per-document runtime (s):** 273.272
+**Per-document runtime (s):** 347.609
 
 ## Summary
 Here is a concise summary of the document:
 
-The National Employment Savings Trust Corporation (Nest) has published its annual report, which includes a performance summary, risk management framework, and financial review. The report highlights Nest's objectives for serving its customers and delivering the Scheme in their interests. The Chair's statement and CEO's statement provide an overview of the organization's performance during 2022/23. The report also includes a principal risks section, going concern statement, and financial review.
+Nest Corporation's annual report and accounts for 2022/23 provide an overview of the organization's performance, objectives, and financial position. The report includes a cautionary statement regarding forward-looking statements and notes that nothing in the document should be regarded as a forecast of future financial performance or position.
 
-The auditor has concluded that Nest's use of the going concern basis of accounting is appropriate and has not identified any material uncertainties relating to events or conditions that may cast significant doubt on Nest's ability to continue as a going concern for at least twelve months from when the financial statements are authorized for issue.
+The report highlights Nest Corporation's risk appetite, policy framework, and governance structure. It also provides information on the organization's principal risks, going concern statement, and performance analysis.
 
-Meta:
+In terms of sustainability reporting, Nest Corporation follows the Government Sustainability Reporting Guidance where possible. The report notes that tenants are not provided with detailed energy data usage as part of the multi-tenant arrangement, but estimates scope 2 emissions based on occupied space. Scope 3 reported emissions data is captured directly from expense claims and contract reporting.
 
-**Estimated sentence count:** 150  
-**Key terms:** `Risk management framework`, `Three lines of defence model`, `Risk appetite`, `Policy framework`, `Going concern statement`, `Financial review`, `Principal risks`, `Audit evidence`, `National Employment Savings Trust Corporation`, `Nest Scheme`
+Key metrics include:
+
+* 40% recycled fibre content minimum in printed materials
+* 6.5% to 7.7% increase in occupied space during 2022/23
+
+meta:
+
+**Estimated sentence count:** 1834  
+**Key terms:** `Nest Corporation`, `sustainable finance disclosures`, `risk appetite`, `policy framework`, `governance structure`, `forward-looking statements`, `scope 2 emissions`, `scope 3 reported emissions`
 
 ## Presence by Category (final)
 
@@ -22,25 +29,27 @@ Meta:
 | `responsible_investment_esg` | ✅ |
 | `green_growth` | — |
 | `net_zero` | — |
-| `decarbonization` | — |
+| `decarbonization` | ✅ |
 | `transition_finance` | — |
 | `conservation_finance` | — |
 
-## Framing & Salience (final)
+## Stance & Sentence share (final)
 
-| Category | Prevalence % | Framing |
+| Category | Sentence share | Stance |
 |---|---:|---|
-| `sustainable_development` | 2 | supportive |
-| `responsible_investment_esg` | 2 | supportive |
+| `sustainable_development` | 10 | Favour |
+| `responsible_investment_esg` | 10 | Favour |
+| `decarbonization` | 10 | Favour |
 
 ## Reviewer 1 (Presence) — outcomes
-**Consistency score:** 100  
+**Consistency score:** 80  
 **Confidence:** high
 
 ### Adjustment log
-- Added 'sustainable_development' and 'responsible_investment_esg' based on context mentioning delivering a bigger pension in a better world, commitment to responsible investment, and ESG practices.
+- Added 'sustainable_development' based on quote: 'We respect the environment in which we operate and aim to make efficient use of natural resources.'
+- Added 'decarbonization' based on quotes: 'We support companies that are cutting carbon emissions, and challenge those that aren't.' and 'We report on the Scheme's performance against the Task Force on Climate-related Financial Disclosures (TCFD).'
 
-## Reviewer 2 (Framing & Salience) — outcomes
+## Reviewer 2 (Stance & Prevalence) — outcomes
 **Consistency score:** 100  
 **Confidence:** high
 
