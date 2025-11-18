@@ -1,28 +1,26 @@
 # Analysis for `New-Zealand-Superannuation-Annual-Report-2023.md`
 
-**Per-document runtime (s):** 332.873
+**Per-document runtime (s):** 411.643
 
 ## Summary
-The document appears to be an annual report of the NZ Super Fund, a New Zealand-based superannuation fund. The report provides an overview of the fund's performance, progress against its work programmes, and strategic goals. It also includes financial statements for the fund and its subsidiaries.
+The document appears to be an annual report for the New Zealand Superannuation Fund (NZ Super Fund) and its related entities. The report provides an overview of the fund's performance, investment activities, governance, and financial statements for the 2022/23 financial year.
 
 Key metrics and targets mentioned in the report include:
 
 * A five-year financial summary for the NZ Super Fund
-* Tax information for the Guardians of New Zealand Group
-* Progress updates on major programmes of work, including a review of the refreshed People Strategy and the Diversity, Equity and Inclusion Strategy
+* Investment returns over Treasury bills for the NZ Super Fund and Elevate NZ Venture Fund
+* Compliance with the Statement of Investment Policies, Standards and Procedures (SIPSP) for both funds
 
-Actions taken by the fund's leadership team and board members are also reported, including:
+Actions taken by the fund include:
 
-* Review of the Chief Executive Officer succession planning and remuneration
-* Annual performance review and remuneration summary for the Leadership Team and Heads
-* Gender pay gap analysis and annual staff departure review
-
-The report also mentions that supplementary information is available on the fund's website, including a Climate Change Report against the recommendations of the Taskforce on Climate-related Financial Disclosures (TCFD) and a GRI Index.
+* Preparation of a Climate Change Report against the recommendations of the Taskforce on Climate-related Financial Disclosures (TCFD)
+* Publication of a GRI Index and a list of portfolio holdings as at 30 June 2023
+* Engagement with investee companies to promote sustainable investment practices
 
 meta:
 
-**Estimated sentence count:** 150  
-**Key terms:** `NZ Super Fund`, `sustainable finance disclosures`, `Taskforce on Climate-related Financial Disclosures (TCFD)`, `GRI Index`, `Climate Change Report`, `Diversity, Equity and Inclusion Strategy`, `People Strategy`, `Chief Executive Officer succession planning`, `remuneration summary`, `gender pay gap analysis`
+**Estimated sentence count:** 3367  
+**Key terms:** `NZ Super Fund`, `Elevate NZ Venture Fund`, `Guardians of New Zealand Superannuation`, `Sustainable Investment`, `Climate Change Report`, `TCFD`, `GRI Index`, `Statement of Performance`, `Investment Policies`
 
 ## Presence by Category (final)
 
@@ -33,28 +31,28 @@ meta:
 | `green_growth` | — |
 | `net_zero` | ✅ |
 | `decarbonization` | ✅ |
-| `transition_finance` | — |
+| `transition_finance` | ✅ |
 | `conservation_finance` | — |
 
-## Framing & Salience (final)
+## Stance & Sentence share (final)
 
-| Category | Prevalence % | Framing |
+| Category | Sentence share | Stance |
 |---|---:|---|
-| `sustainable_development` | 35 | supportive |
-| `responsible_investment_esg` | 30 | supportive |
-| `net_zero` | 25 | supportive |
-| `decarbonization` | 25 | supportive |
+| `sustainable_development` | 10 | Favour |
+| `responsible_investment_esg` | 8 | Favour |
+| `net_zero` | 6 | Favour |
+| `decarbonization` | 6 | Favour |
+| `transition_finance` | 6 | Favour |
 
 ## Reviewer 1 (Presence) — outcomes
 **Consistency score:** 90  
 **Confidence:** high
 
 ### Adjustment log
-- Added 'sustainable_development' as it is mentioned in the context of shifting to a sustainable finance approach and setting carbon reduction targets.
-- Added 'net_zero' as the Guardians have committed to achieving net zero carbon emissions by 2050 under the Net Zero Asset Owners Commitment.
-- Added 'decarbonization' as the Guardians aim to decarbonise the NZ Super Fund by increasing investment in climate solutions, setting interim targets, and undertaking advocacy and engagement.
+- Removed 'green_growth' category as not present in the context
+- Removed 'conservation_finance' category as not present in the context
 
-## Reviewer 2 (Framing & Salience) — outcomes
+## Reviewer 2 (Stance & Prevalence) — outcomes
 **Consistency score:** 100  
 **Confidence:** high
 
