@@ -1,20 +1,28 @@
 # Analysis for `Pensioenfonds-Detailhandel-Annual-Report-2023.md`
 
-**Per-document runtime (s):** 344.334
+**Per-document runtime (s):** 454.09
 
 ## Summary
 Here is a concise summary of the document:
 
-The Foundation Industry-wide Pension Fund for the Retail Sector is a mandatory industry-wide pension fund that administers pension schemes for employees in the retail sector. The foundation aims to fulfill its obligations towards participants and pension beneficiaries in accordance with statutes, legislation, and conditions arising from mandatory participation. During an audit, particular attention was paid to areas related to specific activities of the foundation and laws and regulations for pension funds. The foundation has outsourced various administrative tasks.
+The Stichting Bedrijfstakpensioenfonds voor de Detailhandel (Pension Fund for the Retail Industry) is a mandatory industry pension fund that executes pension schemes for employees in the retail sector. The fund's objective is to fulfill its obligations towards participants and pensioners, as stated in the statutes and relevant legislation.
 
-The Retail Pension Fund is a young fund with high turnover, and every year tens of thousands of people start and stop building up their pension. To draw attention to pensions, new participants receive a special edition of Jij&Wij Magazine. Since 2020, the fund has produced a short annual overview in addition to legally required annual accounts, aiming to make complex information accessible.
+The fund has prepared a concise annual report, "Kort jaaroverzicht," which aims to make complex information from the annual report accessible to everyone. In 2023, the fund added information about the new pension scheme to this report.
 
-The board reports on its policy in the management report, and is accountable for the outcomes achieved from this policy. The audit report describes matters unless prohibited by law or regulation.
+Key metrics include:
 
-Meta:
+* Assets: €363,594 (2023) vs. €352,551 (2022)
+* Pensioners: 158,359 (2023) vs. 152,700 (2022)
+* Total participants: 521,953 (2023) vs. 505,251 (2022)
+* Pension cost expenses: €41,950 (2023) vs. €40,854 (2022)
+* Cost per participant: €80.40 (2023) vs. €80.90 (2022)
 
-**Estimated sentence count:** 164  
-**Key terms:** `pension fund`, `retail sector`, `mandatory participation`, `audit procedures`, `financial statements`, `fraud risks`, `continuity`, `outsourcing`, `annual accounts`, `short annual overview`
+The fund's financial position and developments during the year are summarized in a comparative financial summary.
+
+meta:
+
+**Estimated sentence count:** 2366  
+**Key terms:** `Pensioenfonds Detailhandel`, `Stichting Bedrijfstakpensioenfonds voor de Detailhandel`, `Wet toekomst pensioenen (Wtp)`, `Dekkingsgraad`, `Pensioenregeling`, `Communicatie`, `Jaarrekening`, `Controleverklaring`, `Actuariële verklaring`, `Richtlijnen voor de Jaarverslaggeving`
 
 ## Presence by Category (final)
 
@@ -28,31 +36,32 @@ Meta:
 | `transition_finance` | — |
 | `conservation_finance` | — |
 
-## Framing & Salience (final)
+## Stance & Sentence share (final)
 
-| Category | Prevalence % | Framing |
+| Category | Sentence share | Stance |
 |---|---:|---|
-| `sustainable_development` | 70 | supportive |
-| `responsible_investment_esg` | 75 | supportive |
-| `green_growth` | 60 | supportive |
-| `decarbonization` | 55 | supportive |
+| `sustainable_development` | 10 | Favour |
+| `responsible_investment_esg` | 10 | Favour |
+| `green_growth` |  | Neither |
+| `decarbonization` |  | Neither |
 
 ## Reviewer 1 (Presence) — outcomes
+**Consistency score:** 90  
+**Confidence:** high
+
+### Adjustment log
+- Added 'sustainable_development' based on context mentioning SDGs and benchmarks
+- Added 'responsible_investment_esg' as engagement activities are evaluated for ESG alignment
+- Added 'green_growth' as green bonds goal mentioned
+- Removed 'net_zero', no evidence of this specific goal
+
+## Reviewer 2 (Stance & Prevalence) — outcomes
 **Consistency score:** 80  
 **Confidence:** medium
 
 ### Adjustment log
-- Added 'sustainable_development' based on integrating SDGs into investment benchmarks
-- Added 'responsible_investment_esg' based on applying exclusion policy and monitoring ESG scores
-- Added 'green_growth' based on investing in green bonds
-- Added 'decarbonization' based on targeting lower CO2 footprint for equity and bond portfolios
-
-## Reviewer 2 (Framing & Salience) — outcomes
-**Consistency score:** 100  
-**Confidence:** high
-
-### Adjustment log
-_No adjustments recorded_
+- Added 'sustainable_development' and 'responsible_investment_esg' categories with inferred sentence_shares and stances based on the provided evidence. Left 'green_growth' and 'decarbonization' as null since no clear information was found to assign them.
+- Consistent with the context, the two present categories have been included with reasonable sentence_shares and stances.
 
 <br />
 [BACK TO THE HOME](https://making-finance-sustainable.github.io/RAG-VIDI-beta/)
