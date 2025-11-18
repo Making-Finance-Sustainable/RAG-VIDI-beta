@@ -34,7 +34,7 @@ This step allows us to annotate different pictures that appear in the reports as
 
 [SEE UPDATED PROMPTS](https://making-finance-sustainable.github.io/RAG-VIDI-beta/prompts)
 
-> **Note.** Some extra changes could be incorporated in the prompts, especially in the framing and prevalence, which do not seem too accurate for the moment.
+> **Note.** Frame was replaced by classic stance detection.
 
 ## Frontrunners Preliminary Results
 
@@ -53,7 +53,7 @@ We will introduce human-in-the-loop revision based on consistency metrics betwee
 - Reviewer (framing): `hermes3:latest`
 - Embeddings: `text-embedding-3-large`
 
-> **Note.** It is not a significant change to swap the classifier and reviewer (Hermes 3 and GPT-OSS). I will try to rerun the pipeline including MCP (Model Context Protocol). This should improve the orchestration and retrieval quality. It shall be a bit more intensive, but particularly useful for long documents.
+> **Note.** Frontrunners now include: (1) captioning process with VLM to improve picture descriptions; (2) improved retrieval context by adjusting chunk size and overlap to limit semantic dilution and increasing the number of retrieved neighbours (k) to improve coverage of concept-relevant passages; (3) frame was replaced by classic stance detection; and (4) prevalence is now reporting share of sentences which could be used to get raw estimates based on documents' lenght.
 
 #### Reports
 
@@ -67,6 +67,8 @@ We will introduce human-in-the-loop revision based on consistency metrics betwee
 8. [PSPIB-Annual-Report-2023](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_PSPIB-Annual-Report-2023)
 9. [Uni-Super-Fund-Annual-Report-2023](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_Uni-Super-Fund-Annual-Report-2023)
 10. [USS-Report-and-Accounts-2023](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_USS-Report-and-Accounts-2023)
+
+> **Note.** We are also now using the original languages, taking advantage of LLMs' multilingual capabilities.
 
 ### Mixed-Pipeline
 
@@ -84,4 +86,4 @@ We will introduce human-in-the-loop revision based on consistency metrics betwee
 > **Note.** Work in progress.
 
 <br />
-**Latest update:** November 15, 2025.
+**Latest update:** November 18, 2025.
