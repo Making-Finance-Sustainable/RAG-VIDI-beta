@@ -20,7 +20,7 @@ This step allows us to annotate different pictures that appear in the reports as
 
 ### VLMs Captioning Progress
 
-| <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/smolvlm_07.svg"> | <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/qwen3_99.svg"> |
+| <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/smolvlm_11.svg"> | <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/qwen3_100.svg"> |
 
 ## Model Selection Benchmark
 
@@ -70,6 +70,10 @@ We will introduce human-in-the-loop revision based on consistency metrics betwee
 
 > **Note.** We are also now using the original languages, taking advantage of LLMs' multilingual capabilities.
 
+#### Batches
+
+| Batch 01 | Reports | <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/0.svg">
+
 ### Mixed-Pipeline
 
 #### Models
@@ -86,4 +90,4 @@ We will introduce human-in-the-loop revision based on consistency metrics betwee
 > **Note.** Work in progress.
 
 <br />
-**Latest update:** November 18, 2025.
+**Latest update:** November 19, 2025.
