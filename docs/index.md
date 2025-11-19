@@ -55,19 +55,6 @@ We will introduce human-in-the-loop revision based on consistency metrics betwee
 
 Reports now include: (1) captioning process with VLM to improve picture descriptions; (2) improved retrieval context by adjusting chunk size and overlap to limit semantic dilution and increasing the number of retrieved neighbours (k) to improve coverage of concept-relevant passages; (3) frame was replaced by classic stance detection; and (4) prevalence is now reporting share of sentences which could be used to get raw estimates based on documents' lenght. We are also now using the original languages, taking advantage of LLMs' multilingual capabilities.
 
-#### Reports
-
-1. [annual_and_sustainability_report_2023](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_annual_and_sustainability_report_2023)
-2. [AP-Fonden-2-2023](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_AP-Fonden-2-2023)
-3. [ERAPF-Annual-Report-2022](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_ERAPF-Annual-Report-2022)
-4. [NEST-Annual-Report-2023](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_NEST-Annual-Report-2023)
-5. [New-Zealand-Superannuation-Annual-Report-2023](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_New-Zealand-Superannuation-Annual-Report-2023)
-6. [Pensioenfonds-Detailhandel-Annual-Report-2023](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_Pensioenfonds-Detailhandel-Annual-Report-2023)
-7. [PGGM-Annual-Report-2023](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_PGGM-Annual-Report-2023)
-8. [PSPIB-Annual-Report-2023](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_PSPIB-Annual-Report-2023)
-9. [Uni-Super-Fund-Annual-Report-2023](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_Uni-Super-Fund-Annual-Report-2023)
-10. [USS-Report-and-Accounts-2023](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_USS-Report-and-Accounts-2023)
-
 #### Batches
 
 | [Batch-01](https://making-finance-sustainable.github.io/RAG-VIDI-beta/batch-01) | [Batch-02](https://making-finance-sustainable.github.io/RAG-VIDI-beta/batch-02) | [Batch-03](https://making-finance-sustainable.github.io/RAG-VIDI-beta/batch-03) | [Batch-04](https://making-finance-sustainable.github.io/RAG-VIDI-beta/batch-04) | [Batch-05](https://making-finance-sustainable.github.io/RAG-VIDI-beta/batch-05) | 
