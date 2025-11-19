@@ -36,15 +36,13 @@ This step allows us to annotate different pictures that appear in the reports as
 
 > **Note.** Frame was replaced by classic stance detection.
 
-## Frontrunners Preliminary Results
-
-### Open-Source Pipeline
+## Results
 
 The selection of models was based on the benchmark above. We are using a fully open-source pipeline in which Llama 3.1 (70B) prepare the summary, GPT-OSS (20B) makes the decisions and Hermes 3 (70B) reviews and overturns with RAG-fed evidence. For robustness checks, we will rely on a mixed pipeline in which Llama 3.1 will be replaced by GPT-5-mini and Hermes 3 by GPT-5, both state-of-the-art closed, flagship OpenAI models.
 
 We will introduce human-in-the-loop revision based on consistency metrics between both pipelines.
 
-#### Models
+### Open-Source Pipeline
 
 - Summariser: `llama3.1:70b`
 - Classifier: `gpt-oss:latest`
@@ -53,18 +51,7 @@ We will introduce human-in-the-loop revision based on consistency metrics betwee
 - Reviewer (framing): `hermes3:latest`
 - Embeddings: `text-embedding-3-large`
 
-Reports now include: (1) captioning process with VLM to improve picture descriptions; (2) improved retrieval context by adjusting chunk size and overlap to limit semantic dilution and increasing the number of retrieved neighbours (k) to improve coverage of concept-relevant passages; (3) frame was replaced by classic stance detection; and (4) prevalence is now reporting share of sentences which could be used to get raw estimates based on documents' lenght. We are also now using the original languages, taking advantage of LLMs' multilingual capabilities.
-
-#### Batches
-
-| [Batch-01](https://making-finance-sustainable.github.io/RAG-VIDI-beta/batch-01) | [Batch-02](https://making-finance-sustainable.github.io/RAG-VIDI-beta/batch-02) | [Batch-03](https://making-finance-sustainable.github.io/RAG-VIDI-beta/batch-03) | [Batch-04](https://making-finance-sustainable.github.io/RAG-VIDI-beta/batch-04) | [Batch-05](https://making-finance-sustainable.github.io/RAG-VIDI-beta/batch-05) | 
-| <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/10.svg"> | <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/8.svg"> | <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/0.svg"> | <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/3.svg"> | <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/3.svg"> |
-| [Batch-06](https://making-finance-sustainable.github.io/RAG-VIDI-beta/batch-06) | [Batch-07](https://making-finance-sustainable.github.io/RAG-VIDI-beta/batch-07) | [Batch-08](https://making-finance-sustainable.github.io/RAG-VIDI-beta/batch-08) | [Batch-09](https://making-finance-sustainable.github.io/RAG-VIDI-beta/batch-09) | [Batch-10](https://making-finance-sustainable.github.io/RAG-VIDI-beta/batch-10) | 
-| <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/0.svg"> | <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/3.svg"> | <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/0.svg"> | <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/0.svg"> | <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/0.svg"> |
-
 ### Mixed-Pipeline
-
-#### Models
 
 - Summariser: `gpt-5-mini-2025-08-07`
 - Classifier: `gpt-oss:latest`
@@ -72,6 +59,15 @@ Reports now include: (1) captioning process with VLM to improve picture descript
 - Framing: `gpt-oss:latest`
 - Reviewer (framing): `gpt-5-2025-08-07`
 - Embeddings: `text-embedding-3-large`
+
+### Batches
+
+Reports now include: (1) captioning process with VLM to improve picture descriptions; (2) improved retrieval context by adjusting chunk size and overlap to limit semantic dilution and increasing the number of retrieved neighbours (k) to improve coverage of concept-relevant passages; (3) frame was replaced by classic stance detection; and (4) prevalence is now reporting share of sentences which could be used to get raw estimates based on documents' lenght. We are also now using the original languages, taking advantage of LLMs' multilingual capabilities.
+
+| [Batch-01](https://making-finance-sustainable.github.io/RAG-VIDI-beta/batch-01) | [Batch-02](https://making-finance-sustainable.github.io/RAG-VIDI-beta/batch-02) | [Batch-03](https://making-finance-sustainable.github.io/RAG-VIDI-beta/batch-03) | [Batch-04](https://making-finance-sustainable.github.io/RAG-VIDI-beta/batch-04) | [Batch-05](https://making-finance-sustainable.github.io/RAG-VIDI-beta/batch-05) | 
+| <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/10.svg"> | <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/8.svg"> | <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/0.svg"> | <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/3.svg"> | <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/3.svg"> |
+| [Batch-06](https://making-finance-sustainable.github.io/RAG-VIDI-beta/batch-06) | [Batch-07](https://making-finance-sustainable.github.io/RAG-VIDI-beta/batch-07) | [Batch-08](https://making-finance-sustainable.github.io/RAG-VIDI-beta/batch-08) | [Batch-09](https://making-finance-sustainable.github.io/RAG-VIDI-beta/batch-09) | [Batch-10](https://making-finance-sustainable.github.io/RAG-VIDI-beta/batch-10) | 
+| <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/0.svg"> | <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/3.svg"> | <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/0.svg"> | <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/0.svg"> | <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/0.svg"> |
 
 <br />
 **Latest update:** November 19, 2025.
