@@ -72,7 +72,7 @@ We will introduce human-in-the-loop revision based on consistency metrics betwee
 
 #### Batches
 
-- Batch 01: <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/0.svg">
+Batch 01 <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/0.svg">
 
 ### Mixed-Pipeline
 
