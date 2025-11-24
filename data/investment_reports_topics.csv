@@ -1,7 +1,41 @@
-﻿doc_name,sustainable_development_present,responsible_investment_esg_present,green_growth_present,net_zero_present,decarbonization_present,transition_finance_present,conservation_finance_present
-Norges-Bank-Annual-Report-2023.md,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
-ABP-Annual-Report-2023.md,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
-PGGM-Annual-Report-2023.md,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
-USS-Report-and-Accounts-2023.md,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
-annual_and_sustainability_report_2023.md,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
-ERAPF-Annual-Report-2022.md,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+﻿company,annual_report,sustainable_development_present,responsible_investment_esg_present,green_growth_present,net_zero_present,decarbonization_present,transition_finance_present,conservation_finance_present
+Norges Bank Investment Management,Norges-Bank-Annual-Report-2023,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
+ABP/APG,ABP-Annual-Report-2023,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+PGGM/PFZW,PGGM-Annual-Report-2023,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
+Turkey Wealth Fund,TWF-Annual-Report-2022,,,,,,,
+Caisse des Dépôts,Caisse-Annual-Report-2023,,,,,,,
+MN,MN-Annual-Report-2023,,,,,,,
+Kommunal Landspensjonskasse (KLP),KLP-Annual-Report-2023,,,,,,,
+Bayerische Versorgungskammer (BVK),BVK-Annual-Report-2023,,,,,,,
+Covéa,Covea-Annual-Report-2022,,,,,,,
+Alecta,Alecta-annual-and-sustainability-report-2023,,,,,,,
+Swedish Fund Selection Agency,FTN-Procurement-Report-2024,,,,,,,
+Shell Asset Management Company,NA,,,,,,,
+ATP,ATP-Annual-Report-2023,,,,,,,
+Universities Superannuation Scheme,USS-Report-and-Accounts-2023,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+AP Fonden 7,ap7-annual-and-sustainability-report-2023,,,,,,,
+European Investment Bank,NA,,,,,,,
+PFA Pension,NA,,,,,,,
+PMT,243399-pmt-jv2023-v234-pdfa,,,,,,,
+AGIRC ARRCO,AGIRC-ARRCO-Rapport-Gestion-2023-pages-simples,,,,,,,
+Border to Coast Pensions Partnership,Border-to-Coast-Annual-Report-22_23,,,,,,,
+Nordea Life & Pension,annual-report-nordea-bank-abp-2023,,,,,,,
+Ilmarinen,annual_and_sustainability_report_2023,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
+AMF Pension,amf_annual_report_and_sustainability_report_2023,,,,,,,
+bpfBouw,bpfBouw-Annual-Report-2023,,,,,,,
+KEVA,Keva-Annual-Report-2023,,,,,,,
+PensionDanmark,PensionDanmark-Annual-Report-2023,,,,,,,
+Swiss Federal Pension Fund PUBLICA,Publica-Annual-Report-2023,,,,,,,
+AP Fonden 3,AP-Fonden-3-Annual-Report-2023,,,,,,,
+Danica Pension,Danica-Pension-Annual-Report-2023,,,,,,,
+Länsförsäkringar,Lansforsakringar-Alliance-Annual-Report-2023,,,,,,,
+Railpen Investments ,Railpen-Annual-Report-2023,,,,,,,
+AP Fonden 1,AP-Fonden-1-Annual-Report-2023,,,,,,,
+Fonds de compensation AVS,Compenswiss-Annual-Report-2023,,,,,,,
+Electricity Supply Pension Scheme,Electricty-Supply-Pension-Annual-Report-2023,,,,,,,
+ERAFP,ERAPF-Annual-Report-2022,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+Suva,Suva-Annual-Report-2023,,,,,,,
+Varma,Varma-Annual-Report-2023,,,,,,,
+Versorgungsanstalt des Bundes und der Länder (VBL),VBL-Annual-Report-2022,,,,,,,
+Sampension,Sampension-2023,,,,,,,
+PKA Pension Fund,PKA-2023,,,,,,,
