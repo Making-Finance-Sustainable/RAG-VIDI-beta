@@ -69,5 +69,11 @@ Reports now include: (1) captioning process with VLM to improve picture descript
 | [Batch-06](https://making-finance-sustainable.github.io/RAG-VIDI-beta/batch-06) | [Batch-07](https://making-finance-sustainable.github.io/RAG-VIDI-beta/batch-07) | [Batch-08](https://making-finance-sustainable.github.io/RAG-VIDI-beta/batch-08) | [Batch-09](https://making-finance-sustainable.github.io/RAG-VIDI-beta/batch-09) | [Batch-10](https://making-finance-sustainable.github.io/RAG-VIDI-beta/batch-10) | 
 | <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/0.svg"> | <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/3.svg"> | <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/0.svg"> | <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/0.svg"> | <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/0.svg"> |
 
+### Preliminary Plots
+
+<img style="width: 95%; display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/plots/topic_prevalence.png">
+
+<img style="width: 95%; display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/plots/topic_cooccurrence.png">
+
 <br />
 **Latest update:** November 24, 2025.
