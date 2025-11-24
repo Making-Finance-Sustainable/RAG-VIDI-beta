@@ -1,6 +1,6 @@
 ## Batch-01
 
-- Norges Bank Investment Management
+- [Norges Bank Investment Management](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_Norges-Bank-Annual-Report-2023)
 - ABP/APG
 - [PGGM/PFZW](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_PGGM-Annual-Report-2023)
 - Turkey Wealth Fund
