@@ -110,7 +110,12 @@ plt.tight_layout()
 fig2, ax2 = plt.subplots(figsize=(8, 7))
 
 ## Heatmap of co-occurrence proportions
-im = ax2.imshow(coocc_matrix.values, cmap="Greys", vmin=0, vmax=1)
+im = ax2.imshow(
+    coocc_matrix.values,
+    cmap="viridis",
+    vmin=0,
+    vmax=1
+)
 
 ax2.set_xticks(np.arange(len(ordered_topics)))
 ax2.set_yticks(np.arange(len(ordered_topics)))
@@ -119,11 +124,9 @@ ax2.set_yticklabels(ordered_topics, fontsize=9)
 
 ax2.set_title("Topic co-occurrence (share of documents)", fontsize=14)
 
-## Add colour bar
 cbar = fig2.colorbar(im, ax=ax2, fraction=0.046, pad=0.04)
 cbar.ax.set_ylabel("Proportion of documents", rotation=90, va="center")
 
-## Turn off gridlines and adjust spines
 for spine in ['top', 'right', 'left', 'bottom']:
     ax2.spines[spine].set_visible(False)
 
@@ -141,11 +144,11 @@ prev_output = "docs/plots/topic_prevalence"
 coocc_output = "docs/plots/topic_cooccurrence"
 
 fig1.savefig(f"{prev_output}.png", dpi=300, bbox_inches='tight', transparent=True)
-fig1.savefig(f"{prev_output}.pdf", dpi=300, bbox_inches='tight')
+## fig1.savefig(f"{prev_output}.pdf", dpi=300, bbox_inches='tight')
 
 fig2.savefig(f"{coocc_output}.png", dpi=300, bbox_inches='tight', transparent=True)
-fig2.savefig(f"{coocc_output}.pdf", dpi=300, bbox_inches='tight')
+## fig2.savefig(f"{coocc_output}.pdf", dpi=300, bbox_inches='tight')
 
-print("\nTopic prevalence bar chart saved as PNG and PDF in 'results/'.")
-print("Topic co-occurrence heatmap saved as PNG and PDF in 'results/'.")
+print("\nTopic prevalence bar chart saved as PNG and PDF.")
+print("Topic co-occurrence heatmap saved as PNG and PDF.")
 ## plt.show()
