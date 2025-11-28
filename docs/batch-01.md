@@ -5,8 +5,8 @@
 - [PGGM/PFZW](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_PGGM-Annual-Report-2023)
 - [Turkey Wealth Fund](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_TWF-Annual-Report-2022)
 - [Caisse des Dépôts](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_Caisse-Annual-Report-2023)
-- MN
-- Kommunal Landspensjonskasse (KLP)
+- [MN](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_MN-Annual-Report-2023)
+- [Kommunal Landspensjonskasse (KLP)](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_KLP-Annual-Report-2023)
 - Bayerische Versorgungskammer (BVK)
 - Covéa
 - Alecta
