@@ -39,7 +39,7 @@ meta:
 
 | Category | Sentence share | Stance |
 |---|---:|---|
-
+| | |
 
 ## Reviewer 1 (Presence) — outcomes
 **Consistency score:** 66  
