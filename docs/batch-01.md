@@ -10,8 +10,8 @@
 8. [Bayerische Versorgungskammer (BVK)](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_BVK-Annual-Report-2023)
 9. [Covéa](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_Covea-Annual-Report-2022)
 10. [Alecta](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_Alecta-annual-and-sustainability-report-2023)
-11. Swedish Fund Selection Agency
-12. Shell Asset Management Company+
+11. [Swedish Fund Selection Agency](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_FTN-Procurement-Report-2024)
+12. Shell Asset Management Company*
 13. ATP
 14. [Universities Superannuation Scheme](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_USS-Report-and-Accounts-2023)
 15. AP Fonden 7
@@ -41,7 +41,6 @@
 39. Sampension
 40. PKA Pension Fund
 
-+ Missing values
-
 <br />
+Missing values (*)
 [BACK TO THE HOME](https://making-finance-sustainable.github.io/RAG-VIDI-beta/)
