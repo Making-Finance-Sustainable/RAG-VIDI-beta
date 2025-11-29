@@ -42,5 +42,6 @@
 40. PKA Pension Fund
 
 <br />
-Missing values (*)
+Missing observations (*)
+
 [BACK TO THE HOME](https://making-finance-sustainable.github.io/RAG-VIDI-beta/)
