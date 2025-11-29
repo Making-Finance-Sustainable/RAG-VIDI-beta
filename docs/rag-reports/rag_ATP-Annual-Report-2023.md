@@ -29,6 +29,7 @@ meta:
 | `conservation_finance` | ✅ |
 
 ## Stance & Sentence share (final)
+
 | Category | Sentence share | Stance |
 |---|---:|---|
 | `sustainable_development` | 5 | Favour |
