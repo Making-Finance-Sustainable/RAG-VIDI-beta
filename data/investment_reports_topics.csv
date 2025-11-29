@@ -6,26 +6,26 @@ Turkey Wealth Fund,TWF-Annual-Report-2022,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FA
 Caisse des Dépôts,Caisse-Annual-Report-2023,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
 MN,MN-Annual-Report-2023,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
 Kommunal Landspensjonskasse (KLP),KLP-Annual-Report-2023,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
-Bayerische Versorgungskammer (BVK),BVK-Annual-Report-2023,,,,,,,
-Covéa,Covea-Annual-Report-2022,,,,,,,
-Alecta,Alecta-annual-and-sustainability-report-2023,,,,,,,
-Swedish Fund Selection Agency,FTN-Procurement-Report-2024,,,,,,,
+Bayerische Versorgungskammer (BVK),BVK-Annual-Report-2023,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Covéa,Covea-Annual-Report-2022,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+Alecta,Alecta-annual-and-sustainability-report-2023,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Swedish Fund Selection Agency,FTN-Procurement-Report-2024,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
 Shell Asset Management Company,NA,,,,,,,
-ATP,ATP-Annual-Report-2023,,,,,,,
+ATP,ATP-Annual-Report-2023,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE
 Universities Superannuation Scheme,USS-Report-and-Accounts-2023,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
-AP Fonden 7,ap7-annual-and-sustainability-report-2023,,,,,,,
+AP Fonden 7,ap7-annual-and-sustainability-report-2023,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
 European Investment Bank,NA,,,,,,,
 PFA Pension,NA,,,,,,,
-PMT,243399-pmt-jv2023-v234-pdfa,,,,,,,
-AGIRC ARRCO,AGIRC-ARRCO-Rapport-Gestion-2023-pages-simples,,,,,,,
-Border to Coast Pensions Partnership,Border-to-Coast-Annual-Report-22_23,,,,,,,
-Nordea Life & Pension,annual-report-nordea-bank-abp-2023,,,,,,,
+PMT,243399-pmt-jv2023-v234-pdfa,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+AGIRC ARRCO,AGIRC-ARRCO-Rapport-Gestion-2023-pages-simples,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
+Border to Coast Pensions Partnership,Border-to-Coast-Annual-Report-22_23,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE
+Nordea Life & Pension,annual-report-nordea-bank-abp-2023,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
 Ilmarinen,annual_and_sustainability_report_2023,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
-AMF Pension,amf_annual_report_and_sustainability_report_2023,,,,,,,
-bpfBouw,bpfBouw-Annual-Report-2023,,,,,,,
-KEVA,Keva-Annual-Report-2023,,,,,,,
-PensionDanmark,PensionDanmark-Annual-Report-2023,,,,,,,
-Swiss Federal Pension Fund PUBLICA,Publica-Annual-Report-2023,,,,,,,
+AMF Pension,amf_annual_report_and_sustainability_report_2023,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+bpfBouw,bpfBouw-Annual-Report-2023,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+KEVA,Keva-Annual-Report-2023,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+PensionDanmark,PensionDanmark-Annual-Report-2023,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
+Swiss Federal Pension Fund PUBLICA,Publica-Annual-Report-2023,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
 AP Fonden 3,AP-Fonden-3-Annual-Report-2023,,,,,,,
 Danica Pension,Danica-Pension-Annual-Report-2023,,,,,,,
 Länsförsäkringar,Lansforsakringar-Alliance-Annual-Report-2023,,,,,,,
