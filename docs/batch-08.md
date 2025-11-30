@@ -1,45 +1,47 @@
 ## Batch-08
 
-- Pennsylvania State Employees' Retirement System
-- Utah Retirement Systems
-- Social Insurance Funds
-- Public Employees' Retirement System of Mississippi
-- Massachusetts Teachers' Retirement System
-- Japan Post Bank
-- Exxon Mobil Pension Fund
-- AFP Cuprum
-- New York State Deferred Compensation Plan
-- Princeton University Investment Company
-- Korea Investment Management
-- Alaska Retirement Management Board
-- San Francisco City & County
-- San Francisco Employees' Retirement System
-- Ontario Power Generation
-- Illinois State Board of Investment
-- Los Angeles Fire and Police Pension Fund
-- Chevron Corporation Pension Fund
-- Wyoming State Treasurer's Office
-- Honeywell Pension
-- CVS Health
-- BC Public Sector Pension Plans
-- Commonfund
-- Funds SA
-- Pfizer Pension Fund
-- QBE Insurance Group
-- Procter & Gamble Pension Fund
-- Togethr Super (Equip & Catholic Super)
-- AT&T Retirement Fund
-- Government Service Insurance System
-- State Universities Retirement System of Illinois
-- Montana Board of Investment
-- Accident Compensation Corporation
-- Malaysia Khazanah Nasional
-- DUMAC (Duke University Investment)
-- United Airlines Holdings
-- B.C. Teachers Pension Plan
-- Walt Disney Pension
-- Kentycky Teachers' Retirement System
-- Super SA
+281. Pennsylvania State Employees' Retirement System
+282. Utah Retirement Systems
+283. Social Insurance Funds*
+284. Public Employees' Retirement System of Mississippi
+285. Massachusetts Teachers' Retirement System
+286. Japan Post Bank
+287. Exxon Mobil Pension Fund*
+288. AFP Cuprum
+289. New York State Deferred Compensation Plan*
+290. Princeton University Investment Company
+291. Korea Investment Management*
+292. Alaska Retirement Management Board*
+293. San Francisco City & County
+294. San Francisco Employees' Retirement System
+295. Ontario Power Generation
+296. Illinois State Board of Investment
+297. Los Angeles Fire and Police Pension Fund
+298. Chevron Corporation Pension Fund
+299. Wyoming State Treasurer's Office
+300. Honeywell Pension*
+301. CVS Health
+302. BC Public Sector Pension Plans
+303. Commonfund*
+304. Funds SA
+305. Pfizer Pension Fund*
+306. QBE Insurance Group
+307. Procter & Gamble Pension Fund*
+308. Togethr Super (Equip & Catholic Super)
+309. AT&T Retirement Fund*
+310. Government Service Insurance System
+311. State Universities Retirement System of Illinois
+312. Montana Board of Investment
+313. Accident Compensation Corporation
+314. Malaysia Khazanah Nasional
+315. DUMAC (Duke University Investment)
+316. United Airlines Holdings
+317. B.C. Teachers Pension Plan
+318. Walt Disney Pension*
+319. Kentycky Teachers' Retirement System
+320. Super SA
 
 <br />
+Missing observations (*)
+
 [BACK TO THE HOME](https://making-finance-sustainable.github.io/RAG-VIDI-beta/)
