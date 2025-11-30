@@ -1,41 +1,401 @@
-﻿company,annual_report,sustainable_development_present,responsible_investment_esg_present,green_growth_present,net_zero_present,decarbonization_present,transition_finance_present,conservation_finance_present
-Norges Bank Investment Management,Norges-Bank-Annual-Report-2023,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
-ABP/APG,ABP-Annual-Report-2023,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
-PGGM/PFZW,PGGM-Annual-Report-2023,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
-Turkey Wealth Fund,TWF-Annual-Report-2022,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-Caisse des Dépôts,Caisse-Annual-Report-2023,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
-MN,MN-Annual-Report-2023,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
-Kommunal Landspensjonskasse (KLP),KLP-Annual-Report-2023,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
-Bayerische Versorgungskammer (BVK),BVK-Annual-Report-2023,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
-Covéa,Covea-Annual-Report-2022,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
-Alecta,Alecta-annual-and-sustainability-report-2023,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
-Swedish Fund Selection Agency,FTN-Procurement-Report-2024,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
-Shell Asset Management Company,NA,,,,,,,
-ATP,ATP-Annual-Report-2023,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE
-Universities Superannuation Scheme,USS-Report-and-Accounts-2023,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
-AP Fonden 7,ap7-annual-and-sustainability-report-2023,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
-European Investment Bank,NA,,,,,,,
-PFA Pension,NA,,,,,,,
-PMT,243399-pmt-jv2023-v234-pdfa,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
-AGIRC ARRCO,AGIRC-ARRCO-Rapport-Gestion-2023-pages-simples,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
-Border to Coast Pensions Partnership,Border-to-Coast-Annual-Report-22_23,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE
-Nordea Life & Pension,annual-report-nordea-bank-abp-2023,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
-Ilmarinen,annual_and_sustainability_report_2023,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
-AMF Pension,amf_annual_report_and_sustainability_report_2023,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
-bpfBouw,bpfBouw-Annual-Report-2023,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
-KEVA,Keva-Annual-Report-2023,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
-PensionDanmark,PensionDanmark-Annual-Report-2023,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
-Swiss Federal Pension Fund PUBLICA,Publica-Annual-Report-2023,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
-AP Fonden 3,AP-Fonden-3-Annual-Report-2023,,,,,,,
-Danica Pension,Danica-Pension-Annual-Report-2023,,,,,,,
-Länsförsäkringar,Lansforsakringar-Alliance-Annual-Report-2023,,,,,,,
-Railpen Investments ,Railpen-Annual-Report-2023,,,,,,,
-AP Fonden 1,AP-Fonden-1-Annual-Report-2023,,,,,,,
-Fonds de compensation AVS,Compenswiss-Annual-Report-2023,,,,,,,
-Electricity Supply Pension Scheme,Electricty-Supply-Pension-Annual-Report-2023,,,,,,,
-ERAFP,ERAPF-Annual-Report-2022,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
-Suva,Suva-Annual-Report-2023,,,,,,,
-Varma,Varma-Annual-Report-2023,,,,,,,
-Versorgungsanstalt des Bundes und der Länder (VBL),VBL-Annual-Report-2022,,,,,,,
-Sampension,Sampension-2023,,,,,,,
-PKA Pension Fund,PKA-2023,,,,,,,
+﻿company,annual_report,400_owners_index,sustainable_development_present,responsible_investment_esg_present,green_growth_present,net_zero_present,decarbonization_present,transition_finance_present,conservation_finance_present
+Norges Bank Investment Management,Norges-Bank-Annual-Report-2023,1,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
+ABP/APG,ABP-Annual-Report-2023,2,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+PGGM/PFZW,PGGM-Annual-Report-2023,3,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
+Turkey Wealth Fund,TWF-Annual-Report-2022,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Caisse des Dépôts,Caisse-Annual-Report-2023,5,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+MN,MN-Annual-Report-2023,6,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Kommunal Landspensjonskasse (KLP),KLP-Annual-Report-2023,7,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Bayerische Versorgungskammer (BVK),BVK-Annual-Report-2023,8,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Covéa,Covea-Annual-Report-2022,9,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+Alecta,Alecta-annual-and-sustainability-report-2023,10,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Swedish Fund Selection Agency,FTN-Procurement-Report-2024,11,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Shell Asset Management Company,NA,12,,,,,,,
+ATP,ATP-Annual-Report-2023,13,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE
+Universities Superannuation Scheme,USS-Report-and-Accounts-2023,14,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+AP Fonden 7,ap7-annual-and-sustainability-report-2023,15,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+European Investment Bank,NA,16,,,,,,,
+PFA Pension,NA,17,,,,,,,
+PMT,243399-pmt-jv2023-v234-pdfa,18,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+AGIRC ARRCO,AGIRC-ARRCO-Rapport-Gestion-2023-pages-simples,19,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
+Border to Coast Pensions Partnership,Border-to-Coast-Annual-Report-22_23,20,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE
+Nordea Life & Pension,annual-report-nordea-bank-abp-2023,21,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Ilmarinen,annual_and_sustainability_report_2023,22,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
+AMF Pension,amf_annual_report_and_sustainability_report_2023,23,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+bpfBouw,bpfBouw-Annual-Report-2023,24,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+KEVA,Keva-Annual-Report-2023,25,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+PensionDanmark,PensionDanmark-Annual-Report-2023,26,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
+Swiss Federal Pension Fund PUBLICA,Publica-Annual-Report-2023,27,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+AP Fonden 3,AP-Fonden-3-Annual-Report-2023,28,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
+Danica Pension,Danica-Pension-Annual-Report-2023,29,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE
+Länsförsäkringar,Lansforsakringar-Alliance-Annual-Report-2023,30,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE
+Railpen Investments ,Railpen-Annual-Report-2023,31,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+AP Fonden 1,AP-Fonden-1-Annual-Report-2023,32,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Fonds de compensation AVS,Compenswiss-Annual-Report-2023,33,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE
+Electricity Supply Pension Scheme,Electricty-Supply-Pension-Annual-Report-2023,34,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+ERAFP,ERAPF-Annual-Report-2022,35,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+Suva,Suva-Annual-Report-2023,36,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Varma,Varma-Annual-Report-2023,37,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Versorgungsanstalt des Bundes und der Länder (VBL),VBL-Annual-Report-2022,38,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Sampension,Sampension-2023,39,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+PKA Pension Fund,PKA-2023,40,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+AP Fonden 2,AP-Fonden-2-2023,41,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE
+PME,PME-2023-NL,42,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Pension Insurance Corporation,Pension-Insurance-Corporation-2023,43,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE
+Northern LGPS,Northern-LGPS-2023,44,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
+Folksam,Folksam-2023,45,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE
+Wellcome Trust,Wellcome-Trust-2023,46,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+AP Fonden 4,AP-Fonden-4,47,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE
+BT Pension Scheme,BTPS-2023,48,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+Natwest Group Pension Scheme,NetWest-2023,49,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE
+Brunel Pension Partnership,Brunel-2023,50,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE
+BP Pension UK,NA,51,,,,,,,
+Royal Bank of Scotland Group,RBS-Annual-Report-2023,52,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+BVK Personalvorsorge des Kantons Zürich,BVK-Zürich-Annual-Report-2023,53,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+The Pension Protection Fund,PPF-Annual-Report-2023,54,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
+HSBC Bank Pension Trust UK,HSBC-Annual-Report-2023,55,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+Pensioenfonds Detailhandel,Pensioenfonds-Detailhandel-Annual-Report-2023,56,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
+BVV Pension Fund,BVV-Annual-Report-2023,57,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+National Employment Savings Trust (NEST),NEST-Annual-Report-2023,58,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Folketrygdfondet - Government Pension Fund Norway Domestic,NA,59,,,,,,,
+Greater Manchester Pension Fund,GMPF-Annual-Report-2023,60,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+Velliv,Velliv-Annual-Report-2023,61,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+Strathclyde Pension Funds,Strathclyde-Annual-Report-2023,62,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+Industriens Pension Fund,Industriens-Annual-Report-2023,63,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Barclays Bank UK Retirement Fund,Barclays-Pension-Annual-Report-2023,64,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE
+UBS Pension Fund,UBP-Annual-Report-2023,65,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE
+London CIV - Collective Investment Vehicle,LCIV-Annual-Report-2023,66,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE
+Local Government Pension Scheme (LGPS Central),LGPS-Annual-Report-2023,67,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Retraites Populaires,Retraites-Annual-Report-2023,68,,,,,,,
+PGB Pension Fund/Pensioenfonds PGB,PGB-Annual-Report-2023,69,,,,,,,
+Migros-Pensionskasse,Migros-Pensionskasse-Annual-Report-2023,70,,,,,,,
+Elo Mutual Pension Insurance Company,NA,71,,,,,,,
+Pensioenfonds Vervoer,Pensioenfonds-Vervoer-Annual-Report-2023,72,,,,,,,
+Local Pensions Partnership Investments (LPPI),LPPI-Annual-Report-2023,73,,,,,,,
+BAE Systems Pension Fund,NA,74,,,,,,,
+Siemens,Siemens-Annual-Report-2023,75,,,,,,,
+ING Pensioenfonds,ING-Annual-Report-2023,76,,,,,,,
+ABN AMRO Pensioenfonds,ABN-Annual-Report-2023,77,,,,,,,
+Asga Pensionskasse,ASGA-Annual-Report-2023,78,,,,,,,
+Schweizer Mobiliar Asset Management AG,NA,79,,,,,,,
+British Airways Pension Investment Management Ltd (BAPIML),British-Airways-Annual-Report-2023,80,,,,,,,
+Bundes Pensionskasse,Bundes-Pensionskasse-Annual-Report-2023,81,,,,,,,
+Kenfo (German Nuclear Waste Management Fund),KENFO-Annual-Report-2024,82,,,,,,,
+Rabobank Pensioenfonds,Rabobank-Annual-Report-2023,83,,,,,,,
+West Midlands Metropolitan,WMM-Annual-Report-2023,84,,,,,,,
+AP Pension,AP-Annual-Report-2023,85,,,,,,,
+FEFSS,FEFFS-Annual-Report-2023,86,,,,,,,
+KPA Pension (KPA Pensionsförsäkring),KPA-Annual-Report-2023,87,,,,,,,
+Pension Fund Rail & Public Transport,Pension-Fund-Rail-Public-Transport-Annual-Report-2023,88,,,,,,,
+State Pension Fund of Finland (VER),NA,89,,,,,,,
+Fonds de Compensation de la Sécurité Sociale,Fonds-De-Compensation-Annual-Report-2023,90,,,,,,,
+Local Pensions Partnership,LPP-Annual-Report-2023,91,,,,,,,
+Fonds de réserve pour les retraites (FRR),FRR-Annual-Report-2023,92,,,,,,,
+Caisse de prévoyance de l'Etat de Genève (CPEG),CPEG-Annual-Report-2023,93,,,,,,,
+Akademiker Pension,Akademiker-Pension-Annual-Report-2023,94,,,,,,,
+Pensionskasse of the city of Zurich (PKZH),PKZH-Annual-Report-2023,95,,,,,,,
+BPL Pensioen,BBL-Annual-Report-2023,96,,,,,,,
+West Yorkshire Pension Fund,WYPF-Annual-Report-2023,97,,,,,,,
+Lærernes Pension,Laerernes-Pension-Annual-Report-2023,98,,,,,,,
+P+ (Pension Fund for Academics),P-Plus-Annual-Report-2023,99,,,,,,,
+ENPAM,ENPAM-Annual-Report-2023,100,,,,,,,
+Shell UK,Shell-UK-Annual-Report-2023,101,,,,,,,
+Philips Pensioenfonds,Philips-Pensioenfonds-Annual-Report-2023,102,,,,,,,
+Credit Suisse Pensionskasse,Credit-Suisse-Pensionskasse-Annual-Report-2023,103,,,,,,,
+Hoffmann La Roche,NA,104,,,,,,,
+SBB Pensionskasse,SBB-Pensionskasse-Annual-Report-2023,105,,,,,,,
+PK Post,PK-Post-Annual-Report-2023,106,,,,,,,
+National Treasury Management Agency,NTMA-Annual-Report-2023,107,,,,,,,
+Pensioenfonds Metaal OFP,Pensioenfonds-Metaal-OFP-2023,108,,,,,,,
+TfL Pension,TfL-Annual-Report-2023,109,,,,,,,
+BBC Pension Scheme,BBC-Pension-Scheme-Annual-Report-2023,110,,,,,,,
+National Grid,Annual_Report_and_Accounts_2023_24_0,111,,,,,,,
+Bernische Pensionskasse (Kanton Bern),BPK-Annual-Report-2023,112,,,,,,,
+CPEV - Caisse de Pension l'Etat de Vaud,CPEV-Annual-Report-2023,113,,,,,,,
+Laegernes Pensionskasse,LPB-Annual-Report-2023,114,,,,,,,
+Pensionskasse Basel-Stadt,PKBS-Annual-Report-2023,115,,,,,,,
+Tesco Pensions Investment,Tesco-Annual-Report-2023,116,,,,,,,
+Vasakronan,Vasakronan-Annual-Report-2023,117,,,,,,,
+Pension Fund for Early Childhood and Youth Educators (Paedagogernes Pension),PBU-Annual-Report-2023,118,,,,,,,
+Univest Company (Unilever),Univest-Annual-Report-2023,119,,,,,,,
+Monetary Authority of Singapore,MAS_Sustainability_Report_2023_2024,120,,,,,,,
+Government Pension Investment Fund,GPIF-Annual-Report-2023,121,,,,,,,
+China Investment Corporation,CIC-Annual-Report-2023,122,,,,,,,
+State Administration of Foreign Exchange,SAFE-Annual-report-2023,123,,,,,,,
+TIAA,TIAA-Annual-Report-2023,124,,,,,,,
+Abu Dhabi Investment Authority ,ADIA-Annual-Review-2023,125,,,,,,,
+Public Investment Fund/Sanabil Investments (PIF),NA,126,,,,,,,
+Kuwait Investment Authority,NA,127,,,,,,,
+Pension Fund Association for Local Government Officials (Chikyoren),NA,128,,,,,,,
+Government of Singapore Investment Corporation,GIC-Annual-Report-2023,129,,,,,,,
+National Council for Society Security Fund,NA,130,,,,,,,
+Federal Retirement Thrift Investment Board,NA,131,,,,,,,
+Korea National Pension Service,NPS-Report-2023,132,,,,,,,
+Hong Kong Monetary Authority,HKMA-Annual-Report-2023,133,,,,,,,
+Qatar Investment Authority,NA,134,,,,,,,
+International Monetary Fund,IMF-Annual-Report-2023,135,,,,,,,
+California Public Employees Retirement System,NA,136,,,,,,,
+Saudia Arabian Monetary Authority ,SAMA-Annual-Report-2023,137,,,,,,,
+Canada Pension Plan Investment Board,CPP-Annual-Report-2023,138,,,,,,,
+Central Provident Fund ,CPFB-Annual-Report-2023,139,,,,,,,
+Investment Corporation of Dubai,ICD-Annual-Report-2023,140,,,,,,,
+California State Teachers Retirement System,NA,141,,,,,,,
+First Abu Dhabi Bank,FAB-Annual-Report-2023,142,,,,,,,
+Caisse de Depot et Placement du Quebec,CDPQ-Annual-Report-2023,143,,,,,,,
+Mubadala,mubadala-annual-report-2023,144,,,,,,,
+Temasek holdings,Temasek-Review-2023-Highlights,145,,,,,,,
+NYC Office of the Comptroller,NA,146,,,,,,,
+New York State Common Retirement Fund,NA,147,,,,,,,
+Florida State Board of Administration,FSBA-Annual-Report-2023,148,,,,,,,
+Employees Provident Fund,EPFM-Annual-Report-2023,149,,,,,,,
+AustralianSuper,Australian-Super-Annual-Report-2023,150,,,,,,,
+Teacher Retirement System of Texas,NA,151,,,,,,,
+Washington State Investment Board,WSIB-Annual-Report-2023,152,,,,,,,
+Australian Retirement Trust,ART-Annual-Report-2023,153,,,,,,,
+Labor Pension Fund Taiwan,NA,154,,,,,,,
+Abu Dhabi Developmental Holding,ADQ-5-Year-Report-2023,155,,,,,,,
+Future Fund,Future-Fund-Year-In-Review-2023,156,,,,,,,
+Public Sector Pension Investment Board,PSPIB-Annual-Report-2023,157,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
+Korea Investment Corporation,KIC-Annual-Report-2023-organised,158,,,,,,,
+Ontario Teachers' Pension Plan,OTPP-Annual-Report-2023,159,,,,,,,
+British Columbia Investment Management Corporation,BCI-Annual-Report-2023,160,,,,,,,
+University of California Office of the Regents,UC-Annual-Report-2023,161,,,,,,,
+Employee's Provident Fund Organisation India,EPFI-Annual-Report-2023,162,,,,,,,
+North Carolina Retirement Systems,NA,163,,,,,,,
+Texas Treasury Safekeeping Trust,NA,164,,,,,,,
+Public Investment Corporation,PIC-Annual-Integrated-Report-2023,165,,,,,,,
+National Wealth Fund,NA,166,,,,,,,
+Minnesota State Board of Investment,MSBI-Annual-Report-2023,167,,,,,,,
+New York State Teachers' Retirement Fund,NYSTRF-Annual-Report-2023,168,,,,,,,
+State of Wisconsin Investment Board,SWIB-Annual-Report-2023,169,,,,,,,
+National Development Fund (IRN),NA,170,,,,,,,
+National Development Fund (SAU),NA,171,,,,,,,
+Public Institute for Social Security,NA,172,,,,,,,
+Pension Benefit Guaranty Corporation,pbgc-annual-report-2023,173,,,,,,,
+Government Employees Pension Fund,GEPF-Annual-Report-2023,174,,,,,,,
+Aware Super,Aware-Super-Annual-Report-2023,175,,,,,,,
+AIMco,AIMco-Annual-Report-2023,176,,,,,,,
+Ohio Public Employees Retirement System,OPERSO-Annual-Comprehensive-Report-2023,177,,,,,,,
+New York City Teachers' Retirement System,TRSNYC-Annual-Comprehensive-Report-2023,178,,,,,,,
+Michigan State Retirement System,MSRS-Annual-Report-2023,179,,,,,,,
+Teachers Retirement System of Georgia,TRSG-Annual-Comprehensive-Report-2023,180,,,,,,,
+Virgina Retirement System,NA,181,,,,,,,
+Massachusetts PRIM,Mass-PRIM-Annual-Comprehensive-Report-2023,182,,,,,,,
+Tennessee Department of Treasury,TDT-Annual-Report-2023,183,,,,,,,
+Amitim,Mivtachim-Annual-actuarial-reports-2023,184,,,,,,,
+United Nations Joint Staff Pension Fund,UNJSPF-Annual-Report-2023,185,,,,,,,
+Ontario Municipal Employees' Retirement System,OMERS-Annual-Report-2023,186,,,,,,,
+State Teachers Retirement System of Ohio,STRSOH-Annual-Comprehensive-Report-2023,187,,,,,,,
+Oregon Public Employees Retirement System,OPERS-Annual-Comprehensive-Report-2023,188,,,,,,,
+UniSuper,Uni-Super-Fund-Annual-Report-2023,189,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Kaiser Permanente,Kaiser-Permanente-Annual-Report-2023,190,,,,,,,
+RTX,RTX-Annual-Report-2023,191,,,,,,,
+Raytheon Technologies Pension,NA,192,,,,,,,
+Pension Fund Association,PFA-Annual-Report-2023,193,,,,,,,
+Retraite Quebec,Retraite-Quebec-Annual-Report-2023,194,,,,,,,
+Emirates Investment Authority ,EIA-Inaugural-Report,195,,,,,,,
+RGA Reinsurance Company,RGA-Annual-Report-2023,196,,,,,,,
+World Bank,World-Bank-Annual-Report-2023,197,,,,,,,
+Healthcare of Ontario Pension Plan,HOOP-Annual-Report-2023,198,,,,,,,
+Alaska Permanent Fund Corporation,APFC-Annual-Report-2023,199,,,,,,,
+New York City Employees Retirement System,NYCERS-Annual-Comprehensive-Report-2023,200,,,,,,,
+Hostplus,Hostplus-Annual-Report-2023,201,,,,,,,
+Lockheed Martin Investment Company,NA,202,,,,,,,
+Permodalan Nasional Berhad,PNB-Integrated-Annual-Report-2023,203,,,,,,,
+New Jersey Investment Division,NJID-Annual-Report-2023,204,,,,,,,
+IBM (US) Retirement Fund,NA,205,,,,,,,
+General Electric Pension,NA,206,,,,,,,
+New South Wales Treasury Corporation,NSWTC-Annual-Report-2023,207,,,,,,,
+Los Angeles County Employees Retirement Assocation,LACERA-Annual-Comprehensive-Report-2023,208,,,,,,,
+QIC,QIC-Annual-Report-2023,209,,,,,,,
+GM pension,NA,210,,,,,,,
+Pennsylvania Public School Employees' Retirement System,PPSERS-Annual-Comprehensive-Report-2023,211,,,,,,,
+United Parcel Service Pension,NA,212,,,,,,,
+Teachers' Retirement System of the State of Illinois,TRSSI-Annual-Comprehensive-Report-2023,213,,,,,,,
+University Texas/Texas A&M Investment Company,UTIMCO-Annual-Report-2023,214,,,,,,,
+Samruk-Kazyna,Samruk-Kazyna-Annual-Report-2023,215,,,,,,,
+Maryland State Retirement,MSR-Annual-Comprehensive-Report-2023,216,,,,,,,
+Afore XXI Banorte,NA,217,,,,,,,
+Libyan Investment Authority,LIA-Overview-Valuation-2019,218,,,,,,,
+Tennessee Consolidated Retirement System,TCRS-Annual-Comprehensive-Report-2023,219,,,,,,,
+Nevada Public Employees' Retirement,NA,220,,,,,,,
+Cbus Super,Cbus-Super-Annual-Integrated-Report-2023,221,,,,,,,
+Afore Profuturo GNP,GNP-Annual-Report-2023,222,,,,,,,
+Lilly Endowment,LE-Annual-Report-2023,223,,,,,,,
+Northrop Grumman,NG-Annual-Report-2023,224,,,,,,,
+Coloroda Public Employees Retirement,CPER-Annual-Comprehensive-Report-2023,225,,,,,,,
+AMP,AMP-Annual-Report-2023,226,,,,,,,
+Brunei Investment Agency,NA,227,,,,,,,
+HESTA Super Fund,HESTA-Annual-Report-2023,228,,,,,,,
+UAW Retiree Medical Benefits Trust,UAW-All-Members-Benefits-Highlights-2023,229,,,,,,,
+Insignia Financial,Insignia-Financial-Annual-Report-2023,230,,,,,,,
+REST Super,REST-super-Annual-Report-2023,231,,,,,,,
+Cascade Investments,NA,232,,,,,,,
+Texas Permanent School Fund,TPSF-Annual-Comprehensive-Report-2023,233,,,,,,,
+Victorian Funds Management Corporation,VFMC-Annual-Report-2023,234,,,,,,,
+State Oil Fund of Azerbaijan,Oil-Fund-Azerbaijan-Annual-Report-2023,235,,,,,,,
+Investment Management Corporation of Ontario,IMCO-Annual-Report-2023,236,,,,,,,
+Western Conference of Teamsters Pension Trust,NA,237,,,,,,,
+Afore Citibanamex,Afore-Citibanamex-Raporte-de-la-Administracion-2023,238,,,,,,,
+Ford Motor Company Pension Fund,NA,239,,,,,,,
+Sura Afore,Sura-Afore-Informe-Anual-2023,240,,,,,,,
+Wells Fargo Retirement Plan,WFRP-Annual-Report-2023,241,,,,,,,
+NYC Police Pension Fund,NYCPPF-Annual-Comprehensive-Report-2023,242,,,,,,,
+Illinois Municipal Retirement Fund,IMRF-Annual-Comprehensive-Report-2023,243,,,,,,,
+JP Morgan Chase,JP-Morgan-Chase-Annual-Report-2023,244,,,,,,,
+Arizona State Retirement System,ASRS-Annual-Comprehensive-Report-2023,245,,,,,,,
+AFP Habitat SA,AFP-Habitat-Cuenta-Pública-2023,246,,,,,,,
+Harvard Management Company (Harvard University Investment),HMC-Annual-Report-2023,247,,,,,,,
+Public School and Education Employee Retirement Systems of Missouri,PSEERSM-Annual-Comprehensive-Report-2023,248,,,,,,,
+Exelon Corporation Pension Plan,NA,249,,,,,,,
+National Federation of Mutual Aid Associations for Municipal Personnel (Shichousonren),NFMAAMP-Annual-Report-2022,250,,,,,,,
+New Mexico State Investment Council,NA,251,,,,,,,
+Office of the Treasurer of the State of Connecticut,Treasurer-Connecticut-Annual-Report-2023,252,,,,,,,
+Connecticut Retirement Plans and Trust Funds,NA,253,,,,,,,
+FedEx Pension,NA,254,,,,,,,
+Boeing Employee Retirement Plan,NA,255,,,,,,,
+State Farm Pension,NA,256,,,,,,,
+Retirement Systems of Alabama,RSA-Annual-Report-2023,257,,,,,,,
+Mastercard Foundation Asset Management,NA,258,,,,,,,
+Indiana Public Employees Retirement,INPRS-Annual-Comprehensive-Report-2023,259,,,,,,,
+Texas County and District Retirement System,TCDRS-Annual-Comprehensive-Report-2023,260,,,,,,,
+New Zealand Superannuation,New-Zealand-Superannuation-Annual-Report-2023,261,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+Local Authorities Pension Plan Alberta,LAPP-Annual-Report-2023,262,,,,,,,
+Verizon Investment Management,NA,263,,,,,,,
+Public School Employees,NA,264,,,,,,,
+Iowa Public Employees Retirement System,IPERS-Annual-Comprehensive-Report-2023,265,,,,,,,
+Stanford Management Company,NA,266,,,,,,,
+Microsoft,Microsoft-Annual-Report-2023,267,,,,,,,
+Texas Municipal Retirement System,TMRS-Annual-Comprehensive-Report-2022,268,,,,,,,
+Minnesota Public Employees Retirement Association,MNPERA-Annual-Comprehensive-Report-2023,269,,,,,,,
+AFP Provida,Pro-Vida-Reporte-Integrado-2023,270,,,,,,,
+Nebraska Investment Council,NIC-Annual-Report-2023,271,,,,,,,
+Yale University Investment Office ,Yale-Investment-Report-2023,272,,,,,,,
+South Carolina Retirement System Investment Commission,SCRSIC-Annual-Investment-Report-2023,273,,,,,,,
+CommonSpirit Health,Common-Spirit-Health-Financial-Statements-2024,274,,,,,,,
+Employees Retirement System of Texas,ERST-Annual-Comprehensive-Report-2023,275,,,,,,,
+Retirement Fund KWAP,KWAP-Annual-Report-2022,276,,,,,,,
+AFP Proteccion,AFP-Proteccion-Informe-Annual-2023,277,,,,,,,
+Nokia USA,Nokia-USA-Annual-Report-2023,278,,,,,,,
+Commonwealth Superannuation Corporation,Commonwealth-Superannuation-Corporation-Annual-Report-2023,279,,,,,,,
+AFP Capital,NA,280,,,,,,,
+Pennsylvania State Employees' Retirement System,PSERS-Annual-Comprehensive-Report-2023,281,,,,,,,
+Utah Retirement Systems,URS-Annual-Comprehensive-Report-2023,282,,,,,,,
+Social Insurance Funds,NA,283,,,,,,,
+Public Employees' Retirement System of Mississippi,PERSM-Annual-Comprehensive-Report-2023,284,,,,,,,
+Massachusetts Teachers' Retirement System,MTRS-Annual-Statement-2023,285,,,,,,,
+Japan Post Bank,JPB-Annual-Report-2023,286,,,,,,,
+Exxon Mobil Pension Fund,NA,287,,,,,,,
+AFP Cuprum,AFP-Cuprum-Memoria-Anual-2023,288,,,,,,,
+New York State Deferred Compensation Plan,NA,289,,,,,,,
+Princeton University Investment Company,Princeton-Treasurer-2023,290,,,,,,,
+Korea Investment Management,NA,291,,,,,,,
+Alaska Retirement Management Board,NA,292,,,,,,,
+San Francisco City & County,SFCC-Annual-Comprehensive-Report-2023,293,,,,,,,
+San Francisco Employees' Retirement System,SFERS-Annual-Report-2023,294,,,,,,,
+Ontario Power Generation,OPG-Integrated-ESG-Annual-Report-2023,295,,,,,,,
+Illinois State Board of Investment,ISBI-Annual-Report-2023,296,,,,,,,
+Los Angeles Fire and Police Pension Fund,LAFPPF-Annual-Report-2023,297,,,,,,,
+Chevron Corporation Pension Fund,Chevron-Annual-Funding-Notice-2023,298,,,,,,,
+Wyoming State Treasurer's Office,WSTO-Annual-Report-2023,299,,,,,,,
+Honeywell Pension,NA,300,,,,,,,
+CVS Health,CVS-Health-Annual-Report-2023,301,,,,,,,
+BC Public Sector Pension Plans,BCPSPP-Annual-Report-2023,302,,,,,,,
+Commonfund,NA,303,,,,,,,
+Funds SA,Funds-SA-Annual-Review-2023,304,,,,,,,
+Pfizer Pension Fund,NA,305,,,,,,,
+QBE Insurance Group,QBE-Annual-Report-2023,306,,,,,,,
+Procter & Gamble Pension Fund,NA,307,,,,,,,
+Togethr Super (Equip & Catholic Super),Togethr-Super-Annual-Report-2023,308,,,,,,,
+AT&T Retirement Fund,NA,309,,,,,,,
+Government Service Insurance System,GSIS-Annual-Report-2023,310,,,,,,,
+State Universities Retirement System of Illinois,SURSI-Annual-Comprehensive-Report-2023,311,,,,,,,
+Montana Board of Investment,MBI-Annual-Report-2023,312,,,,,,,
+Accident Compensation Corporation,ACC-Annual-Report-2023,313,,,,,,,
+Malaysia Khazanah Nasional,Khazana-Annual-Review-2023,314,,,,,,,
+DUMAC (Duke University Investment),Duke-Endowment-2023,315,,,,,,,
+United Airlines Holdings,UAH-Annual-Report-2023,316,,,,,,,
+B.C. Teachers Pension Plan,BCTPP-Annual-Report-2023,317,,,,,,,
+Walt Disney Pension,NA,318,,,,,,,
+Kentycky Teachers' Retirement System,TRSSK-Annual-Comprehensive-Report-2023,319,,,,,,,
+Super SA,Super-SA-Annual-Report-2023,320,,,,,,,
+Government Employees Super Board,GESB-Annual-Report-2023,321,,,,,,,
+Teachers' Retirement System of Louisiana,TRSL-Annual-Comprehensive-Report-2023,322,,,,,,,
+West Virginia Public Employees' Retirement System,WVPERS-Annual-Comprehensive-Report-2023,323,,,,,,,
+SUNY,NA,324,,,,,,,
+Wespath Benefits,Wespath-Benefits-Annual-Report-2023,325,,,,,,,
+Kansas Public Employees Retirement System,KPERS-Annual-Comprehensive-Report-2023,326,,,,,,,
+Public Service Pension Fund of Taiwan,PSPFT-Annual-Report-2023,327,,,,,,,
+State Super (SAS Trustee),State-Super-Annual-Report-2023,328,,,,,,,
+Porvenir,NA,329,,,,,,,
+PepsiCo Pension,NA,330,,,,,,,
+Massachusetts institute of Technology Investment Management Company (MITIMCo),MITTreasurersReport2023,331,,,,,,,
+National Railroad Retirement NRRIT,NRRIT-Annual-Management-Report-2023,332,,,,,,,
+Emergency Services & State Super (ESSSuper),ESSSuper-Annual-Report-2023,333,,,,,,,
+PG&E,PGE-Annual-Report-2023,334,,,,,,,
+Public Employee Retirement System of Idaho (PERSI),PERSI-Annual-Report-2023,335,,,,,,,
+Employees' Retirement System of Georgia,ERSG-Annual-Comprehensive-Report-2023,336,,,,,,,
+Los Angeles City Employees Retirement LACERS,LACERS-Annual-Comprehensive-Report-2023,337,,,,,,,
+Petros Pension,Petros-Pension-Annual-Report-2023,338,,,,,,,
+Employees' Retirement System of State of Hawaii,ERSH-Annual-Comprehensive-Report-2023,339,,,,,,,
+Oklahoma Teachers Retirement System,OTRS-Annual-Comprehensive-Report-2022,340,,,,,,,
+Ontario Pension Board,OPB-Annual-Report-2023,341,,,,,,,
+Hydro-Quebec,Hydro-Quebec-Annual-Report-2023,342,,,,,,,
+Air Canada,Air-Canada-Annual-Report-2023,343,,,,,,,
+Prudential Financial,Preduntial-Financial-Annual-Report-2023,344,,,,,,,
+Canada Post Pension,Canada-Post-Pension-Annual-Report-2023,345,,,,,,,
+Arkansas Teacher Retirement System,ATRS-Annual-Comprehensive-Report-2023,346,,,,,,,
+Orange County Employees Retirement System,OCERS-Annual-Comprehensive-Report-2023,347,,,,,,,
+Truist Financial,Truist-Financial-Annual-Report-2023,348,,,,,,,
+Ohio Bureau of Workers Compensation,Ohio-Bureau-Workers-Compensation-Annual-Report-2023,349,,,,,,,
+Johnson & Johnson Pension Plan,NA,350,,,,,,,
+University of Pennsylvania Investment Office,NA,351,,,,,,,
+Quebec Construction Industry,Quebec-Construction-Annual-Report-2023,352,,,,,,,
+Howard Hughes Medical Institute,NA,353,,,,,,,
+Los Angeles Water and Power Employees Retirement Plan,RPO-Annual-Summary-Report-2023,354,,,,,,,
+Bell Canada,NA,355,,,,,,,
+South Dokato Investment Council,SDIC-Annual-Report-2023,356,,,,,,,
+Merck & Co Inc Pension Fund,NA,357,,,,,,,
+The Korea Teachers Pension,NA,358,,,,,,,
+Brighter Super,Brighter-Super-Annual-Report-2023_24,359,,,,,,,
+Spirit Super (MTAA & Tasplan),Spirit-Super-Annual-Report-2023,360,,,,,,,
+North Dakota State Investment Board,NDRIO-Annual-Report-2023,361,,,,,,,
+Maine Public Employees Retirement System,MPERS-Annual-Comprehensive-Report-2023,362,,,,,,,
+Dow Chemical Pension,Dow-Chemical-Annual-Report-2023,363,,,,,,,
+University of Michigan Investment Office,University-Michigan-Endowment-2023,364,,,,,,,
+School Employees Retirement System of Ohio,SERSO-Annual-Comprehensive-Report-2023,365,,,,,,,
+University of Notre Dame Endownment,NA,366,,,,,,,
+Ohio Police and Fire Pension Fund,OPF-Annual-Comprehensive-Report-2023,367,,,,,,,
+FCA US,FCA-US-Annual-Report-2023,368,,,,,,,
+The Federal Economists Foundation,FUNCEF-Annual-Report-2023,369,,,,,,,
+OPSEU pension Trust,OPSEU-Annual-Funded-Status-Report-2023,370,,,,,,,
+San Diego County Employees Retirement Association,SDCERA-Annual-Comprehensive-Report-2023,371,,,,,,,
+National Electric Benefit Fund,NA,372,,,,,,,
+Bank of America Pension Fund,NA,373,,,,,,,
+Church Pension Fund US,Church-Pension-Fund-Annual-Report-2023,374,,,,,,,
+Public Employees Retirement Association of New Mexico,PERA-Annual-Comprehensive-Report-2023,375,,,,,,,
+New Mexico Educational Retirement Board,NA,376,,,,,,,
+Alberta Teachers' Retirement Fund,ATRF-Annual-Report-2023,377,,,,,,,
+General Dynamics Pension Fund,NA,378,,,,,,,
+Louisiana State Employees' Retirement System,LASERS-Annual-Comprehensive-Report-2023,379,,,,,,,
+Eli Lilly,NA,380,,,,,,,
+Delta Airlines Pension Fund,Delta-Report-Financial-Statement-2023,381,,,,,,,
+International Paper Pension,NA,382,,,,,,,
+Consolidated Edison,Consolidated-Edison-Annual-Report-2023,383,,,,,,,
+San Bernandino County Employees Retirement Association,SBCERA-Annual-Comprehensive-Report-2023,384,,,,,,,
+Columbia Investment Management Company,NA,385,,,,,,,
+Southern Co,Southern-Co-Annual-Report-2023,386,,,,,,,
+Government Pension Fund Global,GPFT-Annual-Risk-Report-2023,387,,,,,,,
+University of Virginia Investment Management Company,UVIMCO-Annual-Report-2023,388,,,,,,,
+3M,3M-Annual-Report-2023,389,,,,,,,
+Northwestern University Investment Office,Northwestern-Endowment-2023,390,,,,,,,
+Public Service Pension Plan Canada,PSPPC-Annual-Report-2023,391,,,,,,,
+Sacramento County Employees Retirement System,SCERS-Annual-Comprehensive-Report-2023,392,,,,,,,
+Oslo Pensjonsforsikring OPF,OPF-Annual-Report-2023,393,,,,,,,
+Banco Santander UK,Santander-UK-Annual-Report-2023,394,,,,,,,
+Kapan Tjanstepensionsforening (Government Employees Pension Fund),Kapan-Annual-Report-2023,395,,,,,,,
+APK Aargauische Pensionskasse,APK-Annual-Report-2023,396,,,,,,,
+EPPF,EPPF_2024_IAR_-_Finalised_-_Single_page_view,397,,,,,,,
+Lífeyrissjóður verzlunarmanna,english-arsreikningur_2023_150324_net_intera,398,,,,,,,
+Washington University Investment Management Company,CRTV-5969-Endowment-Annual-Report-23-24-DIGITAL,399,,,,,,,
+Alameda County Employees' Retirement Association,06.26_acfr_2024_05,400,,,,,,,
