@@ -42,4 +42,6 @@
 160. British Columbia Investment Management Corporation
 
 <br />
+Missing observations (*)
+
 [BACK TO THE HOME](https://making-finance-sustainable.github.io/RAG-VIDI-beta/)
