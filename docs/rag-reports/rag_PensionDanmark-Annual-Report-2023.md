@@ -13,6 +13,7 @@ meta:
 **Key terms:** `PensionDanmark`, `sustainability reporting`, `EU Corporate Sustainability Reporting Directive (CSRD)`, `unit-linked schemes`, `guaranteed benefits`, `profit policy`, `environmental data`, `balance sheet`, `provisions for insurance and investment contracts`
 
 ## Presence by Category (final)
+
 | Category | Present |
 |---|:---:|
 | `sustainable_development` | ✅ |
@@ -24,6 +25,7 @@ meta:
 | `conservation_finance` | — |
 
 ## Stance & Sentence share (final)
+
 | Category | Sentence share | Stance |
 |---|---:|---|
 | `sustainable_development` | 20 | Favour |
@@ -45,3 +47,6 @@ meta:
 ### Adjustment log
 - Added 'green_growth' and 'transition_finance' categories with stance 'Neither' as they were marked absent in reviewed_presence_json.
 - Adjusted 'conservation_finance' sentence_share to null since it was marked absent in reviewed_presence_json.
+
+<br />
+[BACK TO THE HOME](https://making-finance-sustainable.github.io/RAG-VIDI-beta/)
