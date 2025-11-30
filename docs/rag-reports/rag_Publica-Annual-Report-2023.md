@@ -15,6 +15,7 @@ key_terms: ["sustainable finance", "pension fund", "annual report", "strategy pe
 **Key terms:** 
 
 ## Presence by Category (final)
+
 | Category | Present |
 |---|:---:|
 | `sustainable_development` | ✅ |
@@ -26,6 +27,7 @@ key_terms: ["sustainable finance", "pension fund", "annual report", "strategy pe
 | `conservation_finance` | — |
 
 ## Stance & Sentence share (final)
+
 | Category | Sentence share | Stance |
 |---|---:|---|
 | `sustainable_development` | 20 | Favour |
@@ -45,3 +47,6 @@ key_terms: ["sustainable finance", "pension fund", "annual report", "strategy pe
 ### Adjustment log
 - Added 'net_zero' category with 5 sentence_shares and 'Favour' stance based on mention of addressing inadequate adjustment to climate change.
 - Set 'green_growth' category to null sentence_shares and 'Neither' stance as no direct evidence found in the context.
+
+<br />
+[BACK TO THE HOME](https://making-finance-sustainable.github.io/RAG-VIDI-beta/)
