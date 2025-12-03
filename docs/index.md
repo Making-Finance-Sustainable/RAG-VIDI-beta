@@ -78,4 +78,4 @@ Reports now include: (1) captioning process with VLM to improve picture descript
 <img style="width: 95%; display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/plots/topic_cooccurrence.png">
 
 <br />
-**Latest update:** November 30, 2025.
+**Latest update:** December 3, 2025.
