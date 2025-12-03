@@ -66,39 +66,39 @@ Barclays Bank UK Retirement Fund,Barclays-Pension-Annual-Report-2023,64,FALSE,TR
 UBS Pension Fund,UBP-Annual-Report-2023,65,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE
 London CIV - Collective Investment Vehicle,LCIV-Annual-Report-2023,66,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE
 Local Government Pension Scheme (LGPS Central),LGPS-Annual-Report-2023,67,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
-Retraites Populaires,Retraites-Annual-Report-2023,68,,,,,,,
-PGB Pension Fund/Pensioenfonds PGB,PGB-Annual-Report-2023,69,,,,,,,
-Migros-Pensionskasse,Migros-Pensionskasse-Annual-Report-2023,70,,,,,,,
+Retraites Populaires,Retraites-Annual-Report-2023,68,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE
+PGB Pension Fund/Pensioenfonds PGB,PGB-Annual-Report-2023,69,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Migros-Pensionskasse,Migros-Pensionskasse-Annual-Report-2023,70,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
 Elo Mutual Pension Insurance Company,NA,71,,,,,,,
-Pensioenfonds Vervoer,Pensioenfonds-Vervoer-Annual-Report-2023,72,,,,,,,
-Local Pensions Partnership Investments (LPPI),LPPI-Annual-Report-2023,73,,,,,,,
+Pensioenfonds Vervoer,Pensioenfonds-Vervoer-Annual-Report-2023,72,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE
+Local Pensions Partnership Investments (LPPI),LPPI-Annual-Report-2023,73,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
 BAE Systems Pension Fund,NA,74,,,,,,,
-Siemens,Siemens-Annual-Report-2023,75,,,,,,,
+Siemens,Siemens-Annual-Report-2023,75,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
 ING Pensioenfonds,ING-Annual-Report-2023,76,,,,,,,
-ABN AMRO Pensioenfonds,ABN-Annual-Report-2023,77,,,,,,,
-Asga Pensionskasse,ASGA-Annual-Report-2023,78,,,,,,,
+ABN AMRO Pensioenfonds,ABN-Annual-Report-2023,77,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Asga Pensionskasse,ASGA-Annual-Report-2023,78,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
 Schweizer Mobiliar Asset Management AG,NA,79,,,,,,,
-British Airways Pension Investment Management Ltd (BAPIML),British-Airways-Annual-Report-2023,80,,,,,,,
-Bundes Pensionskasse,Bundes-Pensionskasse-Annual-Report-2023,81,,,,,,,
-Kenfo (German Nuclear Waste Management Fund),KENFO-Annual-Report-2024,82,,,,,,,
-Rabobank Pensioenfonds,Rabobank-Annual-Report-2023,83,,,,,,,
-West Midlands Metropolitan,WMM-Annual-Report-2023,84,,,,,,,
-AP Pension,AP-Annual-Report-2023,85,,,,,,,
-FEFSS,FEFFS-Annual-Report-2023,86,,,,,,,
-KPA Pension (KPA Pensionsförsäkring),KPA-Annual-Report-2023,87,,,,,,,
-Pension Fund Rail & Public Transport,Pension-Fund-Rail-Public-Transport-Annual-Report-2023,88,,,,,,,
+British Airways Pension Investment Management Ltd (BAPIML),British-Airways-Annual-Report-2023,80,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Bundes Pensionskasse,Bundes-Pensionskasse-Annual-Report-2023,81,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Kenfo (German Nuclear Waste Management Fund),KENFO-Annual-Report-2024,82,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Rabobank Pensioenfonds,Rabobank-Annual-Report-2023,83,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+West Midlands Metropolitan,WMM-Annual-Report-2023,84,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+AP Pension,AP-Annual-Report-2023,85,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+FEFSS,FEFFS-Annual-Report-2023,86,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+KPA Pension (KPA Pensionsförsäkring),KPA-Annual-Report-2023,87,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
+Pension Fund Rail & Public Transport,Pension-Fund-Rail-Public-Transport-Annual-Report-2023,88,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
 State Pension Fund of Finland (VER),NA,89,,,,,,,
-Fonds de Compensation de la Sécurité Sociale,Fonds-De-Compensation-Annual-Report-2023,90,,,,,,,
-Local Pensions Partnership,LPP-Annual-Report-2023,91,,,,,,,
-Fonds de réserve pour les retraites (FRR),FRR-Annual-Report-2023,92,,,,,,,
-Caisse de prévoyance de l'Etat de Genève (CPEG),CPEG-Annual-Report-2023,93,,,,,,,
-Akademiker Pension,Akademiker-Pension-Annual-Report-2023,94,,,,,,,
-Pensionskasse of the city of Zurich (PKZH),PKZH-Annual-Report-2023,95,,,,,,,
-BPL Pensioen,BBL-Annual-Report-2023,96,,,,,,,
-West Yorkshire Pension Fund,WYPF-Annual-Report-2023,97,,,,,,,
-Lærernes Pension,Laerernes-Pension-Annual-Report-2023,98,,,,,,,
-P+ (Pension Fund for Academics),P-Plus-Annual-Report-2023,99,,,,,,,
-ENPAM,ENPAM-Annual-Report-2023,100,,,,,,,
+Fonds de Compensation de la Sécurité Sociale,Fonds-De-Compensation-Annual-Report-2023,90,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Local Pensions Partnership,LPP-Annual-Report-2023,91,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
+Fonds de réserve pour les retraites (FRR),FRR-Annual-Report-2023,92,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+Caisse de prévoyance de l'Etat de Genève (CPEG),CPEG-Annual-Report-2023,93,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Akademiker Pension,Akademiker-Pension-Annual-Report-2023,94,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Pensionskasse of the city of Zurich (PKZH),PKZH-Annual-Report-2023,95,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+BPL Pensioen,BBL-Annual-Report-2023,96,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE
+West Yorkshire Pension Fund,WYPF-Annual-Report-2023,97,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
+Lærernes Pension,Laerernes-Pension-Annual-Report-2023,98,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+P+ (Pension Fund for Academics),P-Plus-Annual-Report-2023,99,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+ENPAM,ENPAM-Annual-Report-2023,100,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
 Shell UK,Shell-UK-Annual-Report-2023,101,,,,,,,
 Philips Pensioenfonds,Philips-Pensioenfonds-Annual-Report-2023,102,,,,,,,
 Credit Suisse Pensionskasse,Credit-Suisse-Pensionskasse-Annual-Report-2023,103,,,,,,,
