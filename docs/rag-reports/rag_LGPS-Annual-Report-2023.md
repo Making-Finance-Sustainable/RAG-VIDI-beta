@@ -17,6 +17,7 @@ key_terms: ["LGPS Central Limited", "annual report", "financial statements", "au
 **Key terms:** 
 
 ## Presence by Category (final)
+
 | Category | Present |
 |---|:---:|
 | `sustainable_development` | — |
@@ -28,6 +29,7 @@ key_terms: ["LGPS Central Limited", "annual report", "financial statements", "au
 | `conservation_finance` | — |
 
 ## Stance & Sentence share (final)
+
 | Category | Sentence share | Stance |
 |---|---:|---|
 | `responsible_investment_esg` | 25 | Favour |
@@ -49,3 +51,6 @@ key_terms: ["LGPS Central Limited", "annual report", "financial statements", "au
 ### Adjustment log
 - Added 'net_zero' category with sentence_share=10, stance=Favour based on context mentioning commitment to stop financing new oil and gas fields and transitioning to a low carbon economy.
 - Adjusted sentence_shares so sum is 50 (conservative estimate of total sentences), while still reflecting the relative importance of each topic per the context.
+
+<br />
+[BACK TO THE HOME](https://making-finance-sustainable.github.io/RAG-VIDI-beta/)
