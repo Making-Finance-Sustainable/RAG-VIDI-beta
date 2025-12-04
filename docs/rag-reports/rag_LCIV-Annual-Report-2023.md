@@ -24,6 +24,7 @@ meta:
 **Key terms:** `sustainable finance`, `net zero target`, `climate change risk`, `responsible investment`, `ESG`, `governance`, `risk management`, `assets under management`, `client engagement`
 
 ## Presence by Category (final)
+
 | Category | Present |
 |---|:---:|
 | `sustainable_development` | ✅ |
@@ -35,6 +36,7 @@ meta:
 | `conservation_finance` | ✅ |
 
 ## Stance & Sentence share (final)
+
 | Category | Sentence share | Stance |
 |---|---:|---|
 | `sustainable_development` | 10 | Favour |
@@ -63,3 +65,6 @@ meta:
 ### Adjustment log
 - Added 'transition_finance' category with sentence_share=5, stance='Neither', and evidence=['Transition finance is not directly mentioned in the provided context.'].
 - Adjusted 'conservation_finance' sentence_share from 6 to 7 based on the context.
+
+<br />
+[BACK TO THE HOME](https://making-finance-sustainable.github.io/RAG-VIDI-beta/)
