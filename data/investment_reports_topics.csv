@@ -112,13 +112,13 @@ BBC Pension Scheme,BBC-Pension-Scheme-Annual-Report-2023,110,TRUE,TRUE,FALSE,TRU
 National Grid,Annual_Report_and_Accounts_2023_24_0,111,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
 Bernische Pensionskasse (Kanton Bern),BPK-Annual-Report-2023,112,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
 CPEV - Caisse de Pension l'Etat de Vaud,CPEV-Annual-Report-2023,113,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
-Laegernes Pensionskasse,LPB-Annual-Report-2023,114,,,,,,,
-Pensionskasse Basel-Stadt,PKBS-Annual-Report-2023,115,,,,,,,
-Tesco Pensions Investment,Tesco-Annual-Report-2023,116,,,,,,,
-Vasakronan,Vasakronan-Annual-Report-2023,117,,,,,,,
-Pension Fund for Early Childhood and Youth Educators (Paedagogernes Pension),PBU-Annual-Report-2023,118,,,,,,,
-Univest Company (Unilever),Univest-Annual-Report-2023,119,,,,,,,
-Monetary Authority of Singapore,MAS_Sustainability_Report_2023_2024,120,,,,,,,
+Laegernes Pensionskasse,LPB-Annual-Report-2023,114,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE
+Pensionskasse Basel-Stadt,PKBS-Annual-Report-2023,115,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Tesco Pensions Investment,Tesco-Annual-Report-2023,116,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
+Vasakronan,Vasakronan-Annual-Report-2023,117,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+Pension Fund for Early Childhood and Youth Educators (Paedagogernes Pension),PBU-Annual-Report-2023,118,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Univest Company (Unilever),Univest-Annual-Report-2023,119,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+Monetary Authority of Singapore,MAS_Sustainability_Report_2023_2024,120,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE
 Government Pension Investment Fund,GPIF-Annual-Report-2023,121,,,,,,,
 China Investment Corporation,CIC-Annual-Report-2023,122,,,,,,,
 State Administration of Foreign Exchange,SAFE-Annual-report-2023,123,,,,,,,
