@@ -99,19 +99,19 @@ West Yorkshire Pension Fund,WYPF-Annual-Report-2023,97,FALSE,TRUE,FALSE,TRUE,TRU
 Lærernes Pension,Laerernes-Pension-Annual-Report-2023,98,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
 P+ (Pension Fund for Academics),P-Plus-Annual-Report-2023,99,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
 ENPAM,ENPAM-Annual-Report-2023,100,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
-Shell UK,Shell-UK-Annual-Report-2023,101,,,,,,,
-Philips Pensioenfonds,Philips-Pensioenfonds-Annual-Report-2023,102,,,,,,,
-Credit Suisse Pensionskasse,Credit-Suisse-Pensionskasse-Annual-Report-2023,103,,,,,,,
+Shell UK,Shell-UK-Annual-Report-2023,101,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Philips Pensioenfonds,Philips-Pensioenfonds-Annual-Report-2023,102,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Credit Suisse Pensionskasse,Credit-Suisse-Pensionskasse-Annual-Report-2023,103,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
 Hoffmann La Roche,NA,104,,,,,,,
-SBB Pensionskasse,SBB-Pensionskasse-Annual-Report-2023,105,,,,,,,
-PK Post,PK-Post-Annual-Report-2023,106,,,,,,,
-National Treasury Management Agency,NTMA-Annual-Report-2023,107,,,,,,,
-Pensioenfonds Metaal OFP,Pensioenfonds-Metaal-OFP-2023,108,,,,,,,
-TfL Pension,TfL-Annual-Report-2023,109,,,,,,,
-BBC Pension Scheme,BBC-Pension-Scheme-Annual-Report-2023,110,,,,,,,
-National Grid,Annual_Report_and_Accounts_2023_24_0,111,,,,,,,
-Bernische Pensionskasse (Kanton Bern),BPK-Annual-Report-2023,112,,,,,,,
-CPEV - Caisse de Pension l'Etat de Vaud,CPEV-Annual-Report-2023,113,,,,,,,
+SBB Pensionskasse,SBB-Pensionskasse-Annual-Report-2023,105,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+PK Post,PK-Post-Annual-Report-2023,106,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+National Treasury Management Agency,NTMA-Annual-Report-2023,107,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Pensioenfonds Metaal OFP,Pensioenfonds-Metaal-OFP-2023,108,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+TfL Pension,TfL-Annual-Report-2023,109,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+BBC Pension Scheme,BBC-Pension-Scheme-Annual-Report-2023,110,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+National Grid,Annual_Report_and_Accounts_2023_24_0,111,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Bernische Pensionskasse (Kanton Bern),BPK-Annual-Report-2023,112,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+CPEV - Caisse de Pension l'Etat de Vaud,CPEV-Annual-Report-2023,113,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
 Laegernes Pensionskasse,LPB-Annual-Report-2023,114,,,,,,,
 Pensionskasse Basel-Stadt,PKBS-Annual-Report-2023,115,,,,,,,
 Tesco Pensions Investment,Tesco-Annual-Report-2023,116,,,,,,,
