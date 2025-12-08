@@ -119,36 +119,36 @@ Vasakronan,Vasakronan-Annual-Report-2023,117,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,F
 Pension Fund for Early Childhood and Youth Educators (Paedagogernes Pension),PBU-Annual-Report-2023,118,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
 Univest Company (Unilever),Univest-Annual-Report-2023,119,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
 Monetary Authority of Singapore,MAS_Sustainability_Report_2023_2024,120,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE
-Government Pension Investment Fund,GPIF-Annual-Report-2023,121,,,,,,,
-China Investment Corporation,CIC-Annual-Report-2023,122,,,,,,,
-State Administration of Foreign Exchange,SAFE-Annual-report-2023,123,,,,,,,
-TIAA,TIAA-Annual-Report-2023,124,,,,,,,
-Abu Dhabi Investment Authority ,ADIA-Annual-Review-2023,125,,,,,,,
+Government Pension Investment Fund,GPIF-Annual-Report-2023,121,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+China Investment Corporation,CIC-Annual-Report-2023,122,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE
+State Administration of Foreign Exchange,SAFE-Annual-report-2023,123,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TIAA,TIAA-Annual-Report-2023,124,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+Abu Dhabi Investment Authority ,ADIA-Annual-Review-2023,125,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
 Public Investment Fund/Sanabil Investments (PIF),NA,126,,,,,,,
 Kuwait Investment Authority,NA,127,,,,,,,
 Pension Fund Association for Local Government Officials (Chikyoren),NA,128,,,,,,,
-Government of Singapore Investment Corporation,GIC-Annual-Report-2023,129,,,,,,,
+Government of Singapore Investment Corporation,GIC-Annual-Report-2023,129,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
 National Council for Society Security Fund,NA,130,,,,,,,
 Federal Retirement Thrift Investment Board,NA,131,,,,,,,
-Korea National Pension Service,NPS-Report-2023,132,,,,,,,
-Hong Kong Monetary Authority,HKMA-Annual-Report-2023,133,,,,,,,
+Korea National Pension Service,NPS-Report-2023,132,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Hong Kong Monetary Authority,HKMA-Annual-Report-2023,133,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
 Qatar Investment Authority,NA,134,,,,,,,
-International Monetary Fund,IMF-Annual-Report-2023,135,,,,,,,
+International Monetary Fund,IMF-Annual-Report-2023,135,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
 California Public Employees Retirement System,NA,136,,,,,,,
-Saudia Arabian Monetary Authority ,SAMA-Annual-Report-2023,137,,,,,,,
-Canada Pension Plan Investment Board,CPP-Annual-Report-2023,138,,,,,,,
-Central Provident Fund ,CPFB-Annual-Report-2023,139,,,,,,,
-Investment Corporation of Dubai,ICD-Annual-Report-2023,140,,,,,,,
+Saudia Arabian Monetary Authority ,SAMA-Annual-Report-2023,137,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE
+Canada Pension Plan Investment Board,CPP-Annual-Report-2023,138,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+Central Provident Fund ,CPFB-Annual-Report-2023,139,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Investment Corporation of Dubai,ICD-Annual-Report-2023,140,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
 California State Teachers Retirement System,NA,141,,,,,,,
-First Abu Dhabi Bank,FAB-Annual-Report-2023,142,,,,,,,
-Caisse de Depot et Placement du Quebec,CDPQ-Annual-Report-2023,143,,,,,,,
-Mubadala,mubadala-annual-report-2023,144,,,,,,,
-Temasek holdings,Temasek-Review-2023-Highlights,145,,,,,,,
+First Abu Dhabi Bank,FAB-Annual-Report-2023,142,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Caisse de Depot et Placement du Quebec,CDPQ-Annual-Report-2023,143,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE
+Mubadala,mubadala-annual-report-2023,144,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+Temasek holdings,Temasek-Review-2023-Highlights,145,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
 NYC Office of the Comptroller,NA,146,,,,,,,
 New York State Common Retirement Fund,NA,147,,,,,,,
-Florida State Board of Administration,FSBA-Annual-Report-2023,148,,,,,,,
-Employees Provident Fund,EPFM-Annual-Report-2023,149,,,,,,,
-AustralianSuper,Australian-Super-Annual-Report-2023,150,,,,,,,
+Florida State Board of Administration,FSBA-Annual-Report-2023,148,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Employees Provident Fund,EPFM-Annual-Report-2023,149,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE
+AustralianSuper,Australian-Super-Annual-Report-2023,150,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
 Teacher Retirement System of Texas,NA,151,,,,,,,
 Washington State Investment Board,WSIB-Annual-Report-2023,152,,,,,,,
 Australian Retirement Trust,ART-Annual-Report-2023,153,,,,,,,
