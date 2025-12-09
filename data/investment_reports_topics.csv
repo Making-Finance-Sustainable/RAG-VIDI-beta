@@ -150,24 +150,24 @@ Florida State Board of Administration,FSBA-Annual-Report-2023,148,FALSE,FALSE,FA
 Employees Provident Fund,EPFM-Annual-Report-2023,149,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE
 AustralianSuper,Australian-Super-Annual-Report-2023,150,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
 Teacher Retirement System of Texas,NA,151,,,,,,,
-Washington State Investment Board,WSIB-Annual-Report-2023,152,,,,,,,
-Australian Retirement Trust,ART-Annual-Report-2023,153,,,,,,,
+Washington State Investment Board,WSIB-Annual-Report-2023,152,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Australian Retirement Trust,ART-Annual-Report-2023,153,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
 Labor Pension Fund Taiwan,NA,154,,,,,,,
-Abu Dhabi Developmental Holding,ADQ-5-Year-Report-2023,155,,,,,,,
-Future Fund,Future-Fund-Year-In-Review-2023,156,,,,,,,
+Abu Dhabi Developmental Holding,ADQ-5-Year-Report-2023,155,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Future Fund,Future-Fund-Year-In-Review-2023,156,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE
 Public Sector Pension Investment Board,PSPIB-Annual-Report-2023,157,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
 Korea Investment Corporation,KIC-Annual-Report-2023-organised,158,,,,,,,
-Ontario Teachers' Pension Plan,OTPP-Annual-Report-2023,159,,,,,,,
-British Columbia Investment Management Corporation,BCI-Annual-Report-2023,160,,,,,,,
-University of California Office of the Regents,UC-Annual-Report-2023,161,,,,,,,
-Employee's Provident Fund Organisation India,EPFI-Annual-Report-2023,162,,,,,,,
+Ontario Teachers' Pension Plan,OTPP-Annual-Report-2023,159,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE
+British Columbia Investment Management Corporation,BCI-Annual-Report-2023,160,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+University of California Office of the Regents,UC-Annual-Report-2023,161,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Employee's Provident Fund Organisation India,EPFI-Annual-Report-2023,162,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
 North Carolina Retirement Systems,NA,163,,,,,,,
 Texas Treasury Safekeeping Trust,NA,164,,,,,,,
-Public Investment Corporation,PIC-Annual-Integrated-Report-2023,165,,,,,,,
+Public Investment Corporation,PIC-Annual-Integrated-Report-2023,165,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
 National Wealth Fund,NA,166,,,,,,,
-Minnesota State Board of Investment,MSBI-Annual-Report-2023,167,,,,,,,
-New York State Teachers' Retirement Fund,NYSTRF-Annual-Report-2023,168,,,,,,,
-State of Wisconsin Investment Board,SWIB-Annual-Report-2023,169,,,,,,,
+Minnesota State Board of Investment,MSBI-Annual-Report-2023,167,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+New York State Teachers' Retirement Fund,NYSTRF-Annual-Report-2023,168,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+State of Wisconsin Investment Board,SWIB-Annual-Report-2023,169,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
 National Development Fund (IRN),NA,170,,,,,,,
 National Development Fund (SAU),NA,171,,,,,,,
 Public Institute for Social Security,NA,172,,,,,,,
