@@ -171,43 +171,43 @@ State of Wisconsin Investment Board,SWIB-Annual-Report-2023,169,FALSE,FALSE,FALS
 National Development Fund (IRN),NA,170,,,,,,,
 National Development Fund (SAU),NA,171,,,,,,,
 Public Institute for Social Security,NA,172,,,,,,,
-Pension Benefit Guaranty Corporation,pbgc-annual-report-2023,173,,,,,,,
-Government Employees Pension Fund,GEPF-Annual-Report-2023,174,,,,,,,
-Aware Super,Aware-Super-Annual-Report-2023,175,,,,,,,
-AIMco,AIMco-Annual-Report-2023,176,,,,,,,
-Ohio Public Employees Retirement System,OPERSO-Annual-Comprehensive-Report-2023,177,,,,,,,
-New York City Teachers' Retirement System,TRSNYC-Annual-Comprehensive-Report-2023,178,,,,,,,
-Michigan State Retirement System,MSRS-Annual-Report-2023,179,,,,,,,
-Teachers Retirement System of Georgia,TRSG-Annual-Comprehensive-Report-2023,180,,,,,,,
+Pension Benefit Guaranty Corporation,pbgc-annual-report-2023,173,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Government Employees Pension Fund,GEPF-Annual-Report-2023,174,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Aware Super,Aware-Super-Annual-Report-2023,175,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+AIMco,AIMco-Annual-Report-2023,176,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE
+Ohio Public Employees Retirement System,OPERSO-Annual-Comprehensive-Report-2023,177,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+New York City Teachers' Retirement System,TRSNYC-Annual-Comprehensive-Report-2023,178,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Michigan State Retirement System,MSRS-Annual-Report-2023,179,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Teachers Retirement System of Georgia,TRSG-Annual-Comprehensive-Report-2023,180,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
 Virgina Retirement System,NA,181,,,,,,,
-Massachusetts PRIM,Mass-PRIM-Annual-Comprehensive-Report-2023,182,,,,,,,
-Tennessee Department of Treasury,TDT-Annual-Report-2023,183,,,,,,,
-Amitim,Mivtachim-Annual-actuarial-reports-2023,184,,,,,,,
-United Nations Joint Staff Pension Fund,UNJSPF-Annual-Report-2023,185,,,,,,,
-Ontario Municipal Employees' Retirement System,OMERS-Annual-Report-2023,186,,,,,,,
-State Teachers Retirement System of Ohio,STRSOH-Annual-Comprehensive-Report-2023,187,,,,,,,
-Oregon Public Employees Retirement System,OPERS-Annual-Comprehensive-Report-2023,188,,,,,,,
+Massachusetts PRIM,Mass-PRIM-Annual-Comprehensive-Report-2023,182,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Tennessee Department of Treasury,TDT-Annual-Report-2023,183,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Amitim,Mivtachim-Annual-actuarial-reports-2023,184,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+United Nations Joint Staff Pension Fund,UNJSPF-Annual-Report-2023,185,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+Ontario Municipal Employees' Retirement System,OMERS-Annual-Report-2023,186,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
+State Teachers Retirement System of Ohio,STRSOH-Annual-Comprehensive-Report-2023,187,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Oregon Public Employees Retirement System,OPERS-Annual-Comprehensive-Report-2023,188,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
 UniSuper,Uni-Super-Fund-Annual-Report-2023,189,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
-Kaiser Permanente,Kaiser-Permanente-Annual-Report-2023,190,,,,,,,
-RTX,RTX-Annual-Report-2023,191,,,,,,,
+Kaiser Permanente,Kaiser-Permanente-Annual-Report-2023,190,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE
+RTX,RTX-Annual-Report-2023,191,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
 Raytheon Technologies Pension,NA,192,,,,,,,
-Pension Fund Association,PFA-Annual-Report-2023,193,,,,,,,
-Retraite Quebec,Retraite-Quebec-Annual-Report-2023,194,,,,,,,
-Emirates Investment Authority ,EIA-Inaugural-Report,195,,,,,,,
-RGA Reinsurance Company,RGA-Annual-Report-2023,196,,,,,,,
-World Bank,World-Bank-Annual-Report-2023,197,,,,,,,
-Healthcare of Ontario Pension Plan,HOOP-Annual-Report-2023,198,,,,,,,
-Alaska Permanent Fund Corporation,APFC-Annual-Report-2023,199,,,,,,,
-New York City Employees Retirement System,NYCERS-Annual-Comprehensive-Report-2023,200,,,,,,,
-Hostplus,Hostplus-Annual-Report-2023,201,,,,,,,
+Pension Fund Association,PFA-Annual-Report-2023,193,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Retraite Quebec,Retraite-Quebec-Annual-Report-2023,194,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Emirates Investment Authority ,EIA-Inaugural-Report,195,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+RGA Reinsurance Company,RGA-Annual-Report-2023,196,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+World Bank,World-Bank-Annual-Report-2023,197,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE
+Healthcare of Ontario Pension Plan,HOOP-Annual-Report-2023,198,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
+Alaska Permanent Fund Corporation,APFC-Annual-Report-2023,199,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+New York City Employees Retirement System,NYCERS-Annual-Comprehensive-Report-2023,200,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Hostplus,Hostplus-Annual-Report-2023,201,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
 Lockheed Martin Investment Company,NA,202,,,,,,,
-Permodalan Nasional Berhad,PNB-Integrated-Annual-Report-2023,203,,,,,,,
-New Jersey Investment Division,NJID-Annual-Report-2023,204,,,,,,,
+Permodalan Nasional Berhad,PNB-Integrated-Annual-Report-2023,203,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+New Jersey Investment Division,NJID-Annual-Report-2023,204,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
 IBM (US) Retirement Fund,NA,205,,,,,,,
 General Electric Pension,NA,206,,,,,,,
-New South Wales Treasury Corporation,NSWTC-Annual-Report-2023,207,,,,,,,
-Los Angeles County Employees Retirement Assocation,LACERA-Annual-Comprehensive-Report-2023,208,,,,,,,
-QIC,QIC-Annual-Report-2023,209,,,,,,,
+New South Wales Treasury Corporation,NSWTC-Annual-Report-2023,207,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Los Angeles County Employees Retirement Assocation,LACERA-Annual-Comprehensive-Report-2023,208,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+QIC,QIC-Annual-Report-2023,209,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
 GM pension,NA,210,,,,,,,
 Pennsylvania Public School Employees' Retirement System,PPSERS-Annual-Comprehensive-Report-2023,211,,,,,,,
 United Parcel Service Pension,NA,212,,,,,,,
