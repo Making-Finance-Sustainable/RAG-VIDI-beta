@@ -1,14 +1,14 @@
 ## Batch-06
 
-201. Hostplus
-202. Lockheed Martin Investment Company
-203. Permodalan Nasional Berhad
-204. New Jersey Investment Division*
+201. [Hostplus](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_Hostplus-Annual-Report-2023)
+202. Lockheed Martin Investment Company*
+203. [Permodalan Nasional Berhad](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_PNB-Integrated-Annual-Report-2023)
+204. [New Jersey Investment Division](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_NJID-Annual-Report-2023)
 205. IBM (US) Retirement Fund*
 206. General Electric Pension*
-207. New South Wales Treasury Corporation
-208. Los Angeles County Employees Retirement Assocation
-209. QIC
+207. [New South Wales Treasury Corporation](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_NSWTC-Annual-Report-2023)
+208. [Los Angeles County Employees Retirement Assocation](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_LACERA-Annual-Comprehensive-Report-2023)
+209. [QIC](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_QIC-Annual-Report-2023)
 210. GM pension*
 211. Pennsylvania Public School Employees' Retirement System
 212. United Parcel Service Pension*
