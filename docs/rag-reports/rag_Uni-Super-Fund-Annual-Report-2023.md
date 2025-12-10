@@ -26,8 +26,8 @@ meta:
 **Key terms:** `UniSuper Limited`, `superannuation fund`, `trust deed`, `defined benefit division`, `defined contribution plan`, `risk management framework`, `three-lines-of-accountability model`, `material accounting policies`
 
 ## Presence by Category (final)
-| Category | Present |
 
+| Category | Present |
 |---|:---:|
 | `sustainable_development` | — |
 | `responsible_investment_esg` | ✅ |
