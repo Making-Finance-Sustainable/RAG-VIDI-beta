@@ -209,26 +209,26 @@ New South Wales Treasury Corporation,NSWTC-Annual-Report-2023,207,TRUE,TRUE,TRUE
 Los Angeles County Employees Retirement Assocation,LACERA-Annual-Comprehensive-Report-2023,208,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
 QIC,QIC-Annual-Report-2023,209,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
 GM pension,NA,210,,,,,,,
-Pennsylvania Public School Employees' Retirement System,PPSERS-Annual-Comprehensive-Report-2023,211,,,,,,,
+Pennsylvania Public School Employees' Retirement System,PPSERS-Annual-Comprehensive-Report-2023,211,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
 United Parcel Service Pension,NA,212,,,,,,,
-Teachers' Retirement System of the State of Illinois,TRSSI-Annual-Comprehensive-Report-2023,213,,,,,,,
-University Texas/Texas A&M Investment Company,UTIMCO-Annual-Report-2023,214,,,,,,,
-Samruk-Kazyna,Samruk-Kazyna-Annual-Report-2023,215,,,,,,,
-Maryland State Retirement,MSR-Annual-Comprehensive-Report-2023,216,,,,,,,
+Teachers' Retirement System of the State of Illinois,TRSSI-Annual-Comprehensive-Report-2023,213,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+University Texas/Texas A&M Investment Company,UTIMCO-Annual-Report-2023,214,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Samruk-Kazyna,Samruk-Kazyna-Annual-Report-2023,215,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Maryland State Retirement,MSR-Annual-Comprehensive-Report-2023,216,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
 Afore XXI Banorte,NA,217,,,,,,,
-Libyan Investment Authority,LIA-Overview-Valuation-2019,218,,,,,,,
-Tennessee Consolidated Retirement System,TCRS-Annual-Comprehensive-Report-2023,219,,,,,,,
+Libyan Investment Authority,LIA-Overview-Valuation-2019,218,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Tennessee Consolidated Retirement System,TCRS-Annual-Comprehensive-Report-2023,219,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
 Nevada Public Employees' Retirement,NA,220,,,,,,,
-Cbus Super,Cbus-Super-Annual-Integrated-Report-2023,221,,,,,,,
-Afore Profuturo GNP,GNP-Annual-Report-2023,222,,,,,,,
-Lilly Endowment,LE-Annual-Report-2023,223,,,,,,,
-Northrop Grumman,NG-Annual-Report-2023,224,,,,,,,
-Coloroda Public Employees Retirement,CPER-Annual-Comprehensive-Report-2023,225,,,,,,,
-AMP,AMP-Annual-Report-2023,226,,,,,,,
+Cbus Super,Cbus-Super-Annual-Integrated-Report-2023,221,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
+Afore Profuturo GNP,GNP-Annual-Report-2023,222,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Lilly Endowment,LE-Annual-Report-2023,223,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Northrop Grumman,NG-Annual-Report-2023,224,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE
+Coloroda Public Employees Retirement,CPER-Annual-Comprehensive-Report-2023,225,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+AMP,AMP-Annual-Report-2023,226,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
 Brunei Investment Agency,NA,227,,,,,,,
-HESTA Super Fund,HESTA-Annual-Report-2023,228,,,,,,,
-UAW Retiree Medical Benefits Trust,UAW-All-Members-Benefits-Highlights-2023,229,,,,,,,
-Insignia Financial,Insignia-Financial-Annual-Report-2023,230,,,,,,,
+HESTA Super Fund,HESTA-Annual-Report-2023,228,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+UAW Retiree Medical Benefits Trust,UAW-All-Members-Benefits-Highlights-2023,229,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Insignia Financial,Insignia-Financial-Annual-Report-2023,230,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
 REST Super,REST-super-Annual-Report-2023,231,,,,,,,
 Cascade Investments,NA,232,,,,,,,
 Texas Permanent School Fund,TPSF-Annual-Comprehensive-Report-2023,233,,,,,,,
