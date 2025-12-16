@@ -60,6 +60,5 @@ meta:
 - Added 'sustainable_development', 'responsible_investment_esg', 'green_growth', 'net_zero', and 'decarbonization' categories with inferred sentence_shares and stances based on the context.
 - Sentence_shares for each category were estimated to ensure their sum does not exceed 1175 sentences, while maintaining a reasonable distribution across categories.
 
-
 <br />
 [BACK TO THE HOME](https://making-finance-sustainable.github.io/RAG-VIDI-beta/)
