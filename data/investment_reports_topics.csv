@@ -229,26 +229,26 @@ Brunei Investment Agency,NA,227,,,,,,,
 HESTA Super Fund,HESTA-Annual-Report-2023,228,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
 UAW Retiree Medical Benefits Trust,UAW-All-Members-Benefits-Highlights-2023,229,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
 Insignia Financial,Insignia-Financial-Annual-Report-2023,230,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
-REST Super,REST-super-Annual-Report-2023,231,,,,,,,
+REST Super,REST-super-Annual-Report-2023,231,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
 Cascade Investments,NA,232,,,,,,,
-Texas Permanent School Fund,TPSF-Annual-Comprehensive-Report-2023,233,,,,,,,
-Victorian Funds Management Corporation,VFMC-Annual-Report-2023,234,,,,,,,
-State Oil Fund of Azerbaijan,Oil-Fund-Azerbaijan-Annual-Report-2023,235,,,,,,,
-Investment Management Corporation of Ontario,IMCO-Annual-Report-2023,236,,,,,,,
+Texas Permanent School Fund,TPSF-Annual-Comprehensive-Report-2023,233,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+Victorian Funds Management Corporation,VFMC-Annual-Report-2023,234,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+State Oil Fund of Azerbaijan,Oil-Fund-Azerbaijan-Annual-Report-2023,235,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Investment Management Corporation of Ontario,IMCO-Annual-Report-2023,236,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
 Western Conference of Teamsters Pension Trust,NA,237,,,,,,,
-Afore Citibanamex,Afore-Citibanamex-Raporte-de-la-Administracion-2023,238,,,,,,,
+Afore Citibanamex,Afore-Citibanamex-Raporte-de-la-Administracion-2023,238,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
 Ford Motor Company Pension Fund,NA,239,,,,,,,
-Sura Afore,Sura-Afore-Informe-Anual-2023,240,,,,,,,
-Wells Fargo Retirement Plan,WFRP-Annual-Report-2023,241,,,,,,,
-NYC Police Pension Fund,NYCPPF-Annual-Comprehensive-Report-2023,242,,,,,,,
-Illinois Municipal Retirement Fund,IMRF-Annual-Comprehensive-Report-2023,243,,,,,,,
-JP Morgan Chase,JP-Morgan-Chase-Annual-Report-2023,244,,,,,,,
-Arizona State Retirement System,ASRS-Annual-Comprehensive-Report-2023,245,,,,,,,
-AFP Habitat SA,AFP-Habitat-Cuenta-Pública-2023,246,,,,,,,
-Harvard Management Company (Harvard University Investment),HMC-Annual-Report-2023,247,,,,,,,
-Public School and Education Employee Retirement Systems of Missouri,PSEERSM-Annual-Comprehensive-Report-2023,248,,,,,,,
+Sura Afore,Sura-Afore-Informe-Anual-2023,240,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Wells Fargo Retirement Plan,WFRP-Annual-Report-2023,241,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+NYC Police Pension Fund,NYCPPF-Annual-Comprehensive-Report-2023,242,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Illinois Municipal Retirement Fund,IMRF-Annual-Comprehensive-Report-2023,243,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+JP Morgan Chase,JP-Morgan-Chase-Annual-Report-2023,244,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+Arizona State Retirement System,ASRS-Annual-Comprehensive-Report-2023,245,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+AFP Habitat SA,AFP-Habitat-Cuenta-Pública-2023,246,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Harvard Management Company (Harvard University Investment),HMC-Annual-Report-2023,247,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Public School and Education Employee Retirement Systems of Missouri,PSEERSM-Annual-Comprehensive-Report-2023,248,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
 Exelon Corporation Pension Plan,NA,249,,,,,,,
-National Federation of Mutual Aid Associations for Municipal Personnel (Shichousonren),NFMAAMP-Annual-Report-2022,250,,,,,,,
+National Federation of Mutual Aid Associations for Municipal Personnel (Shichousonren),NFMAAMP-Annual-Report-2022,250,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
 New Mexico State Investment Council,NA,251,,,,,,,
 Office of the Treasurer of the State of Connecticut,Treasurer-Connecticut-Annual-Report-2023,252,,,,,,,
 Connecticut Retirement Plans and Trust Funds,NA,253,,,,,,,
