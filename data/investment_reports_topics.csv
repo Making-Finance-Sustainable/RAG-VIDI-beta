@@ -284,53 +284,53 @@ Utah Retirement Systems,URS-Annual-Comprehensive-Report-2023,282,FALSE,FALSE,FAL
 Social Insurance Funds,NA,283,,,,,,,
 Public Employees' Retirement System of Mississippi,PERSM-Annual-Comprehensive-Report-2023,284,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
 Massachusetts Teachers' Retirement System,MTRS-Annual-Statement-2023,285,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
-Japan Post Bank,JPB-Annual-Report-2023,286,,,,,,,
+Japan Post Bank,JPB-Annual-Report-2023,286,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
 Exxon Mobil Pension Fund,NA,287,,,,,,,
-AFP Cuprum,AFP-Cuprum-Memoria-Anual-2023,288,,,,,,,
+AFP Cuprum,AFP-Cuprum-Memoria-Anual-2023,288,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
 New York State Deferred Compensation Plan,NA,289,,,,,,,
-Princeton University Investment Company,Princeton-Treasurer-2023,290,,,,,,,
+Princeton University Investment Company,Princeton-Treasurer-2023,290,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
 Korea Investment Management,NA,291,,,,,,,
 Alaska Retirement Management Board,NA,292,,,,,,,
-San Francisco City & County,SFCC-Annual-Comprehensive-Report-2023,293,,,,,,,
-San Francisco Employees' Retirement System,SFERS-Annual-Report-2023,294,,,,,,,
-Ontario Power Generation,OPG-Integrated-ESG-Annual-Report-2023,295,,,,,,,
-Illinois State Board of Investment,ISBI-Annual-Report-2023,296,,,,,,,
-Los Angeles Fire and Police Pension Fund,LAFPPF-Annual-Report-2023,297,,,,,,,
-Chevron Corporation Pension Fund,Chevron-Annual-Funding-Notice-2023,298,,,,,,,
-Wyoming State Treasurer's Office,WSTO-Annual-Report-2023,299,,,,,,,
+San Francisco City & County,SFCC-Annual-Comprehensive-Report-2023,293,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+San Francisco Employees' Retirement System,SFERS-Annual-Report-2023,294,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Ontario Power Generation,OPG-Integrated-ESG-Annual-Report-2023,295,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Illinois State Board of Investment,ISBI-Annual-Report-2023,296,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Los Angeles Fire and Police Pension Fund,LAFPPF-Annual-Report-2023,297,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Chevron Corporation Pension Fund,Chevron-Annual-Funding-Notice-2023,298,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Wyoming State Treasurer's Office,WSTO-Annual-Report-2023,299,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
 Honeywell Pension,NA,300,,,,,,,
-CVS Health,CVS-Health-Annual-Report-2023,301,,,,,,,
-BC Public Sector Pension Plans,BCPSPP-Annual-Report-2023,302,,,,,,,
+CVS Health,CVS-Health-Annual-Report-2023,301,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
+BC Public Sector Pension Plans,BCPSPP-Annual-Report-2023,302,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
 Commonfund,NA,303,,,,,,,
-Funds SA,Funds-SA-Annual-Review-2023,304,,,,,,,
+Funds SA,Funds-SA-Annual-Review-2023,304,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
 Pfizer Pension Fund,NA,305,,,,,,,
-QBE Insurance Group,QBE-Annual-Report-2023,306,,,,,,,
+QBE Insurance Group,QBE-Annual-Report-2023,306,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
 Procter & Gamble Pension Fund,NA,307,,,,,,,
-Togethr Super (Equip & Catholic Super),Togethr-Super-Annual-Report-2023,308,,,,,,,
+Togethr Super (Equip & Catholic Super),Togethr-Super-Annual-Report-2023,308,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
 AT&T Retirement Fund,NA,309,,,,,,,
-Government Service Insurance System,GSIS-Annual-Report-2023,310,,,,,,,
-State Universities Retirement System of Illinois,SURSI-Annual-Comprehensive-Report-2023,311,,,,,,,
-Montana Board of Investment,MBI-Annual-Report-2023,312,,,,,,,
-Accident Compensation Corporation,ACC-Annual-Report-2023,313,,,,,,,
-Malaysia Khazanah Nasional,Khazana-Annual-Review-2023,314,,,,,,,
-DUMAC (Duke University Investment),Duke-Endowment-2023,315,,,,,,,
-United Airlines Holdings,UAH-Annual-Report-2023,316,,,,,,,
-B.C. Teachers Pension Plan,BCTPP-Annual-Report-2023,317,,,,,,,
+Government Service Insurance System,GSIS-Annual-Report-2023,310,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE
+State Universities Retirement System of Illinois,SURSI-Annual-Comprehensive-Report-2023,311,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Montana Board of Investment,MBI-Annual-Report-2023,312,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Accident Compensation Corporation,ACC-Annual-Report-2023,313,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+Malaysia Khazanah Nasional,Khazana-Annual-Review-2023,314,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE
+DUMAC (Duke University Investment),Duke-Endowment-2023,315,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+United Airlines Holdings,UAH-Annual-Report-2023,316,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE
+B.C. Teachers Pension Plan,BCTPP-Annual-Report-2023,317,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
 Walt Disney Pension,NA,318,,,,,,,
-Kentycky Teachers' Retirement System,TRSSK-Annual-Comprehensive-Report-2023,319,,,,,,,
-Super SA,Super-SA-Annual-Report-2023,320,,,,,,,
-Government Employees Super Board,GESB-Annual-Report-2023,321,,,,,,,
-Teachers' Retirement System of Louisiana,TRSL-Annual-Comprehensive-Report-2023,322,,,,,,,
-West Virginia Public Employees' Retirement System,WVPERS-Annual-Comprehensive-Report-2023,323,,,,,,,
+Kentycky Teachers' Retirement System,TRSSK-Annual-Comprehensive-Report-2023,319,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Super SA,Super-SA-Annual-Report-2023,320,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Government Employees Super Board,GESB-Annual-Report-2023,321,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Teachers' Retirement System of Louisiana,TRSL-Annual-Comprehensive-Report-2023,322,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+West Virginia Public Employees' Retirement System,WVPERS-Annual-Comprehensive-Report-2023,323,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
 SUNY,NA,324,,,,,,,
-Wespath Benefits,Wespath-Benefits-Annual-Report-2023,325,,,,,,,
-Kansas Public Employees Retirement System,KPERS-Annual-Comprehensive-Report-2023,326,,,,,,,
-Public Service Pension Fund of Taiwan,PSPFT-Annual-Report-2023,327,,,,,,,
-State Super (SAS Trustee),State-Super-Annual-Report-2023,328,,,,,,,
+Wespath Benefits,Wespath-Benefits-Annual-Report-2023,325,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
+Kansas Public Employees Retirement System,KPERS-Annual-Comprehensive-Report-2023,326,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Public Service Pension Fund of Taiwan,PSPFT-Annual-Report-2023,327,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+State Super (SAS Trustee),State-Super-Annual-Report-2023,328,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
 Porvenir,NA,329,,,,,,,
 PepsiCo Pension,NA,330,,,,,,,
-Massachusetts institute of Technology Investment Management Company (MITIMCo),MITTreasurersReport2023,331,,,,,,,
-National Railroad Retirement NRRIT,NRRIT-Annual-Management-Report-2023,332,,,,,,,
+Massachusetts institute of Technology Investment Management Company (MITIMCo),MITTreasurersReport2023,331,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+National Railroad Retirement NRRIT,NRRIT-Annual-Management-Report-2023,332,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
 Emergency Services & State Super (ESSSuper),ESSSuper-Annual-Report-2023,333,,,,,,,
 PG&E,PGE-Annual-Report-2023,334,,,,,,,
 Public Employee Retirement System of Idaho (PERSI),PERSI-Annual-Report-2023,335,,,,,,,
