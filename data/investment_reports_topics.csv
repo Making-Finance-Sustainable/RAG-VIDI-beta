@@ -331,39 +331,39 @@ Porvenir,NA,329,,,,,,,
 PepsiCo Pension,NA,330,,,,,,,
 Massachusetts institute of Technology Investment Management Company (MITIMCo),MITTreasurersReport2023,331,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
 National Railroad Retirement NRRIT,NRRIT-Annual-Management-Report-2023,332,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-Emergency Services & State Super (ESSSuper),ESSSuper-Annual-Report-2023,333,,,,,,,
-PG&E,PGE-Annual-Report-2023,334,,,,,,,
-Public Employee Retirement System of Idaho (PERSI),PERSI-Annual-Report-2023,335,,,,,,,
-Employees' Retirement System of Georgia,ERSG-Annual-Comprehensive-Report-2023,336,,,,,,,
-Los Angeles City Employees Retirement LACERS,LACERS-Annual-Comprehensive-Report-2023,337,,,,,,,
-Petros Pension,Petros-Pension-Annual-Report-2023,338,,,,,,,
-Employees' Retirement System of State of Hawaii,ERSH-Annual-Comprehensive-Report-2023,339,,,,,,,
-Oklahoma Teachers Retirement System,OTRS-Annual-Comprehensive-Report-2022,340,,,,,,,
-Ontario Pension Board,OPB-Annual-Report-2023,341,,,,,,,
-Hydro-Quebec,Hydro-Quebec-Annual-Report-2023,342,,,,,,,
-Air Canada,Air-Canada-Annual-Report-2023,343,,,,,,,
-Prudential Financial,Preduntial-Financial-Annual-Report-2023,344,,,,,,,
-Canada Post Pension,Canada-Post-Pension-Annual-Report-2023,345,,,,,,,
-Arkansas Teacher Retirement System,ATRS-Annual-Comprehensive-Report-2023,346,,,,,,,
-Orange County Employees Retirement System,OCERS-Annual-Comprehensive-Report-2023,347,,,,,,,
-Truist Financial,Truist-Financial-Annual-Report-2023,348,,,,,,,
-Ohio Bureau of Workers Compensation,Ohio-Bureau-Workers-Compensation-Annual-Report-2023,349,,,,,,,
+Emergency Services & State Super (ESSSuper),ESSSuper-Annual-Report-2023,333,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
+PG&E,PGE-Annual-Report-2023,334,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Public Employee Retirement System of Idaho (PERSI),PERSI-Annual-Report-2023,335,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
+Employees' Retirement System of Georgia,ERSG-Annual-Comprehensive-Report-2023,336,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Los Angeles City Employees Retirement LACERS,LACERS-Annual-Comprehensive-Report-2023,337,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Petros Pension,Petros-Pension-Annual-Report-2023,338,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Employees' Retirement System of State of Hawaii,ERSH-Annual-Comprehensive-Report-2023,339,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Oklahoma Teachers Retirement System,OTRS-Annual-Comprehensive-Report-2022,340,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Ontario Pension Board,OPB-Annual-Report-2023,341,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Hydro-Quebec,Hydro-Quebec-Annual-Report-2023,342,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Air Canada,Air-Canada-Annual-Report-2023,343,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE
+Prudential Financial,Preduntial-Financial-Annual-Report-2023,344,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Canada Post Pension,Canada-Post-Pension-Annual-Report-2023,345,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Arkansas Teacher Retirement System,ATRS-Annual-Comprehensive-Report-2023,346,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Orange County Employees Retirement System,OCERS-Annual-Comprehensive-Report-2023,347,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Truist Financial,Truist-Financial-Annual-Report-2023,348,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
+Ohio Bureau of Workers Compensation,Ohio-Bureau-Workers-Compensation-Annual-Report-2023,349,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
 Johnson & Johnson Pension Plan,NA,350,,,,,,,
 University of Pennsylvania Investment Office,NA,351,,,,,,,
-Quebec Construction Industry,Quebec-Construction-Annual-Report-2023,352,,,,,,,
+Quebec Construction Industry,Quebec-Construction-Annual-Report-2023,352,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
 Howard Hughes Medical Institute,NA,353,,,,,,,
-Los Angeles Water and Power Employees Retirement Plan,RPO-Annual-Summary-Report-2023,354,,,,,,,
+Los Angeles Water and Power Employees Retirement Plan,RPO-Annual-Summary-Report-2023,354,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
 Bell Canada,NA,355,,,,,,,
-South Dokato Investment Council,SDIC-Annual-Report-2023,356,,,,,,,
+South Dokato Investment Council,SDIC-Annual-Report-2023,356,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
 Merck & Co Inc Pension Fund,NA,357,,,,,,,
 The Korea Teachers Pension,NA,358,,,,,,,
-Brighter Super,Brighter-Super-Annual-Report-2023_24,359,,,,,,,
-Spirit Super (MTAA & Tasplan),Spirit-Super-Annual-Report-2023,360,,,,,,,
-North Dakota State Investment Board,NDRIO-Annual-Report-2023,361,,,,,,,
-Maine Public Employees Retirement System,MPERS-Annual-Comprehensive-Report-2023,362,,,,,,,
-Dow Chemical Pension,Dow-Chemical-Annual-Report-2023,363,,,,,,,
-University of Michigan Investment Office,University-Michigan-Endowment-2023,364,,,,,,,
-School Employees Retirement System of Ohio,SERSO-Annual-Comprehensive-Report-2023,365,,,,,,,
+Brighter Super,Brighter-Super-Annual-Report-2023_24,359,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Spirit Super (MTAA & Tasplan),Spirit-Super-Annual-Report-2023,360,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+North Dakota State Investment Board,NDRIO-Annual-Report-2023,361,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Maine Public Employees Retirement System,MPERS-Annual-Comprehensive-Report-2023,362,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Dow Chemical Pension,Dow-Chemical-Annual-Report-2023,363,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE
+University of Michigan Investment Office,University-Michigan-Endowment-2023,364,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE
+School Employees Retirement System of Ohio,SERSO-Annual-Comprehensive-Report-2023,365,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
 University of Notre Dame Endownment,NA,366,,,,,,,
 Ohio Police and Fire Pension Fund,OPF-Annual-Comprehensive-Report-2023,367,,,,,,,
 FCA US,FCA-US-Annual-Report-2023,368,,,,,,,
