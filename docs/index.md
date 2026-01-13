@@ -67,7 +67,7 @@ Reports now include: (1) captioning process with VLM to improve picture descript
 | [Batch-01](https://making-finance-sustainable.github.io/RAG-VIDI-beta/batch-01) | [Batch-02](https://making-finance-sustainable.github.io/RAG-VIDI-beta/batch-02) | [Batch-03](https://making-finance-sustainable.github.io/RAG-VIDI-beta/batch-03) | [Batch-04](https://making-finance-sustainable.github.io/RAG-VIDI-beta/batch-04) | [Batch-05](https://making-finance-sustainable.github.io/RAG-VIDI-beta/batch-05) | 
 | <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/100.svg"> | <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/98.svg"> | <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/100.svg"> | <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/98.svg"> | <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/100.svg"> |
 | [Batch-06](https://making-finance-sustainable.github.io/RAG-VIDI-beta/batch-06) | [Batch-07](https://making-finance-sustainable.github.io/RAG-VIDI-beta/batch-07) | [Batch-08](https://making-finance-sustainable.github.io/RAG-VIDI-beta/batch-08) | [Batch-09](https://making-finance-sustainable.github.io/RAG-VIDI-beta/batch-09) | [Batch-10](https://making-finance-sustainable.github.io/RAG-VIDI-beta/batch-10) | 
-| <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/100.svg"> | <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/100.svg"> | <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/100.svg"> | <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/100.svg"> | <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/33.svg"> |
+| <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/100.svg"> | <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/100.svg"> | <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/100.svg"> | <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/100.svg"> | <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/43.svg"> |
 
 > **Note.** Progress is considering missing observations as already processed. There could be some delay between processed reports and preliminary plots. Also, it could be helpful to reset the browser cache from time to time.
 
@@ -79,7 +79,7 @@ Reports now include: (1) captioning process with VLM to improve picture descript
 
 ### Validation
 
-Based on the adjustments logs and JSON files, we have detected **65 RAG reports** that need manual validation so far. Further manual and automated validation will be carried out.
+Based on the adjustments logs and JSON files, we have detected **66 RAG reports** that need manual validation so far. Further manual and automated validation will be carried out.
 
 <br />
-**Latest update:** January 12, 2026.
+**Latest update:** January 13, 2026.
