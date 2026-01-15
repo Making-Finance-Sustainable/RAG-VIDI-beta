@@ -37,11 +37,11 @@
 155. [Abu Dhabi Developmental Holding](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_ADQ-5-Year-Report-2023)
 156. [Future Fund](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_Future-Fund-Year-In-Review-2023)
 157. [Public Sector Pension Investment Board](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_PSPIB-Annual-Report-2023)
-158. Korea Investment Corporation
+158. Korea Investment Corporation+
 159. [Ontario Teachers' Pension Plan](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_OTPP-Annual-Report-2023)
 160. [British Columbia Investment Management Corporation](https://making-finance-sustainable.github.io/RAG-VIDI-beta/rag-reports/rag_BCI-Annual-Report-2023)
 
 <br />
-Missing observations (*)
+Missing observations (*); Format problem with this report (+)
 
 [BACK TO THE HOME](https://making-finance-sustainable.github.io/RAG-VIDI-beta/)
