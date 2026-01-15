@@ -74,7 +74,7 @@ Pensioenfonds Vervoer,Pensioenfonds-Vervoer-Annual-Report-2023,72,FALSE,TRUE,FAL
 Local Pensions Partnership Investments (LPPI),LPPI-Annual-Report-2023,73,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
 BAE Systems Pension Fund,NA,74,,,,,,,
 Siemens,Siemens-Annual-Report-2023,75,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-ING Pensioenfonds,ING-Annual-Report-2023,76,,,,,,,
+ING Pensioenfonds,ING-Annual-Report-2023,76,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
 ABN AMRO Pensioenfonds,ABN-Annual-Report-2023,77,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
 Asga Pensionskasse,ASGA-Annual-Report-2023,78,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
 Schweizer Mobiliar Asset Management AG,NA,79,,,,,,,
@@ -365,37 +365,37 @@ Dow Chemical Pension,Dow-Chemical-Annual-Report-2023,363,TRUE,TRUE,FALSE,TRUE,TR
 University of Michigan Investment Office,University-Michigan-Endowment-2023,364,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE
 School Employees Retirement System of Ohio,SERSO-Annual-Comprehensive-Report-2023,365,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
 University of Notre Dame Endownment,NA,366,,,,,,,
-Ohio Police and Fire Pension Fund,OPF-Annual-Comprehensive-Report-2023,367,,,,,,,
-FCA US,FCA-US-Annual-Report-2023,368,,,,,,,
-The Federal Economists Foundation,FUNCEF-Annual-Report-2023,369,,,,,,,
-OPSEU pension Trust,OPSEU-Annual-Funded-Status-Report-2023,370,,,,,,,
-San Diego County Employees Retirement Association,SDCERA-Annual-Comprehensive-Report-2023,371,,,,,,,
+Ohio Police and Fire Pension Fund,OPF-Annual-Comprehensive-Report-2023,367,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+FCA US,FCA-US-Annual-Report-2023,368,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+The Federal Economists Foundation,FUNCEF-Annual-Report-2023,369,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+OPSEU pension Trust,OPSEU-Annual-Funded-Status-Report-2023,370,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
+San Diego County Employees Retirement Association,SDCERA-Annual-Comprehensive-Report-2023,371,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
 National Electric Benefit Fund,NA,372,,,,,,,
 Bank of America Pension Fund,NA,373,,,,,,,
-Church Pension Fund US,Church-Pension-Fund-Annual-Report-2023,374,,,,,,,
-Public Employees Retirement Association of New Mexico,PERA-Annual-Comprehensive-Report-2023,375,,,,,,,
+Church Pension Fund US,Church-Pension-Fund-Annual-Report-2023,374,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Public Employees Retirement Association of New Mexico,PERA-Annual-Comprehensive-Report-2023,375,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
 New Mexico Educational Retirement Board,NA,376,,,,,,,
-Alberta Teachers' Retirement Fund,ATRF-Annual-Report-2023,377,,,,,,,
+Alberta Teachers' Retirement Fund,ATRF-Annual-Report-2023,377,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
 General Dynamics Pension Fund,NA,378,,,,,,,
-Louisiana State Employees' Retirement System,LASERS-Annual-Comprehensive-Report-2023,379,,,,,,,
+Louisiana State Employees' Retirement System,LASERS-Annual-Comprehensive-Report-2023,379,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
 Eli Lilly,NA,380,,,,,,,
-Delta Airlines Pension Fund,Delta-Report-Financial-Statement-2023,381,,,,,,,
+Delta Airlines Pension Fund,Delta-Report-Financial-Statement-2023,381,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
 International Paper Pension,NA,382,,,,,,,
-Consolidated Edison,Consolidated-Edison-Annual-Report-2023,383,,,,,,,
-San Bernandino County Employees Retirement Association,SBCERA-Annual-Comprehensive-Report-2023,384,,,,,,,
+Consolidated Edison,Consolidated-Edison-Annual-Report-2023,383,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE
+San Bernandino County Employees Retirement Association,SBCERA-Annual-Comprehensive-Report-2023,384,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
 Columbia Investment Management Company,NA,385,,,,,,,
-Southern Co,Southern-Co-Annual-Report-2023,386,,,,,,,
-Government Pension Fund Global,GPFT-Annual-Risk-Report-2023,387,,,,,,,
-University of Virginia Investment Management Company,UVIMCO-Annual-Report-2023,388,,,,,,,
-3M,3M-Annual-Report-2023,389,,,,,,,
-Northwestern University Investment Office,Northwestern-Endowment-2023,390,,,,,,,
-Public Service Pension Plan Canada,PSPPC-Annual-Report-2023,391,,,,,,,
-Sacramento County Employees Retirement System,SCERS-Annual-Comprehensive-Report-2023,392,,,,,,,
-Oslo Pensjonsforsikring OPF,OPF-Annual-Report-2023,393,,,,,,,
-Banco Santander UK,Santander-UK-Annual-Report-2023,394,,,,,,,
-Kapan Tjanstepensionsforening (Government Employees Pension Fund),Kapan-Annual-Report-2023,395,,,,,,,
-APK Aargauische Pensionskasse,APK-Annual-Report-2023,396,,,,,,,
-EPPF,EPPF_2024_IAR_-_Finalised_-_Single_page_view,397,,,,,,,
-Lífeyrissjóður verzlunarmanna,english-arsreikningur_2023_150324_net_intera,398,,,,,,,
-Washington University Investment Management Company,CRTV-5969-Endowment-Annual-Report-23-24-DIGITAL,399,,,,,,,
-Alameda County Employees' Retirement Association,06.26_acfr_2024_05,400,,,,,,,
+Southern Co,Southern-Co-Annual-Report-2023,386,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE
+Government Pension Fund Global,GPFT-Annual-Risk-Report-2023,387,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+University of Virginia Investment Management Company,UVIMCO-Annual-Report-2023,388,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+3M,3M-Annual-Report-2023,389,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Northwestern University Investment Office,Northwestern-Endowment-2023,390,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Public Service Pension Plan Canada,PSPPC-Annual-Report-2023,391,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Sacramento County Employees Retirement System,SCERS-Annual-Comprehensive-Report-2023,392,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Oslo Pensjonsforsikring OPF,OPF-Annual-Report-2023,393,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Banco Santander UK,Santander-UK-Annual-Report-2023,394,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
+Kapan Tjanstepensionsforening (Government Employees Pension Fund),Kapan-Annual-Report-2023,395,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+APK Aargauische Pensionskasse,APK-Annual-Report-2023,396,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+EPPF,EPPF_2024_IAR_-_Finalised_-_Single_page_view,397,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Lífeyrissjóður verzlunarmanna,english-arsreikningur_2023_150324_net_intera,398,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Washington University Investment Management Company,CRTV-5969-Endowment-Annual-Report-23-24-DIGITAL,399,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Alameda County Employees' Retirement Association,06.26_acfr_2024_05,400,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
