@@ -20,7 +20,7 @@ This step allows us to annotate different pictures that appear in the reports as
 
 ### VLMs Captioning Progress
 
-| <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/smolvlm_81.svg"> | <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/qwen3_100.svg"> |
+| <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/smolvlm_86.svg"> | <img style="display: block; margin: auto;" src="https://making-finance-sustainable.github.io/RAG-VIDI-beta/badges/qwen3_100.svg"> |
 
 ## Model Selection Benchmark
 
@@ -82,4 +82,4 @@ Reports now include: (1) captioning process with VLM to improve picture descript
 Based on the adjustments logs and JSON files, we have detected **75 RAG reports** that need manual validation so far. Further manual and automated validation will be carried out.
 
 <br />
-**Latest update:** January 16, 2026.
+**Latest update:** January 19, 2026.
