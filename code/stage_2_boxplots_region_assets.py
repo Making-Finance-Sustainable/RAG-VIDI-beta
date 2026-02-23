@@ -23,7 +23,7 @@ csv_path = "data/investment_reports_topics.csv"
 
 df = pd.read_csv(csv_path)
 
-required_cols = ["annual_report", "country", "assets"]
+required_cols = ["company", "country", "assets"]
 missing_required = [c for c in required_cols if c not in df.columns]
 if missing_required:
     raise ValueError(
@@ -272,6 +272,51 @@ with open(txt_path, "w", encoding="utf-8") as f:
         prev = prevalence_table(sub, topic_cols)
         for col, val in prev.items():
             f.write(f"  {topic_label_map.get(col, col)}: {val:.3f}\n")
+        
+        # --- Top-10 companies by maximum topic_count (Europe + Asia-Pacific only)
+        if r in ("Europe", "Asia-Pacific"):
+            f.write("\nTop-10 companies by maximum topic_count (within region):\n")
+        
+            # 1) company-level max topic_count within the region
+            company_max = (
+                sub.groupby("company", dropna=False)["topic_count"]
+                   .max()
+                   .rename("max_topic_count")
+                   .reset_index()
+            )
+
+            # 2) attach a country label for each company (most frequent country within region);
+            # if ties occur, pandas' mode returns multiple values; take the first.
+            company_country = (
+                sub.dropna(subset=["company"])
+                   .groupby("company")["country"]
+                   .agg(lambda s: s.mode().iloc[0] if not s.mode().empty else s.dropna().iloc[0])
+                   .rename("country")
+                   .reset_index()
+            )
+
+            # 3) merge, rank, and print
+            top10 = (
+                company_max.merge(company_country, on="company", how="left")
+                           .sort_values("max_topic_count", ascending=False)
+                           .head(10)
+            )
+            
+            if top10.empty:
+                f.write("  (No company data available for this region)\n")
+            else:
+                for _, row in top10.iterrows():
+                    comp = row["company"]
+                    comp_str = str(comp).strip()
+                    if comp_str == "" or comp_str.lower() == "nan":
+                        comp_str = "(Missing company)"
+                    
+                    country = row.get("country", "")
+                    country_str = str(country).strip()
+                    if country_str == "" or country_str.lower() == "nan":
+                        country_str = "(Missing country)"
+                    
+                    f.write(f"  {comp_str} ({country_str}): {int(row['max_topic_count'])}\n")
 
     f.write("\n\n=== By assets quartile ===\n")
     sub_assets = df.dropna(subset=["assets_quartile"]).copy()
