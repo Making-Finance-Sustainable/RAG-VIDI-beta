@@ -52,16 +52,16 @@ topic prevalence:
   Conservation finance: 0.109
 
 Top-10 companies by maximum topic_count (within region):
-  Victorian Funds Management Corporation: 7
-  Government of Singapore Investment Corporation: 6
-  Malaysia Khazanah Nasional: 6
-  Temasek holdings: 6
-  Aware Super: 5
-  Australian Retirement Trust: 5
-  China Investment Corporation: 5
-  Future Fund: 5
-  New Zealand Superannuation: 5
-  Spirit Super (MTAA & Tasplan): 5
+  Victorian Funds Management Corporation (Australia): 7
+  Government of Singapore Investment Corporation (Singapore): 6
+  Malaysia Khazanah Nasional (Malaysia): 6
+  Temasek holdings (Singapore): 6
+  Aware Super (Australia): 5
+  Australian Retirement Trust (Australia): 5
+  China Investment Corporation (China): 5
+  Future Fund (Australia): 5
+  New Zealand Superannuation (New Zealand): 5
+  Spirit Super (MTAA & Tasplan) (Australia): 5
 
 -- Region: Eurasia (n=3) --
 topic_count: n=3, mean=0.667, sd=1.155, min=0, p25=0.000, median=0.000, p75=1.000, max=2
@@ -86,16 +86,16 @@ topic prevalence:
   Conservation finance: 0.097
 
 Top-10 companies by maximum topic_count (within region):
-  West Midlands Metropolitan: 7
-  ATP: 6
-  Caisse des Dépôts: 6
-  Brunel Pension Partnership: 6
-  Border to Coast Pensions Partnership: 6
-  Folksam: 6
-  Suva: 6
-  London CIV - Collective Investment Vehicle: 6
-  AP Fonden 4: 6
-  Barclays Bank UK Retirement Fund: 5
+  West Midlands Metropolitan (UK): 7
+  ATP (Denmark): 6
+  Caisse des Dépôts (France): 6
+  Brunel Pension Partnership (UK): 6
+  Border to Coast Pensions Partnership (UK): 6
+  Folksam (Sweden): 6
+  Suva (Switzerland): 6
+  London CIV - Collective Investment Vehicle (UK): 6
+  AP Fonden 4 (Sweden): 6
+  Barclays Bank UK Retirement Fund (UK): 5
 
 -- Region: Middle East (n=8) --
 topic_count: n=8, mean=3.625, sd=2.326, min=0, p25=3.000, median=4.500, p75=5.000, max=6
