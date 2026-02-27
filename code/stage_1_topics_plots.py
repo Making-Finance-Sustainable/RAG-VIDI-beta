@@ -18,7 +18,7 @@ import numpy as np
 ##########################################################################
 
 ## Data
-csv_path = "data/investment_reports_topics.csv"
+csv_path = "data/raw/reports_topics.csv"
 
 df = pd.read_csv(csv_path)
 
