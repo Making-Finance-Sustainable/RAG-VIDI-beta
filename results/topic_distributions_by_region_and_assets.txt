@@ -1,6 +1,6 @@
 Making Finance Sustainable VIDI Project
 Descriptives: topics overall, by region, and by assets quartiles
-Source file: data/investment_reports_topics.csv
+Source file: data/raw/reports_topics.csv
 Documents (after cleaning): 319
 
 === Overall topic prevalence (share of documents) ===
