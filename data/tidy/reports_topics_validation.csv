@@ -75,7 +75,7 @@ Local Pensions Partnership Investments (LPPI),LPPI-Annual-Report-2023,73,TRUE,TR
 BAE Systems Pension Fund,NA,74,,,,,,,,NA,UK,29
 Siemens,Siemens-Annual-Report-2023,75,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,English,Germany,29
 ING Pensioenfonds,ING-Annual-Report-2023,76,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Dutch,Netherlands,29
-ABN AMRO Pensioenfonds,ABN-Annual-Report-2023,77,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Dutch,Netherlands,28
+ABN AMRO Pensioenfonds,ABN-Annual-Report-2023,77,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,Dutch,Netherlands,28
 Asga Pensionskasse,ASGA-Annual-Report-2023,78,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,German,Switzerland,28
 Schweizer Mobiliar Asset Management AG,NA,79,,,,,,,,NA,Switzerland,28
 British Airways Pension Investment Management Ltd (BAPIML),British-Airways-Annual-Report-2023,80,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,English,UK,27
@@ -160,7 +160,7 @@ Korea Investment Corporation,KIC-Annual-Report-2023-organised,158,,,,,,,,South-K
 Ontario Teachers' Pension Plan,OTPP-Annual-Report-2023,159,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,English,Canada,184
 British Columbia Investment Management Corporation,BCI-Annual-Report-2023,160,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,English,Canada,182
 University of California Office of the Regents,UC-Annual-Report-2023,161,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,180
-Employee's Provident Fund Organisation India,EPFI-Annual-Report-2023,162,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,English,India,176
+Employee's Provident Fund Organisation India,EPFI-Annual-Report-2023,162,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,English,India,176
 North Carolina Retirement Systems,NA,163,,,,,,,,NA,USA,171
 Texas Treasury Safekeeping Trust,NA,164,,,,,,,,NA,USA,165
 Public Investment Corporation,PIC-Annual-Integrated-Report-2023,165,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,English,South Africa,152
@@ -193,11 +193,11 @@ RTX,RTX-Annual-Report-2023,191,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,English,US
 Raytheon Technologies Pension,NA,192,,,,,,,,NA,USA,89
 Pension Fund Association,PFA-Annual-Report-2023,193,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,English,Japan,89
 Retraite Quebec,Retraite-Quebec-Annual-Report-2023,194,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,French,Canada,87
-Emirates Investment Authority ,EIA-Inaugural-Report,195,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,English,UAE,86
-RGA Reinsurance Company,RGA-Annual-Report-2023,196,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,85
+Emirates Investment Authority ,EIA-Inaugural-Report,195,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,English,UAE,86
+RGA Reinsurance Company,RGA-Annual-Report-2023,196,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,85
 World Bank,World-Bank-Annual-Report-2023,197,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,English,USA,82
 Healthcare of Ontario Pension Plan,HOOP-Annual-Report-2023,198,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,English,Canada,82
-Alaska Permanent Fund Corporation,APFC-Annual-Report-2023,199,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,81
+Alaska Permanent Fund Corporation,APFC-Annual-Report-2023,199,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,81
 New York City Employees Retirement System,NYCERS-Annual-Comprehensive-Report-2023,200,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,81
 Hostplus,Hostplus-Annual-Report-2023,201,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,English,Australia,78
 Lockheed Martin Investment Company,NA,202,,,,,,,,NA,USA,78
@@ -206,14 +206,14 @@ New Jersey Investment Division,NJID-Annual-Report-2023,204,TRUE,TRUE,TRUE,TRUE,T
 IBM (US) Retirement Fund,NA,205,,,,,,,,NA,USA,76
 General Electric Pension,NA,206,,,,,,,,NA,USA,74
 New South Wales Treasury Corporation,NSWTC-Annual-Report-2023,207,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,English,Australia,74
-Los Angeles County Employees Retirement Assocation,LACERA-Annual-Comprehensive-Report-2023,208,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,74
+Los Angeles County Employees Retirement Assocation,LACERA-Annual-Comprehensive-Report-2023,208,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,74
 QIC,QIC-Annual-Report-2023,209,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,English,Australia,73
 GM pension,NA,210,,,,,,,,NA,USA,73
 Pennsylvania Public School Employees' Retirement System,PPSERS-Annual-Comprehensive-Report-2023,211,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,73
 United Parcel Service Pension,NA,212,,,,,,,,NA,USA,72
 Teachers' Retirement System of the State of Illinois,TRSSI-Annual-Comprehensive-Report-2023,213,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,71
 University Texas/Texas A&M Investment Company,UTIMCO-Annual-Report-2023,214,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,70
-Samruk-Kazyna,Samruk-Kazyna-Annual-Report-2023,215,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,English,Kazakhstan,70
+Samruk-Kazyna,Samruk-Kazyna-Annual-Report-2023,215,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,English,Kazakhstan,70
 Maryland State Retirement,MSR-Annual-Comprehensive-Report-2023,216,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,68
 Afore XXI Banorte,NA,217,,,,,,,,NA,Mexico,68
 Libyan Investment Authority,LIA-Overview-Valuation-2019,218,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,English,Libya,67
@@ -302,14 +302,14 @@ Honeywell Pension,NA,300,,,,,,,,NA,USA,31
 CVS Health,CVS-Health-Annual-Report-2023,301,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,English,USA,31
 BC Public Sector Pension Plans,BCPSPP-Annual-Report-2023,302,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,English,Canada,31
 Commonfund,NA,303,,,,,,,,NA,USA,30
-Funds SA,Funds-SA-Annual-Review-2023,304,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,English,Australia,30
+Funds SA,Funds-SA-Annual-Review-2023,304,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,English,Australia,30
 Pfizer Pension Fund,NA,305,,,,,,,,NA,USA,30
 QBE Insurance Group,QBE-Annual-Report-2023,306,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,English,Australia,30
 Procter & Gamble Pension Fund,NA,307,,,,,,,,NA,USA,30
 Togethr Super (Equip & Catholic Super),Togethr-Super-Annual-Report-2023,308,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,English,Australia,30
 AT&T Retirement Fund,NA,309,,,,,,,,NA,USA,30
 Government Service Insurance System,GSIS-Annual-Report-2023,310,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,English,Philippines,29
-State Universities Retirement System of Illinois,SURSI-Annual-Comprehensive-Report-2023,311,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,29
+State Universities Retirement System of Illinois,SURSI-Annual-Comprehensive-Report-2023,311,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,29
 Montana Board of Investment,MBI-Annual-Report-2023,312,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,English,USA,29
 Accident Compensation Corporation,ACC-Annual-Report-2023,313,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,English,New Zealand,29
 Malaysia Khazanah Nasional,Khazana-Annual-Review-2023,314,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,English,Malaysia,29
