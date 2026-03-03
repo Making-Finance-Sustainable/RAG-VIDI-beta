@@ -347,14 +347,14 @@ Canada Post Pension,Canada-Post-Pension-Annual-Report-2023,345,TRUE,TRUE,TRUE,TR
 Arkansas Teacher Retirement System,ATRS-Annual-Comprehensive-Report-2023,346,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,22
 Orange County Employees Retirement System,OCERS-Annual-Comprehensive-Report-2023,347,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,22
 Truist Financial,Truist-Financial-Annual-Report-2023,348,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,English,USA,22
-Ohio Bureau of Workers Compensation,Ohio-Bureau-Workers-Compensation-Annual-Report-2023,349,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,22
+Ohio Bureau of Workers Compensation,Ohio-Bureau-Workers-Compensation-Annual-Report-2023,349,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,22
 Johnson & Johnson Pension Plan,NA,350,,,,,,,,NA,USA,22
 University of Pennsylvania Investment Office,NA,351,,,,,,,,NA,USA,22
 Quebec Construction Industry,Quebec-Construction-Annual-Report-2023,352,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,French,Canada,22
 Howard Hughes Medical Institute,NA,353,,,,,,,,NA,USA,21
 Los Angeles Water and Power Employees Retirement Plan,RPO-Annual-Summary-Report-2023,354,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,21
 Bell Canada,NA,355,,,,,,,,NA,Canada,21
-South Dokato Investment Council,SDIC-Annual-Report-2023,356,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,20
+South Dokato Investment Council,SDIC-Annual-Report-2023,356,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,20
 Merck & Co Inc Pension Fund,NA,357,,,,,,,,NA,USA,20
 The Korea Teachers Pension,NA,358,,,,,,,,NA,South Korea,20
 Brighter Super,Brighter-Super-Annual-Report-2023_24,359,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,English,Australia,20
@@ -386,12 +386,12 @@ San Bernandino County Employees Retirement Association,SBCERA-Annual-Comprehensi
 Columbia Investment Management Company,NA,385,,,,,,,,NA,USA,15
 Southern Co,Southern-Co-Annual-Report-2023,386,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,English,USA,15
 Government Pension Fund Global,GPFT-Annual-Risk-Report-2023,387,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Thai,Thailand,15
-University of Virginia Investment Management Company,UVIMCO-Annual-Report-2023,388,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,14
+University of Virginia Investment Management Company,UVIMCO-Annual-Report-2023,388,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,English,USA,14
 3M,3M-Annual-Report-2023,389,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,14
-Northwestern University Investment Office,Northwestern-Endowment-2023,390,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,14
+Northwestern University Investment Office,Northwestern-Endowment-2023,390,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,14
 Public Service Pension Plan Canada,PSPPC-Annual-Report-2023,391,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,English,Canada,13
 Sacramento County Employees Retirement System,SCERS-Annual-Comprehensive-Report-2023,392,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,13
-Oslo Pensjonsforsikring OPF,OPF-Annual-Report-2023,393,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Norwegian,Norway,13
+Oslo Pensjonsforsikring OPF,OPF-Annual-Report-2023,393,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,Norwegian,Norway,13
 Banco Santander UK,Santander-UK-Annual-Report-2023,394,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,English,UK,14
 Kapan Tjanstepensionsforening (Government Employees Pension Fund),Kapan-Annual-Report-2023,395,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,English,Sweden,14
 APK Aargauische Pensionskasse,APK-Annual-Report-2023,396,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,German,Switzerland,14
