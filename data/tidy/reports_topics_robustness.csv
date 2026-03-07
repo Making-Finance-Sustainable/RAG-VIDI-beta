@@ -1,8 +1,8 @@
 ﻿company,annual_report,400_owners_index,sustainable_development_present,responsible_investment_esg_present,green_growth_present,net_zero_present,decarbonization_present,transition_finance_present,conservation_finance_present,lang_report,country,assets
 Norges Bank Investment Management,Norges-Bank-Annual-Report-2023,1,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,English,Norway,1238
 ABP/APG,ABP-Annual-Report-2023,2,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,Dutch,Netherlands,584
-PGGM/PFZW,PGGM-Annual-Report-2023,3,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,English,Netherlands,257
-Turkey Wealth Fund,TWF-Annual-Report-2022,4,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,English,Turkey,171
+PGGM/PFZW,PGGM-Annual-Report-2023,3,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,English,Netherlands,257
+Turkey Wealth Fund,TWF-Annual-Report-2022,4,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,English,Turkey,171
 Caisse des Dépôts,Caisse-Annual-Report-2023,5,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,English,France,166
 MN,MN-Annual-Report-2023,6,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,Dutch,Netherlands,152
 Kommunal Landspensjonskasse (KLP),KLP-Annual-Report-2023,7,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,English,Norway,135
@@ -39,7 +39,7 @@ Varma,Varma-Annual-Report-2023,37,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Englis
 Versorgungsanstalt des Bundes und der Länder (VBL),VBL-Annual-Report-2022,38,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,German,Germany,63
 Sampension,Sampension-2023,39,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,English,Denmark,60
 PKA Pension Fund,PKA-2023,40,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,English,Denmark,59
-AP Fonden 2,AP-Fonden-2-2023,41,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,English,Sweden,58
+AP Fonden 2,AP-Fonden-2-2023,41,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,English,Sweden,58
 PME,PME-2023-NL,42,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,Dutch,Netherlands,55
 Pension Insurance Corporation,Pension-Insurance-Corporation-2023,43,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,English,UK,53
 Northern LGPS,Northern-LGPS-2023,44,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,English,UK,51
@@ -54,7 +54,7 @@ Royal Bank of Scotland Group,RBS-Annual-Report-2023,52,TRUE,TRUE,FALSE,TRUE,TRUE
 BVK Personalvorsorge des Kantons Zürich,BVK-Zürich-Annual-Report-2023,53,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,German,Switzerland,42
 The Pension Protection Fund,PPF-Annual-Report-2023,54,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,English,UK,41
 HSBC Bank Pension Trust UK,HSBC-Annual-Report-2023,55,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,English,UK,41
-Pensioenfonds Detailhandel,Pensioenfonds-Detailhandel-Annual-Report-2023,56,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,Dutch,Netherlands,37
+Pensioenfonds Detailhandel,Pensioenfonds-Detailhandel-Annual-Report-2023,56,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,Dutch,Netherlands,37
 BVV Pension Fund,BVV-Annual-Report-2023,57,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,German,Germany,37
 National Employment Savings Trust (NEST),NEST-Annual-Report-2023,58,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,English,UK,37
 Folketrygdfondet - Government Pension Fund Norway Domestic,NA,59,,,,,,,,NA,Norway,37
