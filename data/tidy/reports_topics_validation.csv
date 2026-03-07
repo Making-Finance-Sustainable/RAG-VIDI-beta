@@ -33,13 +33,13 @@ Railpen Investments ,Railpen-Annual-Report-2023,31,TRUE,TRUE,FALSE,TRUE,TRUE,TRU
 AP Fonden 1,AP-Fonden-1-Annual-Report-2023,32,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,English,Sweden,64
 Fonds de compensation AVS,Compenswiss-Annual-Report-2023,33,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,French,Switzerland,64
 Electricity Supply Pension Scheme,Electricty-Supply-Pension-Annual-Report-2023,34,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,English,UK,63
-ERAFP,ERAPF-Annual-Report-2022,35,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,English,France,63
+ERAFP,ERAPF-Annual-Report-2022,35,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,English,France,63
 Suva,Suva-Annual-Report-2023,36,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,English,Switzerland,63
 Varma,Varma-Annual-Report-2023,37,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,English,Finland,63
 Versorgungsanstalt des Bundes und der Länder (VBL),VBL-Annual-Report-2022,38,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,German,Germany,63
 Sampension,Sampension-2023,39,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,English,Denmark,60
 PKA Pension Fund,PKA-2023,40,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,English,Denmark,59
-AP Fonden 2,AP-Fonden-2-2023,41,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,English,Sweden,58
+AP Fonden 2,AP-Fonden-2-2023,41,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,English,Sweden,58
 PME,PME-2023-NL,42,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,Dutch,Netherlands,55
 Pension Insurance Corporation,Pension-Insurance-Corporation-2023,43,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,English,UK,53
 Northern LGPS,Northern-LGPS-2023,44,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,English,UK,51
@@ -155,7 +155,7 @@ Australian Retirement Trust,ART-Annual-Report-2023,153,TRUE,TRUE,FALSE,TRUE,TRUE
 Labor Pension Fund Taiwan,NA,154,,,,,,,,NA,Taiwan,202
 Abu Dhabi Developmental Holding,ADQ-5-Year-Report-2023,155,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,English,UAE,196
 Future Fund,Future-Fund-Year-In-Review-2023,156,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,English,Australia,194
-Public Sector Pension Investment Board,PSPIB-Annual-Report-2023,157,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,English,Canada,191
+Public Sector Pension Investment Board,PSPIB-Annual-Report-2023,157,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,English,Canada,191
 Korea Investment Corporation,KIC-Annual-Report-2023-organised,158,,,,,,,,South-Korean,South Korea,189
 Ontario Teachers' Pension Plan,OTPP-Annual-Report-2023,159,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,English,Canada,184
 British Columbia Investment Management Corporation,BCI-Annual-Report-2023,160,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,English,Canada,182
