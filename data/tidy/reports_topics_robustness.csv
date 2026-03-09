@@ -56,7 +56,7 @@ The Pension Protection Fund,PPF-Annual-Report-2023,54,TRUE,TRUE,FALSE,TRUE,TRUE,
 HSBC Bank Pension Trust UK,HSBC-Annual-Report-2023,55,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,English,UK,41
 Pensioenfonds Detailhandel,Pensioenfonds-Detailhandel-Annual-Report-2023,56,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,Dutch,Netherlands,37
 BVV Pension Fund,BVV-Annual-Report-2023,57,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,German,Germany,37
-National Employment Savings Trust (NEST),NEST-Annual-Report-2023,58,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,English,UK,37
+National Employment Savings Trust (NEST),NEST-Annual-Report-2023,58,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,English,UK,37
 Folketrygdfondet - Government Pension Fund Norway Domestic,NA,59,,,,,,,,NA,Norway,37
 Greater Manchester Pension Fund,GMPF-Annual-Report-2023,60,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,English,UK,36
 Velliv,Velliv-Annual-Report-2023,61,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,English,Denmark,36
@@ -73,7 +73,7 @@ Elo Mutual Pension Insurance Company,NA,71,,,,,,,,NA,Finland,31
 Pensioenfonds Vervoer,Pensioenfonds-Vervoer-Annual-Report-2023,72,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,Dutch,Netherlands,31
 Local Pensions Partnership Investments (LPPI),LPPI-Annual-Report-2023,73,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,English,UK,31
 BAE Systems Pension Fund,NA,74,,,,,,,,NA,UK,29
-Siemens,Siemens-Annual-Report-2023,75,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,English,Germany,29
+Siemens,Siemens-Annual-Report-2023,75,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,English,Germany,29
 ING Pensioenfonds,ING-Annual-Report-2023,76,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Dutch,Netherlands,29
 ABN AMRO Pensioenfonds,ABN-Annual-Report-2023,77,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,Dutch,Netherlands,28
 Asga Pensionskasse,ASGA-Annual-Report-2023,78,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,German,Switzerland,28
@@ -155,7 +155,7 @@ Australian Retirement Trust,ART-Annual-Report-2023,153,TRUE,TRUE,FALSE,TRUE,TRUE
 Labor Pension Fund Taiwan,NA,154,,,,,,,,NA,Taiwan,202
 Abu Dhabi Developmental Holding,ADQ-5-Year-Report-2023,155,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,English,UAE,196
 Future Fund,Future-Fund-Year-In-Review-2023,156,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,English,Australia,194
-Public Sector Pension Investment Board,PSPIB-Annual-Report-2023,157,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,English,Canada,191
+Public Sector Pension Investment Board,PSPIB-Annual-Report-2023,157,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,English,Canada,191
 Korea Investment Corporation,KIC-Annual-Report-2023-organised,158,,,,,,,,South-Korean,South Korea,189
 Ontario Teachers' Pension Plan,OTPP-Annual-Report-2023,159,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,English,Canada,184
 British Columbia Investment Management Corporation,BCI-Annual-Report-2023,160,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,English,Canada,182
@@ -176,7 +176,7 @@ Government Employees Pension Fund,GEPF-Annual-Report-2023,174,TRUE,TRUE,FALSE,FA
 Aware Super,Aware-Super-Annual-Report-2023,175,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,English,Australia,120
 AIMco,AIMco-Annual-Report-2023,176,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,English,Canada,118
 Ohio Public Employees Retirement System,OPERSO-Annual-Comprehensive-Report-2023,177,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,115
-New York City Teachers' Retirement System,TRSNYC-Annual-Comprehensive-Report-2023,178,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,113
+New York City Teachers' Retirement System,TRSNYC-Annual-Comprehensive-Report-2023,178,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,113
 Michigan State Retirement System,MSRS-Annual-Report-2023,179,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,108
 Teachers Retirement System of Georgia,TRSG-Annual-Comprehensive-Report-2023,180,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,106
 Virgina Retirement System,NA,181,,,,,,,,NA,USA,106
@@ -187,21 +187,21 @@ United Nations Joint Staff Pension Fund,UNJSPF-Annual-Report-2023,185,TRUE,TRUE,
 Ontario Municipal Employees' Retirement System,OMERS-Annual-Report-2023,186,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,English,Canada,96
 State Teachers Retirement System of Ohio,STRSOH-Annual-Comprehensive-Report-2023,187,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,95
 Oregon Public Employees Retirement System,OPERS-Annual-Comprehensive-Report-2023,188,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,94
-UniSuper,Uni-Super-Fund-Annual-Report-2023,189,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,English,Australia,92
+UniSuper,Uni-Super-Fund-Annual-Report-2023,189,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,English,Australia,92
 Kaiser Permanente,Kaiser-Permanente-Annual-Report-2023,190,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,English,USA,92
 RTX,RTX-Annual-Report-2023,191,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,English,USA,89
 Raytheon Technologies Pension,NA,192,,,,,,,,NA,USA,89
 Pension Fund Association,PFA-Annual-Report-2023,193,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,English,Japan,89
 Retraite Quebec,Retraite-Quebec-Annual-Report-2023,194,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,French,Canada,87
 Emirates Investment Authority ,EIA-Inaugural-Report,195,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,English,UAE,86
-RGA Reinsurance Company,RGA-Annual-Report-2023,196,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,85
+RGA Reinsurance Company,RGA-Annual-Report-2023,196,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,85
 World Bank,World-Bank-Annual-Report-2023,197,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,English,USA,82
 Healthcare of Ontario Pension Plan,HOOP-Annual-Report-2023,198,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,English,Canada,82
-Alaska Permanent Fund Corporation,APFC-Annual-Report-2023,199,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,81
+Alaska Permanent Fund Corporation,APFC-Annual-Report-2023,199,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,81
 New York City Employees Retirement System,NYCERS-Annual-Comprehensive-Report-2023,200,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,81
 Hostplus,Hostplus-Annual-Report-2023,201,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,English,Australia,78
 Lockheed Martin Investment Company,NA,202,,,,,,,,NA,USA,78
-Permodalan Nasional Berhad,PNB-Integrated-Annual-Report-2023,203,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,English,Malaysia,77
+Permodalan Nasional Berhad,PNB-Integrated-Annual-Report-2023,203,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,English,Malaysia,77
 New Jersey Investment Division,NJID-Annual-Report-2023,204,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,English,USA,76
 IBM (US) Retirement Fund,NA,205,,,,,,,,NA,USA,76
 General Electric Pension,NA,206,,,,,,,,NA,USA,74
