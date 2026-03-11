@@ -324,7 +324,7 @@ Teachers' Retirement System of Louisiana,TRSL-Annual-Comprehensive-Report-2023,3
 West Virginia Public Employees' Retirement System,WVPERS-Annual-Comprehensive-Report-2023,323,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,26
 SUNY,NA,324,,,,,,,,NA,USA,26
 Wespath Benefits,Wespath-Benefits-Annual-Report-2023,325,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,English,USA,26
-Kansas Public Employees Retirement System,KPERS-Annual-Comprehensive-Report-2023,326,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,26
+Kansas Public Employees Retirement System,KPERS-Annual-Comprehensive-Report-2023,326,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,26
 Public Service Pension Fund of Taiwan,PSPFT-Annual-Report-2023,327,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,English,Taiwan,25
 State Super (SAS Trustee),State-Super-Annual-Report-2023,328,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,English,Australia,25
 Porvenir,NA,329,,,,,,,,NA,Colombia,25
@@ -359,14 +359,14 @@ Merck & Co Inc Pension Fund,NA,357,,,,,,,,NA,USA,20
 The Korea Teachers Pension,NA,358,,,,,,,,NA,South Korea,20
 Brighter Super,Brighter-Super-Annual-Report-2023_24,359,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,English,Australia,20
 Spirit Super (MTAA & Tasplan),Spirit-Super-Annual-Report-2023,360,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,English,Australia,20
-North Dakota State Investment Board,NDRIO-Annual-Report-2023,361,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,20
-Maine Public Employees Retirement System,MPERS-Annual-Comprehensive-Report-2023,362,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,20
+North Dakota State Investment Board,NDRIO-Annual-Report-2023,361,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,English,USA,20
+Maine Public Employees Retirement System,MPERS-Annual-Comprehensive-Report-2023,362,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,20
 Dow Chemical Pension,Dow-Chemical-Annual-Report-2023,363,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,English,USA,20
 University of Michigan Investment Office,University-Michigan-Endowment-2023,364,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,English,USA,19
 School Employees Retirement System of Ohio,SERSO-Annual-Comprehensive-Report-2023,365,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,19
 University of Notre Dame Endownment,NA,366,,,,,,,,NA,USA,19
 Ohio Police and Fire Pension Fund,OPF-Annual-Comprehensive-Report-2023,367,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,19
-FCA US,FCA-US-Annual-Report-2023,368,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,18
+FCA US,FCA-US-Annual-Report-2023,368,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,18
 The Federal Economists Foundation,FUNCEF-Annual-Report-2023,369,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Portuguese,Brazil,18
 OPSEU pension Trust,OPSEU-Annual-Funded-Status-Report-2023,370,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,English,Canada,18
 San Diego County Employees Retirement Association,SDCERA-Annual-Comprehensive-Report-2023,371,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,18
@@ -385,8 +385,8 @@ Consolidated Edison,Consolidated-Edison-Annual-Report-2023,383,TRUE,FALSE,TRUE,F
 San Bernandino County Employees Retirement Association,SBCERA-Annual-Comprehensive-Report-2023,384,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,15
 Columbia Investment Management Company,NA,385,,,,,,,,NA,USA,15
 Southern Co,Southern-Co-Annual-Report-2023,386,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,English,USA,15
-Government Pension Fund Global,GPFT-Annual-Risk-Report-2023,387,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Thai,Thailand,15
-University of Virginia Investment Management Company,UVIMCO-Annual-Report-2023,388,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,English,USA,14
+Government Pension Fund Global,GPFT-Annual-Risk-Report-2023,387,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Thai,Thailand,15
+University of Virginia Investment Management Company,UVIMCO-Annual-Report-2023,388,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,14
 3M,3M-Annual-Report-2023,389,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,14
 Northwestern University Investment Office,Northwestern-Endowment-2023,390,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,English,USA,14
 Public Service Pension Plan Canada,PSPPC-Annual-Report-2023,391,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,English,Canada,13
