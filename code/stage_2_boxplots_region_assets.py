@@ -54,7 +54,7 @@ df["country"] = df["country"].astype(str).str.strip()
 df["assets"] = pd.to_numeric(df["assets"], errors="coerce")
 
 ##########################################################################
-## 3. Regions (merge North America + Latin America -> Americas)
+## 3. Regions (North America + Latin America -> Americas)
 ##########################################################################
 
 country_to_region = {
@@ -136,7 +136,7 @@ def boxplot_only(
     ax = sns.boxplot(
         data=plot_df,
         x=x, y=y,
-        hue=x,                 # keep consistent with your earlier structure
+        hue=x,
         palette=palette,
         order=order,
         hue_order=order,
@@ -161,7 +161,7 @@ def boxplot_only(
 
     plt.tight_layout()
 
-    for ext in ("png",):  # add "pdf" if needed
+    for ext in ("png",):  ## Use PDF if needed
         plt.savefig(
             f"{save_prefix}.{ext}",
             dpi=300,
@@ -177,7 +177,7 @@ def boxplot_only(
 sns.set_style("white")
 
 os.makedirs("docs/plots", exist_ok=True)
-os.makedirs("docs/descriptives", exist_ok=True)
+os.makedirs("results", exist_ok=True)
 
 ## Region palette (pastel dict)
 region_order = sorted(df["region"].unique().tolist())
@@ -273,11 +273,11 @@ with open(txt_path, "w", encoding="utf-8") as f:
         for col, val in prev.items():
             f.write(f"  {topic_label_map.get(col, col)}: {val:.3f}\n")
         
-        # --- Top-10 companies by maximum topic_count (Europe + Asia-Pacific only)
+        ## Top-10 companies by maximum topic_count (Europe + Asia-Pacific only)
         if r in ("Europe", "Asia-Pacific"):
             f.write("\nTop-10 companies by maximum topic_count (within region):\n")
         
-            # 1) company-level max topic_count within the region
+            ## Company-level max topic_count within the region
             company_max = (
                 sub.groupby("company", dropna=False)["topic_count"]
                    .max()
@@ -285,8 +285,8 @@ with open(txt_path, "w", encoding="utf-8") as f:
                    .reset_index()
             )
 
-            # 2) attach a country label for each company (most frequent country within region);
-            # if ties occur, pandas' mode returns multiple values; take the first.
+            ## Attach a country label for each company (most frequent country within region);
+            ## if ties occur, pandas' mode returns multiple values; take the first.
             company_country = (
                 sub.dropna(subset=["company"])
                    .groupby("company")["country"]
@@ -295,7 +295,7 @@ with open(txt_path, "w", encoding="utf-8") as f:
                    .reset_index()
             )
 
-            # 3) merge, rank, and print
+            ## Merge, rank, and print
             top10 = (
                 company_max.merge(company_country, on="company", how="left")
                            .sort_values("max_topic_count", ascending=False)
