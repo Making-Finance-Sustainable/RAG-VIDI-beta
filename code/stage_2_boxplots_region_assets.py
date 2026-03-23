@@ -19,7 +19,8 @@ np.random.seed(42)
 ##########################################################################
 
 ## Data
-csv_path = "data/raw/reports_topics.csv"
+## csv_path = "data/raw/reports_topics.csv"
+csv_path = "data/tidy/reports_topics_validation.csv"
 
 df = pd.read_csv(csv_path)
 
