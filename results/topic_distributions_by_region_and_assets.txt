@@ -1,19 +1,19 @@
 Making Finance Sustainable VIDI Project
 Descriptives: topics overall, by region, and by assets quartiles
-Source file: data/raw/reports_topics.csv
+Source file: data/tidy/reports_topics_validation.csv
 Documents (after cleaning): 319
 
 === Overall topic prevalence (share of documents) ===
-Responsible investment ESG: 0.687
-Sustainable development: 0.473
-Decarbonisation: 0.417
-Net zero: 0.304
-Transition finance: 0.197
-Green growth: 0.182
-Conservation finance: 0.097
+Responsible investment ESG: 0.727
+Sustainable development: 0.489
+Decarbonisation: 0.429
+Net zero: 0.310
+Transition finance: 0.207
+Green growth: 0.197
+Conservation finance: 0.100
 
 === Overall topic_count descriptives (number of topics per report) ===
-n=319, mean=2.357, sd=1.969, min=0, p25=1.000, median=2.000, p75=4.000, max=7
+n=319, mean=2.461, sd=1.929, min=0, p25=1.000, median=2.000, p75=4.000, max=7
 
 
 === By region ===
@@ -30,25 +30,25 @@ topic prevalence:
   Conservation finance: 0.000
 
 -- Region: Americas (n=145) --
-topic_count: n=145, mean=1.490, sd=1.772, min=0, p25=0.000, median=1.000, p75=2.000, max=7
+topic_count: n=145, mean=1.566, sd=1.767, min=0, p25=0.000, median=1.000, p75=2.000, max=7
 topic prevalence:
-  Responsible investment ESG: 0.490
+  Responsible investment ESG: 0.538
   Sustainable development: 0.317
-  Decarbonisation: 0.200
+  Decarbonisation: 0.207
   Net zero: 0.179
-  Green growth: 0.138
-  Conservation finance: 0.097
-  Transition finance: 0.069
+  Green growth: 0.145
+  Conservation finance: 0.103
+  Transition finance: 0.076
 
 -- Region: Asia-Pacific (n=46) --
-topic_count: n=46, mean=3.196, sd=1.869, min=0, p25=2.000, median=3.000, p75=4.750, max=7
+topic_count: n=46, mean=3.304, sd=1.775, min=0, p25=2.000, median=3.500, p75=4.750, max=7
 topic prevalence:
-  Responsible investment ESG: 0.804
-  Sustainable development: 0.674
+  Responsible investment ESG: 0.826
+  Sustainable development: 0.696
   Decarbonisation: 0.543
-  Net zero: 0.413
+  Net zero: 0.457
+  Transition finance: 0.348
   Green growth: 0.326
-  Transition finance: 0.326
   Conservation finance: 0.109
 
 Top-10 companies by maximum topic_count (within region):
@@ -64,25 +64,25 @@ Top-10 companies by maximum topic_count (within region):
   Spirit Super (MTAA & Tasplan) (Australia): 5
 
 -- Region: Eurasia (n=3) --
-topic_count: n=3, mean=0.667, sd=1.155, min=0, p25=0.000, median=0.000, p75=1.000, max=2
+topic_count: n=3, mean=3.333, sd=1.528, min=2, p25=2.500, median=3.000, p75=4.000, max=5
 topic prevalence:
-  Sustainable development: 0.333
-  Responsible investment ESG: 0.333
-  Green growth: 0.000
+  Sustainable development: 1.000
+  Responsible investment ESG: 1.000
+  Green growth: 0.667
+  Decarbonisation: 0.333
+  Transition finance: 0.333
   Net zero: 0.000
-  Decarbonisation: 0.000
-  Transition finance: 0.000
   Conservation finance: 0.000
 
 -- Region: Europe (n=113) --
-topic_count: n=113, mean=3.088, sd=1.760, min=0, p25=2.000, median=3.000, p75=5.000, max=7
+topic_count: n=113, mean=3.142, sd=1.711, min=0, p25=2.000, median=3.000, p75=5.000, max=7
 topic prevalence:
-  Responsible investment ESG: 0.903
-  Decarbonisation: 0.637
-  Sustainable development: 0.566
+  Responsible investment ESG: 0.920
+  Decarbonisation: 0.655
+  Sustainable development: 0.575
   Net zero: 0.407
   Transition finance: 0.310
-  Green growth: 0.168
+  Green growth: 0.177
   Conservation finance: 0.097
 
 Top-10 companies by maximum topic_count (within region):
@@ -98,13 +98,13 @@ Top-10 companies by maximum topic_count (within region):
   Barclays Bank UK Retirement Fund (UK): 5
 
 -- Region: Middle East (n=8) --
-topic_count: n=8, mean=3.625, sd=2.326, min=0, p25=3.000, median=4.500, p75=5.000, max=6
+topic_count: n=8, mean=4.000, sd=1.852, min=0, p25=3.750, median=4.500, p75=5.000, max=6
 topic prevalence:
-  Sustainable development: 0.750
+  Sustainable development: 0.875
+  Responsible investment ESG: 0.750
   Decarbonisation: 0.750
-  Responsible investment ESG: 0.625
   Net zero: 0.625
-  Green growth: 0.375
+  Green growth: 0.500
   Transition finance: 0.375
   Conservation finance: 0.125
 
@@ -112,45 +112,45 @@ topic prevalence:
 === By assets quartile ===
 
 -- Assets: Q1 (low) (n=80) --
-topic_count: n=80, mean=1.837, sd=1.603, min=0, p25=1.000, median=2.000, p75=3.000, max=6
+topic_count: n=80, mean=2.013, sd=1.642, min=0, p25=1.000, median=2.000, p75=3.000, max=6
 topic prevalence:
-  Responsible investment ESG: 0.675
-  Decarbonisation: 0.338
-  Sustainable development: 0.325
-  Net zero: 0.200
-  Transition finance: 0.150
-  Green growth: 0.100
-  Conservation finance: 0.050
+  Responsible investment ESG: 0.725
+  Decarbonisation: 0.362
+  Sustainable development: 0.350
+  Net zero: 0.225
+  Transition finance: 0.175
+  Green growth: 0.113
+  Conservation finance: 0.062
 
 -- Assets: Q2 (n=80) --
-topic_count: n=80, mean=2.175, sd=1.888, min=0, p25=1.000, median=2.000, p75=4.000, max=7
+topic_count: n=80, mean=2.275, sd=1.855, min=0, p25=1.000, median=2.000, p75=4.000, max=7
 topic prevalence:
-  Responsible investment ESG: 0.662
-  Sustainable development: 0.425
-  Decarbonisation: 0.412
-  Net zero: 0.263
-  Transition finance: 0.175
+  Responsible investment ESG: 0.700
+  Sustainable development: 0.450
+  Decarbonisation: 0.425
+  Net zero: 0.275
+  Transition finance: 0.188
   Green growth: 0.163
   Conservation finance: 0.075
 
 -- Assets: Q3 (n=78) --
-topic_count: n=78, mean=2.718, sd=2.051, min=0, p25=1.000, median=3.000, p75=4.000, max=7
+topic_count: n=78, mean=2.744, sd=1.996, min=0, p25=1.000, median=3.000, p75=4.000, max=7
 topic prevalence:
-  Responsible investment ESG: 0.769
+  Responsible investment ESG: 0.795
   Sustainable development: 0.538
   Decarbonisation: 0.449
-  Net zero: 0.372
-  Transition finance: 0.269
-  Green growth: 0.179
+  Net zero: 0.359
+  Transition finance: 0.256
+  Green growth: 0.205
   Conservation finance: 0.141
 
 -- Assets: Q4 (high) (n=77) --
-topic_count: n=77, mean=2.727, sd=2.204, min=0, p25=0.000, median=3.000, p75=5.000, max=7
+topic_count: n=77, mean=2.844, sd=2.128, min=0, p25=1.000, median=3.000, p75=5.000, max=7
 topic prevalence:
-  Responsible investment ESG: 0.623
-  Sustainable development: 0.610
-  Decarbonisation: 0.481
+  Responsible investment ESG: 0.675
+  Sustainable development: 0.623
+  Decarbonisation: 0.494
   Net zero: 0.390
-  Green growth: 0.286
-  Transition finance: 0.208
+  Green growth: 0.312
+  Transition finance: 0.221
   Conservation finance: 0.130
