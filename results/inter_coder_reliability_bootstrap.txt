@@ -1,0 +1,50 @@
+Making Finance Sustainable VIDI Project
+Intercoder reliability on validation subset (validation==1)
+Labels are binary dummies per topic (_present columns).
+Per-topic statistics + bootstrapped 95% CIs.
+
+Original:   data/raw/reports_topics.csv
+Validation: data/tidy/reports_topics_validation.csv
+Robustness: data/tidy/reports_topics_robustness.csv
+
+=== original vs validation ===
+Documents (validation==1, matched): 84
+Topics: 7
+Bootstrap: 5000 item-resamples, percentile 95% CIs
+
+Overall percent agreement (flattened): 0.927 [0.905, 0.947]
+Overall Cohen's kappa (flattened): 0.569 [0.446, 0.678]
+Overall Krippendorff's alpha (flattened): 0.783 [0.720, 0.838]
+Macro agreement mean/median: 0.927 / 0.940
+Macro kappa mean/median: 0.519 / 0.550
+Macro alpha mean/median: 0.757 / 0.774
+
+Topics ordered by Krippendorff's alpha:
+  decarbonization_present: alpha=0.887 [0.745, 0.975], kappa=0.774 [0.521, 0.950], agreement=0.952 [0.905, 0.988], prev_a=0.095, prev_b=0.143
+  conservation_finance_present: alpha=0.831 [0.492, 1.000], kappa=0.661 [0.000, 1.000], agreement=0.988 [0.964, 1.000], prev_a=0.012, prev_b=0.024
+  net_zero_present: alpha=0.793 [0.607, 0.925], kappa=0.586 [0.215, 0.849], agreement=0.929 [0.869, 0.976], prev_a=0.083, prev_b=0.107
+  sustainable_development_present: alpha=0.774 [0.623, 0.896], kappa=0.550 [0.259, 0.791], agreement=0.893 [0.821, 0.952], prev_a=0.107, prev_b=0.167
+  responsible_investment_esg_present: alpha=0.756 [0.626, 0.864], kappa=0.528 [0.308, 0.731], agreement=0.845 [0.762, 0.917], prev_a=0.119, prev_b=0.274
+  green_growth_present: alpha=0.628 [0.477, 0.831], kappa=0.271 [0.000, 0.661], agreement=0.940 [0.893, 0.988], prev_a=0.012, prev_b=0.071
+  transition_finance_present: alpha=0.628 [0.477, 0.831], kappa=0.261 [-0.038, 0.661], agreement=0.940 [0.881, 0.988], prev_a=0.024, prev_b=0.060
+
+=== validation vs robustness ===
+Documents (validation==1, matched): 84
+Topics: 7
+Bootstrap: 5000 item-resamples, percentile 95% CIs
+
+Overall percent agreement (flattened): 0.934 [0.913, 0.952]
+Overall Cohen's kappa (flattened): 0.697 [0.602, 0.784]
+Overall Krippendorff's alpha (flattened): 0.848 [0.800, 0.891]
+Macro agreement mean/median: 0.934 / 0.940
+Macro kappa mean/median: 0.544 / 0.645
+Macro alpha mean/median: 0.772 / 0.823
+
+Topics ordered by Krippendorff's alpha:
+  responsible_investment_esg_present: alpha=0.928 [0.860, 0.984], kappa=0.856 [0.721, 0.969], agreement=0.940 [0.881, 0.988], prev_a=0.274, prev_b=0.310
+  net_zero_present: alpha=0.876 [0.725, 0.973], kappa=0.751 [0.448, 0.950], agreement=0.952 [0.905, 0.988], prev_a=0.107, prev_b=0.107
+  decarbonization_present: alpha=0.846 [0.717, 0.943], kappa=0.692 [0.446, 0.881], agreement=0.917 [0.857, 0.964], prev_a=0.143, prev_b=0.179
+  sustainable_development_present: alpha=0.823 [0.702, 0.919], kappa=0.645 [0.410, 0.846], agreement=0.893 [0.821, 0.952], prev_a=0.167, prev_b=0.202
+  transition_finance_present: alpha=0.738 [0.483, 0.926], kappa=0.477 [-0.024, 0.851], agreement=0.952 [0.905, 0.988], prev_a=0.060, prev_b=0.036
+  green_growth_present: alpha=0.707 [0.480, 0.897], kappa=0.417 [-0.030, 0.794], agreement=0.940 [0.881, 0.988], prev_a=0.071, prev_b=0.036
+  conservation_finance_present: alpha=0.486 [0.473, 0.499], kappa=-0.029 [-0.056, 0.000], agreement=0.940 [0.881, 0.988], prev_a=0.024, prev_b=0.036
