@@ -119,7 +119,7 @@ topic_label_map = {
 }
 
 ##########################################################################
-## 6. Plot helper: boxplot ONLY (no scatter points)
+## 6. Boxplot (no scatter points)
 ##########################################################################
 
 def boxplot_only(
@@ -161,13 +161,19 @@ def boxplot_only(
     ax.tick_params(axis="both", length=0)
 
     plt.tight_layout()
+ 
+    plt.savefig(
+        f"{save_prefix}.png",
+        dpi=300,
+        bbox_inches="tight",
+        transparent=True,
+    )
 
-    for ext in ("png",):  ## Use PDF if needed
-        plt.savefig(
-            f"{save_prefix}.{ext}",
-            dpi=300,
-            bbox_inches="tight",
-            transparent=True,
+    pdf_name = os.path.basename(save_prefix)
+    plt.savefig(
+        f"results/{pdf_name}.pdf",
+        bbox_inches="tight",
+        transparent=False,
         )
     plt.close()
 
@@ -215,7 +221,9 @@ boxplot_only(
 
 print("\nPlots saved:")
 print(" - docs/plots/topic_count_boxplot_by_region.png")
+print(" - results/topic_count_boxplot_by_region.pdf")
 print(" - docs/plots/topic_count_boxplot_by_assets_quartile.png")
+print(" - results/topic_count_boxplot_by_assets_quartile.pdf")
 
 ##########################################################################
 ## 8. TXT descriptives (overall + by region + by assets quartile)
