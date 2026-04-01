@@ -6,6 +6,7 @@
 ##########################################################################
 ## 1. Dependencies
 ##########################################################################
+
 import os
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -155,12 +156,14 @@ os.makedirs("docs/plots", exist_ok=True)
 
 prev_output = "docs/plots/topic_prevalence"
 coocc_output = "docs/plots/topic_cooccurrence"
+prev_output_pdf = "results/topic_prevalence"
+coocc_output_pdf = "results/topic_cooccurrence"
 
 fig1.savefig(f"{prev_output}.png", dpi=300, bbox_inches='tight', transparent=True)
-## fig1.savefig(f"{prev_output}.pdf", dpi=300, bbox_inches='tight')
+fig1.savefig(f"{prev_output_pdf}.pdf", dpi=300, bbox_inches='tight')
 
 fig2.savefig(f"{coocc_output}.png", dpi=300, bbox_inches='tight', transparent=True)
-## fig2.savefig(f"{coocc_output}.pdf", dpi=300, bbox_inches='tight')
+fig2.savefig(f"{coocc_output_pdf}.pdf", dpi=300, bbox_inches='tight')
 
 print("\nTopic prevalence bar chart saved.")
 print("Topic co-occurrence heatmap saved.")
