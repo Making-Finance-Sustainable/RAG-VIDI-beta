@@ -1,0 +1,30 @@
+Making Finance Sustainable VIDI Project
+Asymmetric agreement for binary topic columns (_present)
+TXT output only
+No validation filter applied
+Agreement is calculated as:
+TRUE in file 1 AND TRUE in file 2 / TRUE in file 1
+
+File 1: data/tidy/reports_topics_memberships.csv
+File 2: data/tidy/reports_topics_validation.csv
+
+Comparison: file1 -> file2
+Matched documents: 400
+Topics: 7
+
+Overall pooled results across all topic-columns:
+  TRUE in file 1: 254
+  TRUE in file 2: 785
+  TRUE in both:   138
+  Agreement file1 -> file2: 0.543
+  Macro mean agreement:     0.553
+  Macro median agreement:   0.569
+
+Per-topic results:
+  sustainable_development_present: TRUE_file1=2, TRUE_file2=156, TRUE_both=2, agreement=1.000
+  responsible_investment_esg_present: TRUE_file1=82, TRUE_file2=232, TRUE_both=60, agreement=0.732
+  decarbonization_present: TRUE_file1=44, TRUE_file2=137, TRUE_both=31, agreement=0.705
+  net_zero_present: TRUE_file1=67, TRUE_file2=99, TRUE_both=29, agreement=0.433
+  transition_finance_present: TRUE_file1=43, TRUE_file2=66, TRUE_both=14, agreement=0.326
+  conservation_finance_present: TRUE_file1=16, TRUE_file2=32, TRUE_both=2, agreement=0.125
+  green_growth_present: TRUE_file1=0, TRUE_file2=63, TRUE_both=0, agreement=NA
