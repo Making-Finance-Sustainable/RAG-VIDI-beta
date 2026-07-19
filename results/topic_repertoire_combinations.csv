@@ -1,0 +1,50 @@
+combination_label,n,share,topic_count,responsible_investment_esg_present,sustainable_development_present,decarbonization_present,net_zero_present,transition_finance_present,green_growth_present,conservation_finance_present
+No detected topics,59,0.18495297805642633,0,False,False,False,False,False,False,False
+Responsible investment/ESG,56,0.1755485893416928,1,True,False,False,False,False,False,False
+Responsible investment/ESG + Sustainable development,26,0.08150470219435736,2,True,True,False,False,False,False,False
+Responsible investment/ESG + Sustainable development + Decarbonisation + Net-zero + Transition finance,18,0.05642633228840126,5,True,True,True,True,True,False,False
+Responsible investment/ESG + Sustainable development + Decarbonisation + Net-zero,16,0.050156739811912224,4,True,True,True,True,False,False,False
+Responsible investment/ESG + Decarbonisation,12,0.03761755485893417,2,True,False,True,False,False,False,False
+Responsible investment/ESG + Sustainable development + Decarbonisation,12,0.03761755485893417,3,True,True,True,False,False,False,False
+Responsible investment/ESG + Sustainable development + Decarbonisation + Net-zero + Green growth,10,0.03134796238244514,5,True,True,True,True,False,True,False
+Responsible investment/ESG + Sustainable development + Decarbonisation + Net-zero + Transition finance + Green growth,7,0.0219435736677116,6,True,True,True,True,True,True,False
+Responsible investment/ESG + Sustainable development + Decarbonisation + Transition finance + Green growth,6,0.018808777429467086,5,True,True,True,False,True,True,False
+Sustainable development,6,0.018808777429467086,1,False,True,False,False,False,False,False
+Responsible investment/ESG + Sustainable development + Decarbonisation + Transition finance,5,0.01567398119122257,4,True,True,True,False,True,False,False
+Responsible investment/ESG + Sustainable development + Green growth,5,0.01567398119122257,3,True,True,False,False,False,True,False
+Responsible investment/ESG + Decarbonisation + Transition finance,5,0.01567398119122257,3,True,False,True,False,True,False,False
+Responsible investment/ESG + Decarbonisation + Net-zero,5,0.01567398119122257,3,True,False,True,True,False,False,False
+Responsible investment/ESG + Transition finance,4,0.012539184952978056,2,True,False,False,False,True,False,False
+Net-zero,4,0.012539184952978056,1,False,False,False,True,False,False,False
+Responsible investment/ESG + Sustainable development + Net-zero + Green growth,4,0.012539184952978056,4,True,True,False,True,False,True,False
+Responsible investment/ESG + Sustainable development + Net-zero,4,0.012539184952978056,3,True,True,False,True,False,False,False
+Responsible investment/ESG + Sustainable development + Decarbonisation + Green growth,4,0.012539184952978056,4,True,True,True,False,False,True,False
+Responsible investment/ESG + Sustainable development + Decarbonisation + Net-zero + Green growth + Conservation finance,4,0.012539184952978056,6,True,True,True,True,False,True,True
+Responsible investment/ESG + Sustainable development + Decarbonisation + Net-zero + Transition finance + Green growth + Conservation finance,3,0.009404388714733543,7,True,True,True,True,True,True,True
+Responsible investment/ESG + Sustainable development + Decarbonisation + Transition finance + Green growth + Conservation finance,3,0.009404388714733543,6,True,True,True,False,True,True,True
+Responsible investment/ESG + Sustainable development + Decarbonisation + Green growth + Conservation finance,3,0.009404388714733543,5,True,True,True,False,False,True,True
+Sustainable development + Decarbonisation + Green growth + Conservation finance,3,0.009404388714733543,4,False,True,True,False,False,True,True
+Conservation finance,2,0.006269592476489028,1,False,False,False,False,False,False,True
+Green growth,2,0.006269592476489028,1,False,False,False,False,False,True,False
+Sustainable development + Decarbonisation + Net-zero,2,0.006269592476489028,3,False,True,True,True,False,False,False
+Responsible investment/ESG + Decarbonisation + Conservation finance,2,0.006269592476489028,3,True,False,True,False,False,False,True
+Responsible investment/ESG + Net-zero,2,0.006269592476489028,2,True,False,False,True,False,False,False
+Responsible investment/ESG + Sustainable development + Net-zero + Transition finance,2,0.006269592476489028,4,True,True,False,True,True,False,False
+Sustainable development + Decarbonisation + Net-zero + Conservation finance,2,0.006269592476489028,4,False,True,True,True,False,False,True
+Sustainable development + Decarbonisation + Net-zero + Transition finance + Green growth,2,0.006269592476489028,5,False,True,True,True,True,True,False
+Responsible investment/ESG + Sustainable development + Decarbonisation + Net-zero + Transition finance + Conservation finance,2,0.006269592476489028,6,True,True,True,True,True,False,True
+Responsible investment/ESG + Decarbonisation + Net-zero + Transition finance,2,0.006269592476489028,4,True,False,True,True,True,False,False
+Responsible investment/ESG + Sustainable development + Decarbonisation + Net-zero + Conservation finance,2,0.006269592476489028,5,True,True,True,True,False,False,True
+Sustainable development + Decarbonisation + Net-zero + Transition finance + Green growth + Conservation finance,1,0.003134796238244514,6,False,True,True,True,True,True,True
+Decarbonisation + Net-zero,1,0.003134796238244514,2,False,False,True,True,False,False,False
+Net-zero + Green growth + Conservation finance,1,0.003134796238244514,3,False,False,False,True,False,True,True
+Sustainable development + Decarbonisation + Net-zero + Green growth,1,0.003134796238244514,4,False,True,True,True,False,True,False
+Net-zero + Transition finance,1,0.003134796238244514,2,False,False,False,True,True,False,False
+Responsible investment/ESG + Green growth,1,0.003134796238244514,2,True,False,False,False,False,True,False
+Responsible investment/ESG + Sustainable development + Transition finance + Green growth,1,0.003134796238244514,4,True,True,False,False,True,True,False
+Responsible investment/ESG + Decarbonisation + Net-zero + Transition finance + Green growth,1,0.003134796238244514,5,True,False,True,True,True,True,False
+Responsible investment/ESG + Sustainable development + Transition finance,1,0.003134796238244514,3,True,True,False,False,True,False,False
+Responsible investment/ESG + Decarbonisation + Net-zero + Transition finance + Conservation finance,1,0.003134796238244514,5,True,False,True,True,True,False,True
+Responsible investment/ESG + Decarbonisation + Net-zero + Green growth + Conservation finance,1,0.003134796238244514,5,True,False,True,True,False,True,True
+Responsible investment/ESG + Decarbonisation + Transition finance + Conservation finance,1,0.003134796238244514,4,True,False,True,False,True,False,True
+Responsible investment/ESG + Sustainable development + Conservation finance,1,0.003134796238244514,3,True,True,False,False,False,False,True
