@@ -9,8 +9,12 @@
 
 import os
 import pandas as pd
-import matplotlib.pyplot as plt
 import numpy as np
+
+import matplotlib
+matplotlib.use("Agg")
+
+import matplotlib.pyplot as plt
 import seaborn as sns
 from matplotlib.gridspec import GridSpec
 
@@ -192,7 +196,8 @@ gs = GridSpec(
     ncols=2,
     width_ratios=[2.3, 5.5],
     height_ratios=[3.0, 2.4],
-    hspace=0.05,
+    ## hspace=0.05,
+    hspace=0.18,
     wspace=0.08
 )
 
@@ -344,7 +349,43 @@ ax_set.grid(axis='x', color=grid_color, linewidth=0.8)
 ax_empty.axis("off")
 
 ##########################################################################
-## 7.5 Caption-like note
+## 7.5 Panel labels
+##########################################################################
+
+panel_label_kwargs = {
+    "fontsize": 12,
+    "fontweight": "bold",
+    "ha": "left",
+    "va": "bottom",
+    "clip_on": False
+}
+
+ax_bar.text(
+    0.0,
+    1.02,
+    "a)",
+    transform=ax_bar.transAxes,
+    **panel_label_kwargs
+)
+
+ax_set.text(
+    0.0,
+    1.02,
+    "b)",
+    transform=ax_set.transAxes,
+    **panel_label_kwargs
+)
+
+ax_matrix.text(
+    0.0,
+    1.02,
+    "c)",
+    transform=ax_matrix.transAxes,
+    **panel_label_kwargs
+)
+
+##########################################################################
+## 7.6 Caption-like note
 ##########################################################################
 
 note = (
@@ -375,7 +416,8 @@ fig.subplots_adjust(
     top=0.90,
     bottom=0.13,
     wspace=0.08,
-    hspace=0.05
+    ## hspace=0.05
+    hspace=0.18
 )
 
 ##########################################################################

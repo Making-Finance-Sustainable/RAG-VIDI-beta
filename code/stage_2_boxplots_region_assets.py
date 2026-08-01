@@ -8,6 +8,10 @@
 ##########################################################################
 import os
 import pandas as pd
+
+import matplotlib
+matplotlib.use("Agg")
+
 import matplotlib.pyplot as plt
 import numpy as np
 import seaborn as sns
@@ -119,24 +123,24 @@ topic_label_map = {
 }
 
 ##########################################################################
-## 6. Boxplot (no scatter points)
+## 6. Boxplot panel
 ##########################################################################
 
-def boxplot_only(
+def draw_boxplot(
+    ax,
     plot_df: pd.DataFrame,
     x: str,
     y: str,
     order: list,
     palette: dict,
     title: str,
-    save_prefix: str,
-    figsize=(10, 6),
+    panel_label: str,
 ) -> None:
-    plt.figure(figsize=figsize)
 
-    ax = sns.boxplot(
+    sns.boxplot(
         data=plot_df,
-        x=x, y=y,
+        x=x,
+        y=y,
         hue=x,
         palette=palette,
         order=order,
@@ -146,6 +150,7 @@ def boxplot_only(
         width=0.55,
         legend=False,
         linewidth=1,
+        ax=ax,
     )
 
     if ax.get_legend() is not None:
@@ -158,24 +163,20 @@ def boxplot_only(
 
     for spine in ax.spines.values():
         spine.set_visible(False)
+
     ax.tick_params(axis="both", length=0)
 
-    plt.tight_layout()
- 
-    plt.savefig(
-        f"{save_prefix}.png",
-        dpi=300,
-        bbox_inches="tight",
-        transparent=True,
+    ax.text(
+        -0.06,
+        1.08,
+        panel_label,
+        transform=ax.transAxes,
+        fontsize=13,
+        fontweight="bold",
+        ha="left",
+        va="top",
+        clip_on=False,
     )
-
-    pdf_name = os.path.basename(save_prefix)
-    plt.savefig(
-        f"results/{pdf_name}.pdf",
-        bbox_inches="tight",
-        transparent=False,
-        )
-    plt.close()
 
 ##########################################################################
 ## 7. Create plots
@@ -195,35 +196,74 @@ region_palette = {k: region_colors[i] for i, k in enumerate(region_order)}
 quartile_colors = sns.color_palette("pastel", n_colors=len(quartile_order))
 quartile_palette = {k: quartile_colors[i] for i, k in enumerate(quartile_order)}
 
-## Plot 1: by region
-boxplot_only(
+##########################################################################
+## 7.1 Combined multipanel figure
+##########################################################################
+
+fig, axes = plt.subplots(
+    nrows=1,
+    ncols=2,
+    figsize=(16, 6),
+    sharey=True,
+)
+
+## Panel a: by region
+draw_boxplot(
+    ax=axes[0],
     plot_df=df,
     x="region",
     y="topic_count",
     order=region_order,
     palette=region_palette,
     title="Topic count across annual reports by region",
-    save_prefix="docs/plots/topic_count_boxplot_by_region",
-    figsize=(10, 6),
+    panel_label="a)",
 )
 
-## Plot 2: by assets quartile
-boxplot_only(
+## Panel b: by assets quartile
+draw_boxplot(
+    ax=axes[1],
     plot_df=df.dropna(subset=["assets_quartile"]),
     x="assets_quartile",
     y="topic_count",
     order=quartile_order,
     palette=quartile_palette,
     title="Topic count across annual reports by assets quartile",
-    save_prefix="docs/plots/topic_count_boxplot_by_assets_quartile",
-    figsize=(10, 6),
+    panel_label="b)",
 )
 
-print("\nPlots saved:")
-print(" - docs/plots/topic_count_boxplot_by_region.png")
-print(" - results/topic_count_boxplot_by_region.pdf")
-print(" - docs/plots/topic_count_boxplot_by_assets_quartile.png")
-print(" - results/topic_count_boxplot_by_assets_quartile.pdf")
+## The y-axis label is shared, so remove it from panel b
+axes[1].set_ylabel("")
+
+fig.subplots_adjust(
+    left=0.07,
+    right=0.98,
+    top=0.86,
+    bottom=0.12,
+    wspace=0.08,
+)
+
+combined_png = "docs/plots/topic_count_boxplots_combined.png"
+combined_pdf = "results/topic_count_boxplots_combined.pdf"
+
+fig.savefig(
+    combined_png,
+    dpi=300,
+    bbox_inches="tight",
+    transparent=True,
+)
+
+fig.savefig(
+    combined_pdf,
+    dpi=300,
+    bbox_inches="tight",
+    transparent=False,
+)
+
+plt.close(fig)
+
+print("\nCombined multipanel figure saved:")
+print(f" - {combined_png}")
+print(f" - {combined_pdf}")
 
 ##########################################################################
 ## 8. TXT descriptives (overall + by region + by assets quartile)

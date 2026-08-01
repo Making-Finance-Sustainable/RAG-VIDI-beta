@@ -4,15 +4,15 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-pandas = "*"
 matplotlib = "*"
 seaborn = "*"
 scikit-learn = "*"
 tqdm = "*"
 statsmodels = "*"
 tabulate = "*"
+pandas = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.11"
+python_version = "3.13"

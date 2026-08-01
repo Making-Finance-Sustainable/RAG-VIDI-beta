@@ -11,6 +11,10 @@ import os
 import warnings
 import numpy as np
 import pandas as pd
+
+import matplotlib
+matplotlib.use("Agg")
+
 import matplotlib.pyplot as plt
 import seaborn as sns
 
@@ -604,15 +608,21 @@ region_pred_df["ci_high"] = ols_region_pred["mean_ci_upper"]
 ## 14. Predicted-value figure
 ##########################################################################
 
-sns.set_style("white")
+sns.set_theme(style="white")
 
-line_color = "#2F2F2F"
+## Pastel colours consistent with Figures 1 and 2
+pastel_palette = sns.color_palette("pastel", n_colors=8)
+
+aum_color = pastel_palette[0]
+region_color = pastel_palette[2]
+edge_color = "#2F2F2F"
 grid_color = "#F2F2F2"
 
 fig, axes = plt.subplots(
     nrows=1,
     ncols=2,
     figsize=(12, 5.8),
+    sharey=True,
     gridspec_kw={"width_ratios": [1, 1.25]}
 )
 
@@ -632,19 +642,23 @@ ax1.errorbar(
         aum_pred_df["ci_high"] - aum_pred_df["predicted_topic_count"]
     ],
     fmt="o",
-    color=line_color,
-    ecolor=line_color,
+    color=aum_color,
+    ecolor=aum_color,
+    markeredgecolor=edge_color,
+    markeredgewidth=0.8,
     elinewidth=1.5,
     capsize=4,
-    markersize=6
+    markersize=7,
+    zorder=3
 )
 
 ax1.plot(
     x_aum,
     aum_pred_df["predicted_topic_count"],
-    color=line_color,
+    color=aum_color,
     linewidth=1.5,
-    alpha=0.8
+    alpha=0.9,
+    zorder=2
 )
 
 ax1.set_xticks(x_aum)
@@ -653,8 +667,26 @@ ax1.set_xticklabels(aum_pred_df["assets_quartile"], fontsize=9)
 ax1.set_xlabel("AUM quartile", fontsize=11)
 ax1.set_ylabel("Predicted number of topics", fontsize=11)
 
-for spine in ["top", "right"]:
-    ax1.spines[spine].set_visible(False)
+ax1.set_title(
+    "Predicted reporting breadth by AUM quartile",
+    fontsize=14,
+    pad=20
+)
+
+ax1.text(
+    -0.06,
+    1.10,
+    "a)",
+    transform=ax1.transAxes,
+    fontsize=13,
+    fontweight="bold",
+    ha="left",
+    va="top",
+    clip_on=False
+)
+
+for spine in ax1.spines.values():
+    spine.set_visible(False)
 
 ax1.tick_params(axis="both", length=0)
 ax1.grid(axis="y", color=grid_color, linewidth=0.8)
@@ -673,21 +705,42 @@ ax2.errorbar(
         region_pred_df["ci_high"] - region_pred_df["predicted_topic_count"]
     ],
     fmt="o",
-    color=line_color,
-    ecolor=line_color,
+    color=region_color,
+    ecolor=region_color,
+    markeredgecolor=edge_color,
+    markeredgewidth=0.8,
     elinewidth=1.5,
     capsize=4,
-    markersize=6
+    markersize=7,
+    zorder=3
 )
 
 ax2.set_xticks(x_region)
 ax2.set_xticklabels(region_pred_df["region"], rotation=30, ha="right", fontsize=9)
 
-## ax2.set_xlabel("Region", fontsize=11)
-ax2.set_ylabel("Predicted number of topics", fontsize=11)
+ax2.set_xlabel("Region", fontsize=11)
+ax2.set_ylabel("")
 
-for spine in ["top", "right"]:
-    ax2.spines[spine].set_visible(False)
+ax2.set_title(
+    "Predicted reporting breadth by region",
+    fontsize=14,
+    pad=20
+)
+
+ax2.text(
+    -0.06,
+    1.10,
+    "b)",
+    transform=ax2.transAxes,
+    fontsize=13,
+    fontweight="bold",
+    ha="left",
+    va="top",
+    clip_on=False
+)
+
+for spine in ax2.spines.values():
+    spine.set_visible(False)
 
 ax2.tick_params(axis="both", length=0)
 ax2.grid(axis="y", color=grid_color, linewidth=0.8)
@@ -740,9 +793,9 @@ note = (
 fig.subplots_adjust(
     left=0.08,
     right=0.98,
-    top=0.96,
+    top=0.82,
     bottom=0.30,
-    wspace=0.30
+    wspace=0.18
 )
 
 ##########################################################################
